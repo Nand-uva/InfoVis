@@ -1371,11 +1371,8 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1991,Unknown ,UNK,Sweden,SWE,6937,0,0,-,0,-,0
 1991,Unknown ,UNK,Switzerland,CHE,45622,0,0,-,0,-,0
 1992,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,3000,0,0,-,0,-,0
-1992,Azerbaijan,AZE,Armenia,ARM,300000,0,0,-,0,-,0
 1992,Serbia and Kosovo: S/RES/1244 (1999),SRB,Austria,AUT,42918,0,0,-,0,-,0
 1992,Unknown ,UNK,Austria,AUT,19437,0,0,-,0,-,0
-1992,Armenia,ARM,Azerbaijan,AZE,195000,0,0,-,0,-,0
-1992,Unknown ,UNK,Azerbaijan,AZE,51000,0,0,-,0,-,0
 1992,Unknown ,UNK,Belgium,BEL,24292,0,0,-,0,-,0
 1992,Serbia and Kosovo: S/RES/1244 (1999),SRB,Bulgaria,BGR,185,0,0,-,0,-,0
 1992,Unknown ,UNK,Bulgaria,BGR,33,0,0,-,0,-,0
@@ -1618,14 +1615,8 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1992,Unknown ,UNK,Sweden,SWE,7572,0,0,-,0,-,0
 1992,Unknown ,UNK,Switzerland,CHE,51930,0,0,-,0,-,0
 1993,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,3000,0,0,-,0,-,0
-1993,Armenia,ARM,Armenia,ARM,0,0,77000,-,0,-,0
-1993,Azerbaijan,AZE,Armenia,ARM,328000,0,0,-,0,-,0
-1993,Georgia,GEO,Armenia,ARM,6000,0,0,-,0,-,0
 1993,Serbia and Kosovo: S/RES/1244 (1999),SRB,Austria,AUT,39728,0,0,-,0,-,0
 1993,Unknown ,UNK,Austria,AUT,17959,0,0,-,0,-,0
-1993,Armenia,ARM,Azerbaijan,AZE,200000,0,0,-,0,-,0
-1993,Azerbaijan,AZE,Azerbaijan,AZE,0,0,778000,-,0,-,0
-1993,Unknown ,UNK,Azerbaijan,AZE,28840,0,0,-,0,-,0
 1993,Unknown ,UNK,Belgium,BEL,24908,0,0,-,0,-,0
 1993,Bosnia and Herzegovina,BIH,Bosnia and Herzegovina,BIH,0,0,1290000,-,0,-,0
 1993,Afghanistan,AFG,Bulgaria,BGR,208,0,0,-,0,-,0
@@ -1700,7 +1691,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1993,Unknown ,UNK,Finland,FIN,8511,0,0,-,0,-,0
 1993,Stateless,XXA,France,FRA,276,0,0,-,0,-,0
 1993,Unknown ,UNK,France,FRA,165993,0,0,-,0,-,0
-1993,Georgia,GEO,Georgia,GEO,0,0,260000,-,0,-,0
 1993,Stateless,XXA,Germany,DEU,22000,0,0,-,0,-,0
 1993,Unknown ,UNK,Germany,DEU,1396000,0,0,-,0,-,0
 1993,Afghanistan,AFG,Greece,GRC,13,0,0,-,0,-,0
@@ -1799,8 +1789,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1993,Uruguay,URY,Italy,ITA,25,0,0,-,0,-,0
 1993,Stateless,XXA,Italy,ITA,5,0,0,-,0,-,0
 1993,Unknown ,UNK,Italy,ITA,32016,0,0,-,0,-,0
-1993,Afghanistan,AFG,Kazakhstan,KAZ,2000,0,0,-,0,-,0
-1993,Tajikistan,TJK,Kazakhstan,KAZ,3000,0,0,-,0,-,0
 1993,Unknown ,UNK,Luxembourg,LUX,225,0,0,-,0,-,0
 1993,Albania,ALB,North Macedonia,MKD,240,0,0,-,0,-,0
 1993,Bosnia and Herzegovina,BIH,North Macedonia,MKD,28704,0,0,-,0,-,0
@@ -1982,17 +1970,7 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1993,Tibetan,TIB,Switzerland,CHE,1132,0,0,-,0,-,0
 1993,Unknown ,UNK,Switzerland,CHE,29712,0,0,-,0,-,0
 1994,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,3000,0,0,-,0,-,0
-1994,Armenia,ARM,Armenia,ARM,0,0,72000,-,0,-,0
-1994,Azerbaijan,AZE,Armenia,ARM,299000,0,0,-,0,-,0
-1994,Georgia,GEO,Armenia,ARM,5000,0,0,-,0,-,0
-1994,Iran (Islamic Rep. of),IRN,Armenia,ARM,5,0,0,-,0,-,0
-1994,Russian Federation,RUS,Armenia,ARM,35,0,0,-,0,-,0
 1994,Unknown ,UNK,Austria,AUT,40703,0,0,-,0,-,0
-1994,Armenia,ARM,Azerbaijan,AZE,201440,0,0,-,0,-,0
-1994,Azerbaijan,AZE,Azerbaijan,AZE,0,0,663100,-,0,-,0
-1994,Russian Federation,RUS,Azerbaijan,AZE,155,0,0,-,0,-,0
-1994,Uzbekistan,UZB,Azerbaijan,AZE,29015,0,0,-,0,-,0
-1994,Unknown ,UNK,Azerbaijan,AZE,1025,0,0,-,0,-,0
 1994,Unknown ,UNK,Belgium,BEL,19497,0,0,-,0,-,0
 1994,Afghanistan,AFG,Belarus,BLR,1607,0,0,-,0,-,0
 1994,Ethiopia,ETH,Belarus,BLR,80,0,0,-,0,-,0
@@ -2092,7 +2070,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1994,Serbia and Kosovo: S/RES/1244 (1999),SRB,France,FRA,15000,0,0,-,0,-,0
 1994,Stateless,XXA,France,FRA,964,0,0,-,0,-,0
 1994,Unknown ,UNK,France,FRA,159324,0,0,-,0,-,0
-1994,Georgia,GEO,Georgia,GEO,0,0,280000,-,0,-,0
 1994,Bosnia and Herzegovina,BIH,Germany,DEU,350000,0,0,-,0,-,0
 1994,Stateless,XXA,Germany,DEU,20600,0,0,-,0,-,0
 1994,Unknown ,UNK,Germany,DEU,984000,0,0,-,0,-,0
@@ -2200,13 +2177,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1994,Uruguay,URY,Italy,ITA,25,0,0,-,0,-,0
 1994,Stateless,XXA,Italy,ITA,5,0,0,-,0,-,0
 1994,Unknown ,UNK,Italy,ITA,55966,0,0,-,0,-,0
-1994,Afghanistan,AFG,Kazakhstan,KAZ,2000,0,0,-,0,-,0
-1994,Bosnia and Herzegovina,BIH,Kazakhstan,KAZ,5,0,0,-,0,-,0
-1994,Georgia,GEO,Kazakhstan,KAZ,5,0,0,-,0,-,0
-1994,India,IND,Kazakhstan,KAZ,5,0,0,-,0,-,0
-1994,Somalia,SOM,Kazakhstan,KAZ,6,0,0,-,0,-,0
-1994,Tajikistan,TJK,Kazakhstan,KAZ,3000,0,0,-,0,-,0
-1994,Yemen,YEM,Kazakhstan,KAZ,7,0,0,-,0,-,0
 1994,Unknown ,UNK,Luxembourg,LUX,300,0,0,-,0,-,0
 1994,Albania,ALB,North Macedonia,MKD,98,0,0,-,0,-,0
 1994,Bosnia and Herzegovina,BIH,North Macedonia,MKD,12793,0,0,-,0,-,0
@@ -2423,13 +2393,7 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1995,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,4018,0,0,-,0,-,0
 1995,Syrian Arab Rep.,SYR,Albania,ALB,5,0,0,-,0,-,0
 1995,Türkiye,TUR,Albania,ALB,150,0,0,-,0,-,0
-1995,Armenia,ARM,Armenia,ARM,0,0,72000,-,0,-,0
-1995,Azerbaijan,AZE,Armenia,ARM,200000,0,0,-,0,-,0
-1995,Unknown ,UNK,Armenia,ARM,18950,0,0,-,0,-,0
 1995,Unknown ,UNK,Austria,AUT,34385,0,0,-,0,-,0
-1995,Armenia,ARM,Azerbaijan,AZE,200000,0,0,-,0,-,0
-1995,Azerbaijan,AZE,Azerbaijan,AZE,0,0,622100,-,0,-,0
-1995,Unknown ,UNK,Azerbaijan,AZE,33682,0,0,-,0,-,0
 1995,Unknown ,UNK,Belgium,BEL,31691,0,0,-,0,-,0
 1995,Unknown ,UNK,Belarus,BLR,28988,0,0,-,0,-,0
 1995,Bosnia and Herzegovina,BIH,Bosnia and Herzegovina,BIH,0,0,1097800,-,0,-,0
@@ -2620,8 +2584,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1995,Stateless,XXA,France,FRA,916,0,0,-,0,-,0
 1995,Tibetan,TIB,France,FRA,30,0,0,-,0,-,0
 1995,Unknown ,UNK,France,FRA,26066,0,0,-,0,-,0
-1995,Georgia,GEO,Georgia,GEO,0,0,272400,-,0,-,0
-1995,Unknown ,UNK,Georgia,GEO,100,0,0,-,0,-,0
 1995,Bosnia and Herzegovina,BIH,Germany,DEU,320000,0,0,-,0,-,0
 1995,Stateless,XXA,Germany,DEU,18800,0,0,-,0,-,0
 1995,Unknown ,UNK,Germany,DEU,929100,0,0,-,0,-,0
@@ -2694,10 +2656,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1995,Uruguay,URY,Italy,ITA,5,0,0,-,0,-,0
 1995,Stateless,XXA,Italy,ITA,5,0,0,-,0,-,0
 1995,Unknown ,UNK,Italy,ITA,16,0,0,-,0,-,0
-1995,Afghanistan,AFG,Kazakhstan,KAZ,3500,0,0,-,0,-,0
-1995,Russian Federation,RUS,Kazakhstan,KAZ,6000,0,0,-,0,-,0
-1995,Tajikistan,TJK,Kazakhstan,KAZ,6000,0,0,-,0,-,0
-1995,Unknown ,UNK,Kazakhstan,KAZ,61,0,0,-,0,-,0
 1995,Unknown ,UNK,Luxembourg,LUX,700,0,0,-,0,-,0
 1995,Bosnia and Herzegovina,BIH,North Macedonia,MKD,9048,0,0,-,0,-,0
 1995,Algeria,DZA,Malta,MLT,22,0,0,-,0,-,0
@@ -2908,16 +2866,8 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1996,Syrian Arab Rep.,SYR,Albania,ALB,5,0,0,-,0,-,0
 1996,Türkiye,TUR,Albania,ALB,150,0,0,-,0,-,0
 1996,Unknown ,UNK,Albania,ALB,200,0,0,-,0,-,0
-1996,Armenia,ARM,Armenia,ARM,0,0,72000,-,0,-,0
-1996,Azerbaijan,AZE,Armenia,ARM,200000,0,0,-,0,-,0
-1996,Unknown ,UNK,Armenia,ARM,18950,0,0,-,0,-,0
 1996,Bosnia and Herzegovina,BIH,Austria,AUT,74131,0,0,-,0,-,0
 1996,Unknown ,UNK,Austria,AUT,14985,0,0,-,0,-,0
-1996,Armenia,ARM,Azerbaijan,AZE,198000,0,0,-,0,-,0
-1996,Azerbaijan,AZE,Azerbaijan,AZE,0,0,549030,-,0,-,0
-1996,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,5,0,0,-,0,-,0
-1996,Iraq,IRQ,Azerbaijan,AZE,6,0,0,-,0,-,0
-1996,Uzbekistan,UZB,Azerbaijan,AZE,35682,0,0,-,0,-,0
 1996,Afghanistan,AFG,Belgium,BEL,224,0,0,-,0,-,0
 1996,Albania,ALB,Belgium,BEL,691,0,0,-,0,-,0
 1996,Angola,AGO,Belgium,BEL,449,0,0,-,0,-,0
@@ -3145,8 +3095,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1996,Stateless,XXA,France,FRA,869,0,0,-,0,-,0
 1996,Tibetan,TIB,France,FRA,32,0,0,-,0,-,0
 1996,Unknown ,UNK,France,FRA,26185,0,0,-,0,-,0
-1996,Georgia,GEO,Georgia,GEO,0,0,272359,-,0,-,0
-1996,Unknown ,UNK,Georgia,GEO,95,0,0,-,0,-,0
 1996,Bosnia and Herzegovina,BIH,Germany,DEU,330000,0,0,-,0,-,0
 1996,Stateless,XXA,Germany,DEU,17000,0,0,-,0,-,0
 1996,Unknown ,UNK,Germany,DEU,919000,0,0,-,0,-,0
@@ -3222,10 +3170,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1996,Uruguay,URY,Italy,ITA,5,0,0,-,0,-,0
 1996,Stateless,XXA,Italy,ITA,6,0,0,-,0,-,0
 1996,Unknown ,UNK,Italy,ITA,30,0,0,-,0,-,0
-1996,Afghanistan,AFG,Kazakhstan,KAZ,3500,0,0,-,0,-,0
-1996,Russian Federation,RUS,Kazakhstan,KAZ,6000,0,0,-,0,-,0
-1996,Tajikistan,TJK,Kazakhstan,KAZ,6000,0,0,-,0,-,0
-1996,Unknown ,UNK,Kazakhstan,KAZ,77,0,0,-,0,-,0
 1996,Unknown ,UNK,Luxembourg,LUX,700,0,0,-,0,-,0
 1996,Bosnia and Herzegovina,BIH,North Macedonia,MKD,5089,0,0,-,0,-,0
 1996,Algeria,DZA,Malta,MLT,38,0,0,-,0,-,0
@@ -3466,17 +3410,8 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1997,Iraq,IRQ,Albania,ALB,5,0,0,-,0,-,0
 1997,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,24,0,0,-,0,-,0
 1997,Syrian Arab Rep.,SYR,Albania,ALB,5,0,0,-,0,-,0
-1997,Armenia,ARM,Armenia,ARM,0,0,72000,-,0,-,0
-1997,Azerbaijan,AZE,Armenia,ARM,200000,0,0,-,0,-,0
-1997,Unknown ,UNK,Armenia,ARM,19000,0,0,-,0,-,0
 1997,Bosnia and Herzegovina,BIH,Austria,AUT,69885,0,0,-,0,-,0
 1997,Unknown ,UNK,Austria,AUT,14509,0,0,-,0,-,0
-1997,Afghanistan,AFG,Azerbaijan,AZE,5,0,0,-,0,-,0
-1997,Armenia,ARM,Azerbaijan,AZE,198000,0,0,-,0,-,0
-1997,Azerbaijan,AZE,Azerbaijan,AZE,0,0,551077,-,0,-,0
-1997,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,16,0,0,-,0,-,0
-1997,Iraq,IRQ,Azerbaijan,AZE,13,0,0,-,0,-,0
-1997,Uzbekistan,UZB,Azerbaijan,AZE,35682,0,0,-,0,-,0
 1997,Afghanistan,AFG,Belgium,BEL,224,0,0,-,0,-,0
 1997,Albania,ALB,Belgium,BEL,691,0,0,-,0,-,0
 1997,Angola,AGO,Belgium,BEL,449,0,0,-,0,-,0
@@ -3663,13 +3598,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1997,Stateless,XXA,France,FRA,893,0,0,-,0,-,0
 1997,Tibetan,TIB,France,FRA,35,0,0,-,0,-,0
 1997,Unknown ,UNK,France,FRA,26432,0,0,-,0,-,0
-1997,Azerbaijan,AZE,Georgia,GEO,136,0,0,-,0,-,0
-1997,Georgia,GEO,Georgia,GEO,0,0,273386,-,0,-,0
-1997,Kazakhstan,KAZ,Georgia,GEO,5,0,0,-,0,-,0
-1997,Kyrgyzstan,KGZ,Georgia,GEO,5,0,0,-,0,-,0
-1997,Russian Federation,RUS,Georgia,GEO,5,0,0,-,0,-,0
-1997,Ukraine,UKR,Georgia,GEO,5,0,0,-,0,-,0
-1997,Uzbekistan,UZB,Georgia,GEO,5,0,0,-,0,-,0
 1997,Bosnia and Herzegovina,BIH,Germany,DEU,245000,0,0,-,0,-,0
 1997,Stateless,XXA,Germany,DEU,16000,0,0,-,0,-,0
 1997,Unknown ,UNK,Germany,DEU,788000,0,0,-,0,-,0
@@ -3748,21 +3676,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1997,Ukraine,UKR,Italy,ITA,6,0,0,-,0,-,0
 1997,Stateless,XXA,Italy,ITA,6,0,0,-,0,-,0
 1997,Unknown ,UNK,Italy,ITA,30,0,0,-,0,-,0
-1997,Afghanistan,AFG,Kazakhstan,KAZ,1648,0,0,-,0,-,0
-1997,Azerbaijan,AZE,Kazakhstan,KAZ,20,0,0,-,0,-,0
-1997,China,CHN,Kazakhstan,KAZ,23,0,0,-,0,-,0
-1997,Georgia,GEO,Kazakhstan,KAZ,5,0,0,-,0,-,0
-1997,India,IND,Kazakhstan,KAZ,6,0,0,-,0,-,0
-1997,Iraq,IRQ,Kazakhstan,KAZ,15,0,0,-,0,-,0
-1997,Lao People's Dem. Rep.,LAO,Kazakhstan,KAZ,5,0,0,-,0,-,0
-1997,Rep. of Moldova,MDA,Kazakhstan,KAZ,5,0,0,-,0,-,0
-1997,Pakistan,PAK,Kazakhstan,KAZ,9,0,0,-,0,-,0
-1997,Russian Federation,RUS,Kazakhstan,KAZ,548,0,0,-,0,-,0
-1997,Rwanda,RWA,Kazakhstan,KAZ,5,0,0,-,0,-,0
-1997,Sierra Leone,SLE,Kazakhstan,KAZ,5,0,0,-,0,-,0
-1997,Syrian Arab Rep.,SYR,Kazakhstan,KAZ,5,0,0,-,0,-,0
-1997,Tajikistan,TJK,Kazakhstan,KAZ,440,0,0,-,0,-,0
-1997,Unknown ,UNK,Kazakhstan,KAZ,12846,0,0,-,0,-,0
 1997,Iraq,IRQ,Lithuania,LTU,5,0,0,-,0,-,0
 1997,Unknown ,UNK,Luxembourg,LUX,700,0,0,-,0,-,0
 1997,Bosnia and Herzegovina,BIH,North Macedonia,MKD,3500,0,0,-,0,-,0
@@ -4120,7 +4033,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1998,Iraq,IRQ,Albania,ALB,5,0,0,-,0,-,0
 1998,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,22324,0,0,-,0,-,0
 1998,Syrian Arab Rep.,SYR,Albania,ALB,5,0,0,-,0,-,0
-1998,Azerbaijan,AZE,Armenia,ARM,310012,0,0,-,0,-,0
 1998,Afghanistan,AFG,Austria,AUT,322,0,0,-,0,-,0
 1998,Albania,ALB,Austria,AUT,101,0,0,-,0,-,0
 1998,Algeria,DZA,Austria,AUT,5,0,0,-,0,-,0
@@ -4177,12 +4089,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1998,Uzbekistan,UZB,Austria,AUT,5,0,0,-,0,-,0
 1998,Stateless,XXA,Austria,AUT,36,0,0,-,0,-,0
 1998,Unknown ,UNK,Austria,AUT,392,0,0,-,0,-,0
-1998,Afghanistan,AFG,Azerbaijan,AZE,5,0,0,-,0,-,0
-1998,Armenia,ARM,Azerbaijan,AZE,188400,0,0,-,0,-,0
-1998,Azerbaijan,AZE,Azerbaijan,AZE,0,0,576321,-,0,-,0
-1998,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,9,0,0,-,0,-,0
-1998,Iraq,IRQ,Azerbaijan,AZE,6,0,0,-,0,-,0
-1998,Uzbekistan,UZB,Azerbaijan,AZE,33216,0,0,-,0,-,0
 1998,Afghanistan,AFG,Belgium,BEL,182,0,0,-,0,-,0
 1998,Albania,ALB,Belgium,BEL,97,0,0,-,0,-,0
 1998,Algeria,DZA,Belgium,BEL,143,0,0,-,0,-,0
@@ -4529,9 +4435,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1998,Uruguay,URY,France,FRA,5,0,0,-,0,-,0
 1998,Tibetan,TIB,France,FRA,35,0,0,-,0,-,0
 1998,Unknown ,UNK,France,FRA,26051,0,0,-,0,-,0
-1998,Azerbaijan,AZE,Georgia,GEO,14,0,0,-,0,-,0
-1998,Georgia,GEO,Georgia,GEO,0,0,277006,-,0,-,0
-1998,Russian Federation,RUS,Georgia,GEO,5,0,0,-,0,-,0
 1998,Bosnia and Herzegovina,BIH,Germany,DEU,100000,0,0,-,0,-,0
 1998,Unknown ,UNK,Germany,DEU,849200,0,0,-,0,-,0
 1998,Afghanistan,AFG,Greece,GRC,33,0,0,-,0,-,0
@@ -4601,18 +4504,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1998,Ukraine,UKR,Italy,ITA,6,0,0,-,0,-,0
 1998,Stateless,XXA,Italy,ITA,6,0,0,-,0,-,0
 1998,Unknown ,UNK,Italy,ITA,30,0,0,-,0,-,0
-1998,Afghanistan,AFG,Kazakhstan,KAZ,2081,0,0,-,0,-,0
-1998,Azerbaijan,AZE,Kazakhstan,KAZ,20,0,0,-,0,-,0
-1998,China,CHN,Kazakhstan,KAZ,23,0,0,-,0,-,0
-1998,Georgia,GEO,Kazakhstan,KAZ,5,0,0,-,0,-,0
-1998,India,IND,Kazakhstan,KAZ,6,0,0,-,0,-,0
-1998,Iraq,IRQ,Kazakhstan,KAZ,15,0,0,-,0,-,0
-1998,Pakistan,PAK,Kazakhstan,KAZ,9,0,0,-,0,-,0
-1998,Russian Federation,RUS,Kazakhstan,KAZ,532,0,0,-,0,-,0
-1998,Rwanda,RWA,Kazakhstan,KAZ,5,0,0,-,0,-,0
-1998,Sierra Leone,SLE,Kazakhstan,KAZ,5,0,0,-,0,-,0
-1998,Syrian Arab Rep.,SYR,Kazakhstan,KAZ,5,0,0,-,0,-,0
-1998,Tajikistan,TJK,Kazakhstan,KAZ,5637,0,0,-,0,-,0
 1998,Afghanistan,AFG,Lithuania,LTU,25,0,0,-,0,-,0
 1998,Iraq,IRQ,Lithuania,LTU,5,0,0,-,0,-,0
 1998,Unknown ,UNK,Luxembourg,LUX,700,0,0,-,0,-,0
@@ -5043,7 +4934,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1999,Croatia,HRV,Albania,ALB,5,0,0,-,0,-,0
 1999,Iraq,IRQ,Albania,ALB,9,0,0,-,0,-,0
 1999,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,3918,0,0,-,0,-,0
-1999,Azerbaijan,AZE,Armenia,ARM,296215,0,0,-,0,-,0
 1999,Afghanistan,AFG,Austria,AUT,401,0,0,-,0,-,0
 1999,Albania,ALB,Austria,AUT,111,0,0,-,0,-,0
 1999,Algeria,DZA,Austria,AUT,5,0,0,-,0,-,0
@@ -5101,12 +4991,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1999,Uzbekistan,UZB,Austria,AUT,5,0,0,-,0,-,0
 1999,Stateless,XXA,Austria,AUT,42,0,0,-,0,-,0
 1999,Unknown ,UNK,Austria,AUT,1263,0,0,-,0,-,0
-1999,Afghanistan,AFG,Azerbaijan,AZE,8,0,0,-,0,-,0
-1999,Armenia,ARM,Azerbaijan,AZE,188400,0,0,-,0,-,0
-1999,Azerbaijan,AZE,Azerbaijan,AZE,0,0,569550,-,0,-,0
-1999,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,11,0,0,-,0,-,0
-1999,Iraq,IRQ,Azerbaijan,AZE,7,0,0,-,0,-,0
-1999,Uzbekistan,UZB,Azerbaijan,AZE,33216,0,0,-,0,-,0
 1999,Afghanistan,AFG,Belgium,BEL,232,0,0,-,0,-,0
 1999,Albania,ALB,Belgium,BEL,114,0,0,-,0,-,0
 1999,Algeria,DZA,Belgium,BEL,183,0,0,-,0,-,0
@@ -5414,11 +5298,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1999,Stateless,XXA,France,FRA,778,0,0,-,0,-,0
 1999,Tibetan,TIB,France,FRA,36,0,0,-,0,-,0
 1999,Unknown ,UNK,France,FRA,21865,0,0,-,0,-,0
-1999,Afghanistan,AFG,Georgia,GEO,5,0,0,-,0,-,0
-1999,Azerbaijan,AZE,Georgia,GEO,13,0,0,-,0,-,0
-1999,Georgia,GEO,Georgia,GEO,0,0,278533,-,0,-,0
-1999,Russian Federation,RUS,Georgia,GEO,5163,0,0,-,0,-,0
-1999,Stateless,XXA,Georgia,GEO,0,0,0,-,0,-,110
 1999,Bosnia and Herzegovina,BIH,Germany,DEU,50000,0,0,-,0,-,0
 1999,Unknown ,UNK,Germany,DEU,925500,0,0,-,0,-,0
 1999,Afghanistan,AFG,Greece,GRC,57,0,0,-,0,-,0
@@ -5543,19 +5422,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 1999,Ukraine,UKR,Italy,ITA,6,0,0,-,0,-,0
 1999,Stateless,XXA,Italy,ITA,7,0,0,-,0,-,0
 1999,Unknown ,UNK,Italy,ITA,31,0,0,-,0,-,0
-1999,Afghanistan,AFG,Kazakhstan,KAZ,2296,0,0,-,0,-,0
-1999,Algeria,DZA,Kazakhstan,KAZ,5,0,0,-,0,-,0
-1999,Azerbaijan,AZE,Kazakhstan,KAZ,20,0,0,-,0,-,0
-1999,China,CHN,Kazakhstan,KAZ,23,0,0,-,0,-,0
-1999,Georgia,GEO,Kazakhstan,KAZ,10,0,0,-,0,-,0
-1999,India,IND,Kazakhstan,KAZ,6,0,0,-,0,-,0
-1999,Iraq,IRQ,Kazakhstan,KAZ,17,0,0,-,0,-,0
-1999,Pakistan,PAK,Kazakhstan,KAZ,9,0,0,-,0,-,0
-1999,Russian Federation,RUS,Kazakhstan,KAZ,7043,0,0,-,0,-,0
-1999,Rwanda,RWA,Kazakhstan,KAZ,5,0,0,-,0,-,0
-1999,Sierra Leone,SLE,Kazakhstan,KAZ,5,0,0,-,0,-,0
-1999,Syrian Arab Rep.,SYR,Kazakhstan,KAZ,5,0,0,-,0,-,0
-1999,Tajikistan,TJK,Kazakhstan,KAZ,5355,0,0,-,0,-,0
 1999,Afghanistan,AFG,Lithuania,LTU,28,0,0,-,0,-,0
 1999,Iran (Islamic Rep. of),IRN,Lithuania,LTU,5,0,0,-,0,-,0
 1999,Iraq,IRQ,Lithuania,LTU,5,0,0,-,0,-,0
@@ -6009,7 +5875,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2000,Iraq,IRQ,Albania,ALB,9,0,0,-,0,-,0
 2000,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,507,5,0,-,0,-,0
 2000,Türkiye,TUR,Albania,ALB,5,0,0,-,0,-,0
-2000,Azerbaijan,AZE,Armenia,ARM,280586,0,0,-,0,-,0
 2000,Afghanistan,AFG,Austria,AUT,679,0,0,-,0,-,0
 2000,Albania,ALB,Austria,AUT,120,0,0,-,0,-,0
 2000,Algeria,DZA,Austria,AUT,5,0,0,-,0,-,0
@@ -6070,16 +5935,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2000,Uzbekistan,UZB,Austria,AUT,5,0,0,-,0,-,0
 2000,Stateless,XXA,Austria,AUT,32,0,0,-,0,-,0
 2000,Unknown ,UNK,Austria,AUT,1615,9945,0,-,0,-,0
-2000,Afghanistan,AFG,Azerbaijan,AZE,172,843,0,-,0,-,0
-2000,Azerbaijan,AZE,Azerbaijan,AZE,0,0,572451,-,0,-,0
-2000,Palestinian,PSE,Azerbaijan,AZE,0,5,0,-,0,-,0
-2000,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,25,42,0,-,0,-,0
-2000,Iraq,IRQ,Azerbaijan,AZE,19,11,0,-,0,-,0
-2000,Pakistan,PAK,Azerbaijan,AZE,0,5,0,-,0,-,0
-2000,Russian Federation,RUS,Azerbaijan,AZE,64,2462,0,-,0,-,0
-2000,Türkiye,TUR,Azerbaijan,AZE,0,5,0,-,0,-,0
-2000,Uzbekistan,UZB,Azerbaijan,AZE,0,0,0,-,0,-,51649
-2000,Yemen,YEM,Azerbaijan,AZE,0,5,0,-,0,-,0
 2000,Afghanistan,AFG,Belgium,BEL,275,0,0,-,0,-,0
 2000,Albania,ALB,Belgium,BEL,134,0,0,-,0,-,0
 2000,Algeria,DZA,Belgium,BEL,216,0,0,-,0,-,0
@@ -6435,11 +6290,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2000,Ukraine,UKR,France,FRA,363,0,0,-,0,-,0
 2000,Stateless,XXA,France,FRA,322,0,0,-,0,-,0
 2000,Unknown ,UNK,France,FRA,33538,0,0,-,0,-,0
-2000,Afghanistan,AFG,Georgia,GEO,5,0,0,-,0,-,0
-2000,Azerbaijan,AZE,Georgia,GEO,13,0,0,-,0,-,0
-2000,Georgia,GEO,Georgia,GEO,0,0,272101,-,0,-,0
-2000,Russian Federation,RUS,Georgia,GEO,7603,0,0,-,0,-,0
-2000,Stateless,XXA,Georgia,GEO,0,0,0,-,0,-,100
 2000,Afghanistan,AFG,Germany,DEU,0,9229,0,-,0,-,0
 2000,Albania,ALB,Germany,DEU,0,122,0,-,0,-,0
 2000,Algeria,DZA,Germany,DEU,0,403,0,-,0,-,0
@@ -6696,21 +6546,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2000,Ukraine,UKR,Italy,ITA,11,0,0,-,0,-,0
 2000,Stateless,XXA,Italy,ITA,7,0,0,-,0,-,0
 2000,Unknown ,UNK,Italy,ITA,585,113,0,-,0,-,0
-2000,Afghanistan,AFG,Kazakhstan,KAZ,2460,0,0,-,0,-,0
-2000,Algeria,DZA,Kazakhstan,KAZ,8,0,0,-,0,-,0
-2000,Azerbaijan,AZE,Kazakhstan,KAZ,20,0,0,-,0,-,0
-2000,China,CHN,Kazakhstan,KAZ,27,5,0,-,0,-,0
-2000,Palestinian,PSE,Kazakhstan,KAZ,351,0,0,-,0,-,0
-2000,Georgia,GEO,Kazakhstan,KAZ,10,0,0,-,0,-,0
-2000,India,IND,Kazakhstan,KAZ,7,0,0,-,0,-,0
-2000,Iraq,IRQ,Kazakhstan,KAZ,16,0,0,-,0,-,0
-2000,Pakistan,PAK,Kazakhstan,KAZ,9,0,0,-,0,-,0
-2000,Russian Federation,RUS,Kazakhstan,KAZ,12671,0,0,-,0,-,0
-2000,Rwanda,RWA,Kazakhstan,KAZ,5,0,0,-,0,-,0
-2000,Sierra Leone,SLE,Kazakhstan,KAZ,5,0,0,-,0,-,0
-2000,Syrian Arab Rep.,SYR,Kazakhstan,KAZ,5,0,0,-,0,-,0
-2000,Tajikistan,TJK,Kazakhstan,KAZ,4982,0,0,-,0,-,0
-2000,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,0,-,160000
 2000,Viet Nam,VNM,Liechtenstein,LIE,38,0,0,-,0,-,0
 2000,Tibetan,TIB,Liechtenstein,LIE,32,0,0,-,0,-,0
 2000,Afghanistan,AFG,Lithuania,LTU,36,5,0,-,0,-,10
@@ -7227,9 +7062,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2001,North Macedonia,MKD,Albania,ALB,6,29,0,-,0,-,0
 2001,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,278,5,0,-,0,-,0
 2001,Türkiye,TUR,Albania,ALB,0,37,0,-,0,-,0
-2001,Azerbaijan,AZE,Armenia,ARM,264327,0,0,-,0,-,0
-2001,Iran (Islamic Rep. of),IRN,Armenia,ARM,5,0,0,-,0,-,0
-2001,Iraq,IRQ,Armenia,ARM,5,0,0,-,0,-,0
 2001,Afghanistan,AFG,Austria,AUT,1049,0,0,-,0,-,0
 2001,Albania,ALB,Austria,AUT,134,0,0,-,0,-,0
 2001,Algeria,DZA,Austria,AUT,6,0,0,-,0,-,0
@@ -7289,17 +7121,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2001,Uzbekistan,UZB,Austria,AUT,6,0,0,-,0,-,0
 2001,Stateless,XXA,Austria,AUT,41,0,0,-,0,-,0
 2001,Unknown ,UNK,Austria,AUT,1834,15187,0,-,0,-,0
-2001,Afghanistan,AFG,Azerbaijan,AZE,243,931,0,-,0,-,0
-2001,Azerbaijan,AZE,Azerbaijan,AZE,0,0,572955,-,0,-,0
-2001,Palestinian,PSE,Azerbaijan,AZE,7,5,0,-,0,-,0
-2001,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,11,144,0,-,0,-,0
-2001,Iraq,IRQ,Azerbaijan,AZE,30,41,0,-,0,-,0
-2001,Sri Lanka,LKA,Azerbaijan,AZE,0,8,0,-,0,-,0
-2001,Pakistan,PAK,Azerbaijan,AZE,0,9,0,-,0,-,0
-2001,Russian Federation,RUS,Azerbaijan,AZE,72,5394,0,-,0,-,0
-2001,Türkiye,TUR,Azerbaijan,AZE,0,5,0,-,0,-,0
-2001,Uzbekistan,UZB,Azerbaijan,AZE,0,0,0,-,0,-,7427
-2001,Yemen,YEM,Azerbaijan,AZE,0,9,0,-,0,-,0
 2001,Afghanistan,AFG,Belgium,BEL,357,0,0,-,0,-,0
 2001,Albania,ALB,Belgium,BEL,175,0,0,-,0,-,0
 2001,Algeria,DZA,Belgium,BEL,166,0,0,-,0,-,0
@@ -7702,11 +7523,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2001,Uzbekistan,UZB,France,FRA,19,0,0,-,0,-,0
 2001,Stateless,XXA,France,FRA,738,0,0,-,0,-,0
 2001,Unknown ,UNK,France,FRA,32367,34551,0,-,0,-,0
-2001,Afghanistan,AFG,Georgia,GEO,5,0,0,-,0,-,0
-2001,Azerbaijan,AZE,Georgia,GEO,13,0,0,-,0,-,0
-2001,Georgia,GEO,Georgia,GEO,0,0,264221,-,0,-,0
-2001,Russian Federation,RUS,Georgia,GEO,7884,0,0,-,0,-,0
-2001,Stateless,XXA,Georgia,GEO,0,0,0,-,0,-,32
 2001,Afghanistan,AFG,Germany,DEU,0,10057,0,-,0,-,0
 2001,Albania,ALB,Germany,DEU,0,159,0,-,0,-,0
 2001,Algeria,DZA,Germany,DEU,0,702,0,-,0,-,0
@@ -8010,15 +7826,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2001,Ukraine,UKR,Italy,ITA,22,0,0,-,0,-,0
 2001,Stateless,XXA,Italy,ITA,7,0,0,-,0,-,0
 2001,Unknown ,UNK,Italy,ITA,695,0,0,-,0,-,0
-2001,Afghanistan,AFG,Kazakhstan,KAZ,2353,10,0,-,0,-,0
-2001,Azerbaijan,AZE,Kazakhstan,KAZ,5,0,0,-,0,-,0
-2001,China,CHN,Kazakhstan,KAZ,10,0,0,-,0,-,0
-2001,Ethiopia,ETH,Kazakhstan,KAZ,5,0,0,-,0,-,0
-2001,Palestinian,PSE,Kazakhstan,KAZ,1150,0,0,-,0,-,0
-2001,Iraq,IRQ,Kazakhstan,KAZ,6,0,0,-,0,-,0
-2001,Russian Federation,RUS,Kazakhstan,KAZ,11895,0,0,-,0,-,0
-2001,Tajikistan,TJK,Kazakhstan,KAZ,4105,0,0,-,0,-,0
-2001,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,0,-,100000
 2001,Armenia,ARM,Liechtenstein,LIE,0,8,0,-,0,-,0
 2001,Bosnia and Herzegovina,BIH,Liechtenstein,LIE,63,9,0,-,0,-,0
 2001,North Macedonia,MKD,Liechtenstein,LIE,0,41,0,-,0,-,0
@@ -8554,9 +8361,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2002,Iraq,IRQ,Albania,ALB,5,5,0,-,0,-,0
 2002,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,6,30,0,-,0,-,0
 2002,Türkiye,TUR,Albania,ALB,7,11,0,-,0,-,0
-2002,Azerbaijan,AZE,Armenia,ARM,247538,0,0,-,0,-,0
-2002,Iran (Islamic Rep. of),IRN,Armenia,ARM,5,0,0,-,0,-,0
-2002,Iraq,IRQ,Armenia,ARM,6,0,0,-,0,-,0
 2002,Afghanistan,AFG,Austria,AUT,1270,0,0,-,0,-,0
 2002,Albania,ALB,Austria,AUT,134,0,0,-,0,-,0
 2002,Algeria,DZA,Austria,AUT,6,0,0,-,0,-,0
@@ -8618,17 +8422,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2002,Uzbekistan,UZB,Austria,AUT,6,0,0,-,0,-,0
 2002,Stateless,XXA,Austria,AUT,44,0,0,-,0,-,0
 2002,Unknown ,UNK,Austria,AUT,2789,29494,0,-,0,-,0
-2002,Afghanistan,AFG,Azerbaijan,AZE,257,919,0,-,0,-,0
-2002,Algeria,DZA,Azerbaijan,AZE,0,5,0,-,0,-,0
-2002,Azerbaijan,AZE,Azerbaijan,AZE,0,0,577179,-,0,-,0
-2002,Palestinian,PSE,Azerbaijan,AZE,14,0,0,-,0,-,0
-2002,India,IND,Azerbaijan,AZE,0,5,0,-,0,-,0
-2002,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,23,184,0,-,0,-,0
-2002,Iraq,IRQ,Azerbaijan,AZE,43,51,0,-,0,-,0
-2002,Russian Federation,RUS,Azerbaijan,AZE,116,6941,0,-,0,-,0
-2002,Turkmenistan,TKM,Azerbaijan,AZE,0,6,0,-,0,-,0
-2002,Türkiye,TUR,Azerbaijan,AZE,0,5,0,-,0,-,0
-2002,Uzbekistan,UZB,Azerbaijan,AZE,0,0,0,-,0,-,2461
 2002,Afghanistan,AFG,Belgium,BEL,248,0,0,-,0,-,0
 2002,Albania,ALB,Belgium,BEL,186,0,0,-,0,-,0
 2002,Algeria,DZA,Belgium,BEL,117,0,0,-,0,-,0
@@ -9035,11 +8828,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2002,Uzbekistan,UZB,France,FRA,33,0,0,-,0,-,0
 2002,Stateless,XXA,France,FRA,844,0,0,-,0,-,0
 2002,Unknown ,UNK,France,FRA,30000,34588,0,-,0,-,0
-2002,Afghanistan,AFG,Georgia,GEO,5,0,0,-,0,-,0
-2002,Azerbaijan,AZE,Georgia,GEO,13,0,0,-,0,-,0
-2002,Georgia,GEO,Georgia,GEO,0,0,261583,-,0,-,0
-2002,Russian Federation,RUS,Georgia,GEO,4176,0,0,-,0,-,0
-2002,Stateless,XXA,Georgia,GEO,0,0,0,-,0,-,32
 2002,Afghanistan,AFG,Germany,DEU,52289,12074,0,-,0,-,0
 2002,Albania,ALB,Germany,DEU,2073,163,0,-,0,-,0
 2002,Algeria,DZA,Germany,DEU,3794,571,0,-,0,-,0
@@ -9419,15 +9207,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2002,Ukraine,UKR,Italy,ITA,22,0,0,-,0,-,0
 2002,Stateless,XXA,Italy,ITA,7,0,0,-,0,-,0
 2002,Unknown ,UNK,Italy,ITA,771,0,0,-,0,-,0
-2002,Afghanistan,AFG,Kazakhstan,KAZ,2250,0,0,-,0,-,0
-2002,Azerbaijan,AZE,Kazakhstan,KAZ,5,0,0,-,0,-,0
-2002,China,CHN,Kazakhstan,KAZ,23,0,0,-,0,-,0
-2002,Ethiopia,ETH,Kazakhstan,KAZ,5,0,0,-,0,-,0
-2002,Palestinian,PSE,Kazakhstan,KAZ,1149,0,0,-,0,-,0
-2002,Iraq,IRQ,Kazakhstan,KAZ,6,0,0,-,0,-,0
-2002,Russian Federation,RUS,Kazakhstan,KAZ,13695,0,0,-,0,-,0
-2002,Tajikistan,TJK,Kazakhstan,KAZ,3477,0,0,-,0,-,0
-2002,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,0,-,83200
 2002,Armenia,ARM,Liechtenstein,LIE,8,8,0,-,0,-,0
 2002,Bosnia and Herzegovina,BIH,Liechtenstein,LIE,65,6,0,-,0,-,0
 2002,North Macedonia,MKD,Liechtenstein,LIE,0,39,0,-,0,-,0
@@ -10007,10 +9786,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2003,North Macedonia,MKD,Albania,ALB,0,10,0,-,0,-,0
 2003,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,10,76,0,-,0,-,0
 2003,Türkiye,TUR,Albania,ALB,7,0,0,-,0,-,0
-2003,Azerbaijan,AZE,Armenia,ARM,239250,0,0,-,0,-,0
-2003,Iran (Islamic Rep. of),IRN,Armenia,ARM,5,0,0,-,0,-,0
-2003,Iraq,IRQ,Armenia,ARM,34,25,0,-,0,-,0
-2003,Syrian Arab Rep.,SYR,Armenia,ARM,0,5,0,-,0,-,0
 2003,Afghanistan,AFG,Austria,AUT,1595,0,0,-,0,-,0
 2003,Albania,ALB,Austria,AUT,149,0,0,-,0,-,0
 2003,Algeria,DZA,Austria,AUT,7,0,0,-,0,-,0
@@ -10074,16 +9849,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2003,Uzbekistan,UZB,Austria,AUT,6,0,0,-,0,-,0
 2003,Stateless,XXA,Austria,AUT,66,0,0,-,0,-,0
 2003,Unknown ,UNK,Austria,AUT,3885,33564,0,-,0,-,0
-2003,Afghanistan,AFG,Azerbaijan,AZE,171,925,0,-,0,-,0
-2003,Azerbaijan,AZE,Azerbaijan,AZE,0,0,575609,-,0,-,0
-2003,Palestinian,PSE,Azerbaijan,AZE,9,11,0,-,0,-,0
-2003,Georgia,GEO,Azerbaijan,AZE,0,5,0,-,0,-,0
-2003,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,38,186,0,-,0,-,0
-2003,Iraq,IRQ,Azerbaijan,AZE,29,49,0,-,0,-,0
-2003,Kuwait,KWT,Azerbaijan,AZE,7,0,0,-,0,-,0
-2003,Russian Federation,RUS,Azerbaijan,AZE,65,7620,0,-,0,-,0
-2003,Somalia,SOM,Azerbaijan,AZE,5,0,0,-,0,-,0
-2003,Uzbekistan,UZB,Azerbaijan,AZE,0,0,0,-,0,-,430
 2003,Afghanistan,AFG,Belgium,BEL,541,372,0,-,0,-,0
 2003,Albania,ALB,Belgium,BEL,195,86,0,-,0,-,0
 2003,Algeria,DZA,Belgium,BEL,144,248,0,-,0,-,0
@@ -10499,11 +10264,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2003,Uzbekistan,UZB,France,FRA,56,0,0,-,0,-,0
 2003,Stateless,XXA,France,FRA,708,0,0,-,0,-,0
 2003,Unknown ,UNK,France,FRA,30083,22900,0,-,0,-,0
-2003,Afghanistan,AFG,Georgia,GEO,5,0,0,-,0,-,0
-2003,Azerbaijan,AZE,Georgia,GEO,11,0,0,-,0,-,0
-2003,Georgia,GEO,Georgia,GEO,0,0,260215,-,0,-,0
-2003,Russian Federation,RUS,Georgia,GEO,3848,0,0,-,0,-,0
-2003,Stateless,XXA,Georgia,GEO,0,0,0,-,0,-,32
 2003,Afghanistan,AFG,Germany,DEU,46975,2529,0,-,0,-,0
 2003,Albania,ALB,Germany,DEU,1929,106,0,-,0,-,0
 2003,Algeria,DZA,Germany,DEU,3727,292,0,-,0,-,0
@@ -10923,13 +10683,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2003,Ukraine,UKR,Italy,ITA,25,0,0,-,0,-,0
 2003,Stateless,XXA,Italy,ITA,6,0,0,-,0,-,0
 2003,Unknown ,UNK,Italy,ITA,3003,0,0,-,0,-,0
-2003,Afghanistan,AFG,Kazakhstan,KAZ,657,0,0,-,0,-,0
-2003,China,CHN,Kazakhstan,KAZ,19,0,0,-,0,-,0
-2003,Ethiopia,ETH,Kazakhstan,KAZ,5,0,0,-,0,-,0
-2003,Palestinian,PSE,Kazakhstan,KAZ,11,0,0,-,0,-,0
-2003,Russian Federation,RUS,Kazakhstan,KAZ,13684,0,0,-,0,-,0
-2003,Tajikistan,TJK,Kazakhstan,KAZ,1454,0,0,-,0,-,0
-2003,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,0,-,18594
 2003,Armenia,ARM,Liechtenstein,LIE,8,8,0,-,0,-,0
 2003,Bosnia and Herzegovina,BIH,Liechtenstein,LIE,65,6,0,-,0,-,0
 2003,Kazakhstan,KAZ,Liechtenstein,LIE,0,5,0,-,0,-,0
@@ -11529,9 +11282,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2004,North Macedonia,MKD,Albania,ALB,0,7,0,-,0,-,0
 2004,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,33,23,0,-,0,-,0
 2004,Türkiye,TUR,Albania,ALB,7,0,0,-,0,-,0
-2004,Azerbaijan,AZE,Armenia,ARM,235101,0,0,-,0,-,0
-2004,Iran (Islamic Rep. of),IRN,Armenia,ARM,5,0,0,-,0,-,0
-2004,Iraq,IRQ,Armenia,ARM,127,64,0,-,0,-,0
 2004,Afghanistan,AFG,Austria,AUT,2482,0,0,-,0,-,0
 2004,Albania,ALB,Austria,AUT,155,0,0,-,0,-,0
 2004,Algeria,DZA,Austria,AUT,7,0,0,-,0,-,0
@@ -11596,20 +11346,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2004,Uzbekistan,UZB,Austria,AUT,17,0,0,-,0,-,0
 2004,Stateless,XXA,Austria,AUT,73,0,0,-,524,-,0
 2004,Unknown ,UNK,Austria,AUT,139,38262,0,-,0,-,0
-2004,Afghanistan,AFG,Azerbaijan,AZE,148,893,0,-,0,-,0
-2004,Algeria,DZA,Azerbaijan,AZE,0,5,0,-,0,-,0
-2004,Azerbaijan,AZE,Azerbaijan,AZE,0,0,578545,-,0,-,0
-2004,Palestinian,PSE,Azerbaijan,AZE,8,9,0,-,0,-,0
-2004,Georgia,GEO,Azerbaijan,AZE,0,5,0,-,0,-,0
-2004,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,47,233,0,-,0,-,0
-2004,Iraq,IRQ,Azerbaijan,AZE,24,41,0,-,0,-,0
-2004,Pakistan,PAK,Azerbaijan,AZE,0,32,0,-,0,-,0
-2004,Russian Federation,RUS,Azerbaijan,AZE,8367,0,0,-,0,-,0
-2004,Somalia,SOM,Azerbaijan,AZE,5,0,0,-,0,-,0
-2004,Tajikistan,TJK,Azerbaijan,AZE,0,5,0,-,0,-,0
-2004,Turkmenistan,TKM,Azerbaijan,AZE,5,5,0,-,0,-,0
-2004,Uzbekistan,UZB,Azerbaijan,AZE,0,0,0,-,0,-,430
-2004,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,30000,-,0
 2004,Afghanistan,AFG,Belgium,BEL,536,84,0,-,0,-,0
 2004,Albania,ALB,Belgium,BEL,203,124,0,-,0,-,0
 2004,Algeria,DZA,Belgium,BEL,132,212,0,-,0,-,0
@@ -12045,12 +11781,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2004,Zimbabwe,ZWE,France,FRA,5,0,0,-,0,-,0
 2004,Stateless,XXA,France,FRA,770,0,0,-,708,-,0
 2004,Unknown ,UNK,France,FRA,30090,59346,0,-,0,-,0
-2004,Afghanistan,AFG,Georgia,GEO,5,0,0,-,0,-,0
-2004,Azerbaijan,AZE,Georgia,GEO,11,0,0,-,0,-,0
-2004,Georgia,GEO,Georgia,GEO,0,0,237069,-,0,-,0
-2004,Iran (Islamic Rep. of),IRN,Georgia,GEO,0,9,0,-,0,-,0
-2004,Russian Federation,RUS,Georgia,GEO,2543,0,0,-,0,-,0
-2004,Stateless,XXA,Georgia,GEO,0,0,0,-,32,-,0
 2004,Afghanistan,AFG,Germany,DEU,38576,505,0,-,0,-,0
 2004,Albania,ALB,Germany,DEU,1604,50,0,-,0,-,0
 2004,Algeria,DZA,Germany,DEU,3339,153,0,-,0,-,0
@@ -12484,14 +12214,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2004,Ukraine,UKR,Italy,ITA,29,0,0,-,0,-,0
 2004,Stateless,XXA,Italy,ITA,6,0,0,-,886,-,0
 2004,Unknown ,UNK,Italy,ITA,3003,0,0,-,0,-,0
-2004,Afghanistan,AFG,Kazakhstan,KAZ,670,0,0,-,0,-,0
-2004,China,CHN,Kazakhstan,KAZ,24,5,0,-,0,-,0
-2004,Ethiopia,ETH,Kazakhstan,KAZ,5,0,0,-,0,-,0
-2004,Palestinian,PSE,Kazakhstan,KAZ,11,0,0,-,0,-,0
-2004,Russian Federation,RUS,Kazakhstan,KAZ,13684,0,0,-,0,-,0
-2004,Tajikistan,TJK,Kazakhstan,KAZ,1446,0,0,-,0,-,0
-2004,Uzbekistan,UZB,Kazakhstan,KAZ,5,0,0,-,0,-,0
-2004,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,58291,-,0
 2004,Armenia,ARM,Liechtenstein,LIE,8,8,0,-,0,-,0
 2004,Bosnia and Herzegovina,BIH,Liechtenstein,LIE,65,0,0,-,0,-,0
 2004,Israel,ISR,Liechtenstein,LIE,0,5,0,-,0,-,0
@@ -13087,9 +12809,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2005,North Macedonia,MKD,Albania,ALB,0,5,0,-,0,-,0
 2005,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,40,22,0,-,0,-,0
 2005,Türkiye,TUR,Albania,ALB,6,0,0,-,0,-,0
-2005,Azerbaijan,AZE,Armenia,ARM,219324,0,0,-,0,-,0
-2005,Iran (Islamic Rep. of),IRN,Armenia,ARM,5,0,0,-,0,-,0
-2005,Iraq,IRQ,Armenia,ARM,218,64,0,-,0,-,0
 2005,Afghanistan,AFG,Austria,AUT,2991,0,0,-,0,-,0
 2005,Albania,ALB,Austria,AUT,158,0,0,-,0,-,0
 2005,Algeria,DZA,Austria,AUT,10,0,0,-,0,-,0
@@ -13154,14 +12873,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2005,Yemen,YEM,Austria,AUT,5,0,0,-,0,-,0
 2005,Stateless,XXA,Austria,AUT,122,0,0,-,500,-,0
 2005,Unknown ,UNK,Austria,AUT,258,40710,0,-,0,-,0
-2005,Afghanistan,AFG,Azerbaijan,AZE,90,50,0,-,0,-,296
-2005,Azerbaijan,AZE,Azerbaijan,AZE,0,0,578545,-,0,-,0
-2005,Palestinian,PSE,Azerbaijan,AZE,7,7,0,-,0,-,0
-2005,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,55,44,0,-,0,-,0
-2005,Iraq,IRQ,Azerbaijan,AZE,19,0,0,-,0,-,31
-2005,Russian Federation,RUS,Azerbaijan,AZE,2828,0,0,-,0,-,0
-2005,Turkmenistan,TKM,Azerbaijan,AZE,5,0,0,-,0,-,0
-2005,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,2300,-,0
 2005,Afghanistan,AFG,Belgium,BEL,381,106,0,-,0,-,0
 2005,Albania,ALB,Belgium,BEL,201,245,0,-,0,-,0
 2005,Algeria,DZA,Belgium,BEL,80,262,0,-,0,-,0
@@ -13617,13 +13328,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2005,Zimbabwe,ZWE,France,FRA,11,0,0,-,0,-,0
 2005,Stateless,XXA,France,FRA,0,0,0,-,835,-,0
 2005,Unknown ,UNK,France,FRA,19172,41279,0,-,0,-,0
-2005,Afghanistan,AFG,Georgia,GEO,5,0,0,-,0,-,0
-2005,Azerbaijan,AZE,Georgia,GEO,7,0,0,-,0,-,0
-2005,Georgia,GEO,Georgia,GEO,0,0,234249,-,0,-,0
-2005,Iran (Islamic Rep. of),IRN,Georgia,GEO,0,5,0,-,0,-,0
-2005,Russian Federation,RUS,Georgia,GEO,2483,0,0,-,0,-,0
-2005,Tajikistan,TJK,Georgia,GEO,5,0,0,-,0,-,0
-2005,Stateless,XXA,Georgia,GEO,0,0,0,-,1289,-,0
 2005,Afghanistan,AFG,Germany,DEU,31055,5081,0,-,0,-,0
 2005,Albania,ALB,Germany,DEU,3036,187,0,-,0,-,0
 2005,Algeria,DZA,Germany,DEU,5385,541,0,-,0,-,0
@@ -14044,13 +13748,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2005,Ukraine,UKR,Italy,ITA,29,0,0,-,0,-,0
 2005,Stateless,XXA,Italy,ITA,5,0,0,-,886,-,0
 2005,Unknown ,UNK,Italy,ITA,3103,0,0,-,0,-,0
-2005,Afghanistan,AFG,Kazakhstan,KAZ,760,0,0,-,0,-,0
-2005,China,CHN,Kazakhstan,KAZ,30,13,0,-,0,-,0
-2005,Ethiopia,ETH,Kazakhstan,KAZ,5,0,0,-,0,-,0
-2005,Russian Federation,RUS,Kazakhstan,KAZ,5000,0,0,-,0,-,0
-2005,Tajikistan,TJK,Kazakhstan,KAZ,1446,0,0,-,0,-,0
-2005,Uzbekistan,UZB,Kazakhstan,KAZ,23,49,0,-,0,-,0
-2005,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,50576,-,0
 2005,Armenia,ARM,Liechtenstein,LIE,8,8,0,-,0,-,0
 2005,Bosnia and Herzegovina,BIH,Liechtenstein,LIE,65,5,0,-,0,-,0
 2005,North Macedonia,MKD,Liechtenstein,LIE,0,5,0,-,0,-,0
@@ -14649,12 +14346,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2006,North Macedonia,MKD,Albania,ALB,0,8,0,-,0,-,0
 2006,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,40,19,0,-,0,-,0
 2006,Türkiye,TUR,Albania,ALB,6,0,0,-,0,-,0
-2006,Azerbaijan,AZE,Armenia,ARM,113224,0,0,-,0,-,0
-2006,Iran (Islamic Rep. of),IRN,Armenia,ARM,6,0,0,-,0,-,0
-2006,Iraq,IRQ,Armenia,ARM,459,75,0,-,0,-,0
-2006,Israel,ISR,Armenia,ARM,5,0,0,-,0,-,0
-2006,Lebanon,LBN,Armenia,ARM,14,0,0,-,0,-,0
-2006,Türkiye,TUR,Armenia,ARM,5,0,0,-,0,-,0
 2006,Afghanistan,AFG,Austria,AUT,3664,1575,0,-,0,-,0
 2006,Albania,ALB,Austria,AUT,172,284,0,-,0,-,0
 2006,Algeria,DZA,Austria,AUT,11,324,0,-,0,-,0
@@ -14746,16 +14437,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2006,Zimbabwe,ZWE,Austria,AUT,5,14,0,-,0,-,0
 2006,Stateless,XXA,Austria,AUT,180,383,0,-,501,-,0
 2006,Unknown ,UNK,Austria,AUT,263,2855,0,-,0,-,0
-2006,Afghanistan,AFG,Azerbaijan,AZE,104,33,0,-,0,-,372
-2006,Azerbaijan,AZE,Azerbaijan,AZE,0,0,686586,-,0,-,0
-2006,Palestinian,PSE,Azerbaijan,AZE,9,0,0,-,0,-,0
-2006,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,71,25,0,-,0,-,0
-2006,Iraq,IRQ,Azerbaijan,AZE,5,9,0,-,0,-,23
-2006,Jordan,JOR,Azerbaijan,AZE,0,6,0,-,0,-,0
-2006,Pakistan,PAK,Azerbaijan,AZE,0,5,0,-,0,-,0
-2006,Russian Federation,RUS,Azerbaijan,AZE,2425,5,0,-,0,-,0
-2006,Turkmenistan,TKM,Azerbaijan,AZE,5,0,0,-,0,-,0
-2006,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,2300,-,0
 2006,Afghanistan,AFG,Belgium,BEL,226,17,0,-,0,-,0
 2006,Albania,ALB,Belgium,BEL,165,91,0,-,0,-,0
 2006,Algeria,DZA,Belgium,BEL,54,136,0,-,0,-,0
@@ -15218,12 +14899,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2006,Zimbabwe,ZWE,France,FRA,13,0,0,-,0,-,0
 2006,Stateless,XXA,France,FRA,0,0,0,-,904,-,0
 2006,Unknown ,UNK,France,FRA,22610,37009,0,-,0,-,0
-2006,Afghanistan,AFG,Georgia,GEO,5,0,0,-,0,-,0
-2006,Azerbaijan,AZE,Georgia,GEO,5,0,0,-,0,-,0
-2006,Georgia,GEO,Georgia,GEO,0,0,245980,-,0,-,61067
-2006,Russian Federation,RUS,Georgia,GEO,1362,5,0,-,0,-,0
-2006,Tajikistan,TJK,Georgia,GEO,5,0,0,-,0,-,0
-2006,Stateless,XXA,Georgia,GEO,0,0,0,-,1273,-,0
 2006,Afghanistan,AFG,Germany,DEU,21879,3999,0,-,0,-,0
 2006,Albania,ALB,Germany,DEU,963,160,0,-,0,-,0
 2006,Algeria,DZA,Germany,DEU,1248,419,0,-,0,-,0
@@ -15675,13 +15350,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2006,Ukraine,UKR,Italy,ITA,29,0,0,-,0,-,0
 2006,Stateless,XXA,Italy,ITA,6,0,0,-,886,-,0
 2006,Unknown ,UNK,Italy,ITA,3390,0,0,-,0,-,0
-2006,Afghanistan,AFG,Kazakhstan,KAZ,588,21,0,-,0,-,0
-2006,China,CHN,Kazakhstan,KAZ,26,16,0,-,0,-,0
-2006,Iraq,IRQ,Kazakhstan,KAZ,5,0,0,-,0,-,0
-2006,Kyrgyzstan,KGZ,Kazakhstan,KAZ,5,5,0,-,0,-,0
-2006,Russian Federation,RUS,Kazakhstan,KAZ,3713,5,0,-,0,-,0
-2006,Uzbekistan,UZB,Kazakhstan,KAZ,76,46,0,-,0,-,0
-2006,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,45698,-,0
 2006,Armenia,ARM,Liechtenstein,LIE,14,0,0,-,0,-,0
 2006,Bosnia and Herzegovina,BIH,Liechtenstein,LIE,0,5,0,-,0,-,0
 2006,Russian Federation,RUS,Liechtenstein,LIE,0,5,0,-,0,-,0
@@ -16310,12 +15978,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2007,Iraq,IRQ,Albania,ALB,5,0,0,-,0,-,0
 2007,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,51,16,0,-,0,-,0
 2007,Türkiye,TUR,Albania,ALB,7,0,0,-,0,-,0
-2007,Azerbaijan,AZE,Armenia,ARM,3815,0,0,-,0,-,0
-2007,Iran (Islamic Rep. of),IRN,Armenia,ARM,7,5,0,-,0,-,0
-2007,Iraq,IRQ,Armenia,ARM,718,92,0,-,0,-,0
-2007,Israel,ISR,Armenia,ARM,5,0,0,-,0,-,0
-2007,Lebanon,LBN,Armenia,ARM,14,0,0,-,0,-,0
-2007,Türkiye,TUR,Armenia,ARM,5,0,0,-,0,-,0
 2007,Afghanistan,AFG,Austria,AUT,4191,1544,0,-,0,-,0
 2007,Albania,ALB,Austria,AUT,168,276,0,-,0,-,0
 2007,Algeria,DZA,Austria,AUT,22,273,0,-,0,-,0
@@ -16404,15 +16066,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2007,Zimbabwe,ZWE,Austria,AUT,5,8,0,-,0,-,0
 2007,Stateless,XXA,Austria,AUT,233,378,0,-,472,-,0
 2007,Unknown ,UNK,Austria,AUT,290,4720,0,-,0,-,0
-2007,Afghanistan,AFG,Azerbaijan,AZE,108,43,0,-,0,-,411
-2007,Azerbaijan,AZE,Azerbaijan,AZE,0,0,686586,-,0,-,0
-2007,Palestinian,PSE,Azerbaijan,AZE,9,0,0,-,0,-,0
-2007,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,90,8,0,-,0,-,0
-2007,Iraq,IRQ,Azerbaijan,AZE,29,10,0,-,0,-,20
-2007,Pakistan,PAK,Azerbaijan,AZE,0,8,0,-,0,-,0
-2007,Russian Federation,RUS,Azerbaijan,AZE,2110,0,0,-,0,-,0
-2007,Turkmenistan,TKM,Azerbaijan,AZE,5,0,0,-,0,-,0
-2007,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,2078,-,0
 2007,Afghanistan,AFG,Belgium,BEL,151,0,0,-,0,-,0
 2007,Albania,ALB,Belgium,BEL,156,0,0,-,0,-,0
 2007,Algeria,DZA,Belgium,BEL,54,0,0,-,0,-,0
@@ -16851,13 +16504,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2007,Zimbabwe,ZWE,France,FRA,19,0,0,-,0,-,0
 2007,Stateless,XXA,France,FRA,0,0,0,-,948,-,0
 2007,Unknown ,UNK,France,FRA,21936,32275,0,-,0,-,0
-2007,Afghanistan,AFG,Georgia,GEO,5,0,0,-,0,-,0
-2007,Azerbaijan,AZE,Georgia,GEO,5,0,0,-,0,-,0
-2007,Georgia,GEO,Georgia,GEO,0,0,273193,-,0,-,0
-2007,Russian Federation,RUS,Georgia,GEO,1036,0,0,-,0,-,0
-2007,Tajikistan,TJK,Georgia,GEO,5,0,0,-,0,-,0
-2007,Türkiye,TUR,Georgia,GEO,0,5,0,-,0,-,0
-2007,Stateless,XXA,Georgia,GEO,0,0,0,-,1340,-,0
 2007,Afghanistan,AFG,Germany,DEU,24236,2223,0,-,0,-,0
 2007,Albania,ALB,Germany,DEU,1011,88,0,-,0,-,0
 2007,Algeria,DZA,Germany,DEU,1299,328,0,-,0,-,0
@@ -17331,13 +16977,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2007,Zimbabwe,ZWE,Italy,ITA,5,0,0,-,0,-,0
 2007,Stateless,XXA,Italy,ITA,7,0,0,-,886,-,0
 2007,Unknown ,UNK,Italy,ITA,3390,1500,0,-,0,-,0
-2007,Afghanistan,AFG,Kazakhstan,KAZ,404,5,0,-,0,-,0
-2007,China,CHN,Kazakhstan,KAZ,19,14,0,-,0,-,0
-2007,Iraq,IRQ,Kazakhstan,KAZ,5,0,0,-,0,-,0
-2007,Kyrgyzstan,KGZ,Kazakhstan,KAZ,13,5,0,-,0,-,0
-2007,Russian Federation,RUS,Kazakhstan,KAZ,3692,7,0,-,0,-,0
-2007,Uzbekistan,UZB,Kazakhstan,KAZ,150,40,0,-,0,-,0
-2007,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,7856,-,0
 2007,Armenia,ARM,Liechtenstein,LIE,14,0,0,-,0,-,0
 2007,Bosnia and Herzegovina,BIH,Liechtenstein,LIE,0,5,0,-,0,-,0
 2007,Serbia and Kosovo: S/RES/1244 (1999),SRB,Liechtenstein,LIE,256,0,0,-,0,-,0
@@ -17952,13 +17591,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2008,China,CHN,Albania,ALB,5,0,0,-,0,-,0
 2008,Iraq,IRQ,Albania,ALB,5,0,0,-,0,-,0
 2008,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,47,20,0,-,0,-,0
-2008,Azerbaijan,AZE,Armenia,ARM,3082,0,0,-,0,-,0
-2008,Georgia,GEO,Armenia,ARM,0,123,0,-,0,-,0
-2008,Iran (Islamic Rep. of),IRN,Armenia,ARM,9,8,0,-,0,-,0
-2008,Iraq,IRQ,Armenia,ARM,837,34,0,-,0,-,0
-2008,Israel,ISR,Armenia,ARM,5,0,0,-,0,-,0
-2008,Lebanon,LBN,Armenia,ARM,14,0,0,-,0,-,0
-2008,Türkiye,TUR,Armenia,ARM,5,5,0,-,0,-,0
 2008,Afghanistan,AFG,Austria,AUT,5387,2016,0,-,0,-,0
 2008,Albania,ALB,Austria,AUT,179,273,0,-,0,-,0
 2008,Algeria,DZA,Austria,AUT,24,268,0,-,0,-,0
@@ -18048,15 +17680,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2008,Zimbabwe,ZWE,Austria,AUT,10,13,0,-,0,-,0
 2008,Stateless,XXA,Austria,AUT,337,340,0,-,464,-,0
 2008,Unknown ,UNK,Austria,AUT,305,5745,0,-,0,-,0
-2008,Afghanistan,AFG,Azerbaijan,AZE,125,24,0,-,0,-,469
-2008,Azerbaijan,AZE,Azerbaijan,AZE,0,0,603251,-,0,-,0
-2008,Palestinian,PSE,Azerbaijan,AZE,8,0,0,-,0,-,0
-2008,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,97,8,0,-,0,-,0
-2008,Iraq,IRQ,Azerbaijan,AZE,55,0,0,-,0,-,5
-2008,Pakistan,PAK,Azerbaijan,AZE,0,8,0,-,0,-,0
-2008,Russian Federation,RUS,Azerbaijan,AZE,1770,0,0,-,0,-,0
-2008,Turkmenistan,TKM,Azerbaijan,AZE,5,0,0,-,0,-,0
-2008,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,2078,-,0
 2008,Afghanistan,AFG,Belgium,BEL,196,0,0,-,0,-,0
 2008,Albania,ALB,Belgium,BEL,181,0,0,-,0,-,0
 2008,Algeria,DZA,Belgium,BEL,41,0,0,-,0,-,0
@@ -18503,14 +18126,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2008,Zimbabwe,ZWE,France,FRA,21,0,0,-,0,-,0
 2008,Stateless,XXA,France,FRA,0,0,0,-,1006,-,0
 2008,Unknown ,UNK,France,FRA,33174,31496,0,-,0,-,0
-2008,Afghanistan,AFG,Georgia,GEO,5,0,0,-,0,-,0
-2008,Azerbaijan,AZE,Georgia,GEO,5,0,0,-,0,-,0
-2008,Georgia,GEO,Georgia,GEO,0,0,329870,-,0,-,0
-2008,Iraq,IRQ,Georgia,GEO,5,0,0,-,0,-,0
-2008,Sri Lanka,LKA,Georgia,GEO,0,5,0,-,0,-,0
-2008,Russian Federation,RUS,Georgia,GEO,981,9,0,-,0,-,0
-2008,Tajikistan,TJK,Georgia,GEO,5,0,0,-,0,-,0
-2008,Stateless,XXA,Georgia,GEO,0,0,0,-,1544,-,0
 2008,Afghanistan,AFG,Germany,DEU,25108,1729,0,-,0,-,1632
 2008,Albania,ALB,Germany,DEU,1076,95,0,-,0,-,0
 2008,Algeria,DZA,Germany,DEU,1336,387,0,-,0,-,0
@@ -18994,13 +18609,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2008,Zimbabwe,ZWE,Italy,ITA,10,0,0,-,0,-,0
 2008,Stateless,XXA,Italy,ITA,9,0,0,-,722,-,0
 2008,Unknown ,UNK,Italy,ITA,3442,0,0,-,0,-,0
-2008,Afghanistan,AFG,Kazakhstan,KAZ,493,56,0,-,0,-,0
-2008,China,CHN,Kazakhstan,KAZ,19,14,0,-,0,-,0
-2008,Iraq,IRQ,Kazakhstan,KAZ,5,0,0,-,0,-,0
-2008,Kyrgyzstan,KGZ,Kazakhstan,KAZ,5,14,0,-,0,-,0
-2008,Russian Federation,RUS,Kazakhstan,KAZ,3692,0,0,-,0,-,0
-2008,Uzbekistan,UZB,Kazakhstan,KAZ,135,39,0,-,0,-,0
-2008,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,7602,-,0
 2008,Armenia,ARM,Liechtenstein,LIE,14,0,0,-,0,-,0
 2008,Bosnia and Herzegovina,BIH,Liechtenstein,LIE,0,5,0,-,0,-,0
 2008,Serbia and Kosovo: S/RES/1244 (1999),SRB,Liechtenstein,LIE,62,0,0,-,0,-,0
@@ -19626,14 +19234,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2009,Iraq,IRQ,Albania,ALB,5,0,0,-,0,-,0
 2009,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,48,19,0,-,0,-,0
 2009,Türkiye,TUR,Albania,ALB,5,0,0,-,0,-,0
-2009,Armenia,ARM,Armenia,ARM,0,0,0,-,0,-,82231
-2009,Azerbaijan,AZE,Armenia,ARM,2681,0,0,-,0,-,0
-2009,Georgia,GEO,Armenia,ARM,8,11,0,-,0,-,0
-2009,Iran (Islamic Rep. of),IRN,Armenia,ARM,22,5,0,-,0,-,0
-2009,Iraq,IRQ,Armenia,ARM,870,22,0,-,0,-,0
-2009,Israel,ISR,Armenia,ARM,5,0,0,-,0,-,0
-2009,Lebanon,LBN,Armenia,ARM,14,0,0,-,0,-,0
-2009,Türkiye,TUR,Armenia,ARM,5,0,0,-,0,-,0
 2009,Afghanistan,AFG,Austria,AUT,6401,2808,0,-,0,-,0
 2009,Albania,ALB,Austria,AUT,178,267,0,-,0,-,0
 2009,Algeria,DZA,Austria,AUT,28,258,0,-,0,-,0
@@ -19721,16 +19321,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2009,Zimbabwe,ZWE,Austria,AUT,13,11,0,-,0,-,0
 2009,Stateless,XXA,Austria,AUT,374,336,0,-,523,-,0
 2009,Unknown ,UNK,Austria,AUT,310,3654,0,-,0,-,0
-2009,Afghanistan,AFG,Azerbaijan,AZE,149,15,0,-,0,-,508
-2009,Armenia,ARM,Azerbaijan,AZE,5,0,0,-,0,-,0
-2009,Azerbaijan,AZE,Azerbaijan,AZE,0,0,586013,-,0,-,0
-2009,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,113,7,0,-,0,-,0
-2009,Iraq,IRQ,Azerbaijan,AZE,37,5,0,-,0,-,0
-2009,Pakistan,PAK,Azerbaijan,AZE,0,5,0,-,0,-,0
-2009,Russian Federation,RUS,Azerbaijan,AZE,1334,10,0,-,0,-,0
-2009,Turkmenistan,TKM,Azerbaijan,AZE,5,0,0,-,0,-,0
-2009,Uzbekistan,UZB,Azerbaijan,AZE,0,5,0,-,0,-,0
-2009,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,2078,-,0
 2009,Afghanistan,AFG,Belgium,BEL,271,0,0,-,0,-,0
 2009,Albania,ALB,Belgium,BEL,195,0,0,-,0,-,0
 2009,Algeria,DZA,Belgium,BEL,36,0,0,-,0,-,0
@@ -20175,14 +19765,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2009,Zimbabwe,ZWE,France,FRA,24,0,0,-,0,-,0
 2009,Stateless,XXA,France,FRA,0,0,0,-,1078,-,0
 2009,Unknown ,UNK,France,FRA,45194,40517,0,-,0,-,0
-2009,Armenia,ARM,Georgia,GEO,0,5,0,-,0,-,0
-2009,Azerbaijan,AZE,Georgia,GEO,5,0,0,-,0,-,0
-2009,Georgia,GEO,Georgia,GEO,0,0,352640,-,0,-,0
-2009,Iraq,IRQ,Georgia,GEO,5,0,0,-,0,-,0
-2009,Sri Lanka,LKA,Georgia,GEO,0,11,0,-,0,-,0
-2009,Russian Federation,RUS,Georgia,GEO,857,5,0,-,0,-,0
-2009,Tajikistan,TJK,Georgia,GEO,5,0,0,-,0,-,0
-2009,Stateless,XXA,Georgia,GEO,0,0,0,-,1677,-,0
 2009,Afghanistan,AFG,Germany,DEU,30320,3891,0,-,0,-,971
 2009,Albania,ALB,Germany,DEU,2310,76,0,-,0,-,0
 2009,Algeria,DZA,Germany,DEU,2317,458,0,-,0,-,0
@@ -20626,14 +20208,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2009,Zimbabwe,ZWE,Italy,ITA,20,0,0,-,0,-,0
 2009,Stateless,XXA,Italy,ITA,8,0,0,-,793,-,0
 2009,Unknown ,UNK,Italy,ITA,3496,4365,0,-,0,-,0
-2009,Afghanistan,AFG,Kazakhstan,KAZ,429,20,0,-,0,-,0
-2009,China,CHN,Kazakhstan,KAZ,17,20,0,-,0,-,0
-2009,Palestinian,PSE,Kazakhstan,KAZ,0,8,0,-,0,-,0
-2009,Kyrgyzstan,KGZ,Kazakhstan,KAZ,14,11,0,-,0,-,0
-2009,Russian Federation,RUS,Kazakhstan,KAZ,3692,5,0,-,0,-,0
-2009,Tajikistan,TJK,Kazakhstan,KAZ,0,10,0,-,0,-,0
-2009,Uzbekistan,UZB,Kazakhstan,KAZ,182,55,0,-,0,-,0
-2009,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,7649,-,0
 2009,Armenia,ARM,Liechtenstein,LIE,16,0,0,-,0,-,0
 2009,Bosnia and Herzegovina,BIH,Liechtenstein,LIE,0,5,0,-,0,-,0
 2009,China,CHN,Liechtenstein,LIE,0,5,0,-,0,-,0
@@ -21317,15 +20891,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2010,Iraq,IRQ,Albania,ALB,5,0,0,-,0,-,0
 2010,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,49,20,0,-,0,-,0
 2010,Türkiye,TUR,Albania,ALB,5,0,0,-,0,-,0
-2010,Armenia,ARM,Armenia,ARM,0,0,0,-,0,-,82519
-2010,Azerbaijan,AZE,Armenia,ARM,2347,0,0,-,0,-,0
-2010,Georgia,GEO,Armenia,ARM,11,0,0,-,0,-,0
-2010,Iran (Islamic Rep. of),IRN,Armenia,ARM,22,5,0,-,0,-,0
-2010,Iraq,IRQ,Armenia,ARM,888,0,0,-,0,-,0
-2010,Israel,ISR,Armenia,ARM,5,0,0,-,0,-,0
-2010,Lebanon,LBN,Armenia,ARM,14,0,0,-,0,-,0
-2010,Türkiye,TUR,Armenia,ARM,5,9,0,-,0,-,0
-2010,Stateless,XXA,Armenia,ARM,0,0,0,-,6,-,0
 2010,Afghanistan,AFG,Austria,AUT,7359,2696,0,-,0,-,0
 2010,Albania,ALB,Austria,AUT,180,174,0,-,0,-,0
 2010,Algeria,DZA,Austria,AUT,33,247,0,-,0,-,0
@@ -21410,15 +20975,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2010,Zimbabwe,ZWE,Austria,AUT,18,18,0,-,0,-,0
 2010,Stateless,XXA,Austria,AUT,443,278,0,-,401,-,0
 2010,Unknown ,UNK,Austria,AUT,313,3626,0,-,0,-,0
-2010,Afghanistan,AFG,Azerbaijan,AZE,718,0,0,-,0,-,0
-2010,Armenia,ARM,Azerbaijan,AZE,5,5,0,-,0,-,0
-2010,Azerbaijan,AZE,Azerbaijan,AZE,0,0,592860,-,0,-,0
-2010,Palestinian,PSE,Azerbaijan,AZE,11,0,0,-,0,-,0
-2010,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,104,0,0,-,0,-,0
-2010,Iraq,IRQ,Azerbaijan,AZE,23,0,0,-,0,-,0
-2010,Pakistan,PAK,Azerbaijan,AZE,5,5,0,-,0,-,0
-2010,Russian Federation,RUS,Azerbaijan,AZE,1028,5,0,-,0,-,0
-2010,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,2078,-,0
 2010,Afghanistan,AFG,Belgium,BEL,501,0,0,-,0,-,0
 2010,Albania,ALB,Belgium,BEL,216,0,0,-,0,-,0
 2010,Algeria,DZA,Belgium,BEL,35,0,0,-,0,-,0
@@ -21868,17 +21424,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2010,Zimbabwe,ZWE,France,FRA,32,0,0,-,0,-,0
 2010,Stateless,XXA,France,FRA,0,0,0,-,1131,-,0
 2010,Unknown ,UNK,France,FRA,42230,48576,0,-,0,-,0
-2010,Afghanistan,AFG,Georgia,GEO,5,0,0,-,0,-,0
-2010,Georgia,GEO,Georgia,GEO,0,0,359716,-,0,-,0
-2010,Cote d'Ivoire,CIV,Georgia,GEO,0,5,0,-,0,-,0
-2010,Iran (Islamic Rep. of),IRN,Georgia,GEO,0,5,0,-,0,-,0
-2010,Iraq,IRQ,Georgia,GEO,5,0,0,-,0,-,0
-2010,Sri Lanka,LKA,Georgia,GEO,0,7,0,-,0,-,0
-2010,Nigeria,NGA,Georgia,GEO,0,5,0,-,0,-,0
-2010,Russian Federation,RUS,Georgia,GEO,623,15,0,-,0,-,0
-2010,Tajikistan,TJK,Georgia,GEO,5,0,0,-,0,-,0
-2010,Uzbekistan,UZB,Georgia,GEO,0,5,0,-,0,-,0
-2010,Stateless,XXA,Georgia,GEO,0,0,0,-,1826,-,0
 2010,Afghanistan,AFG,Germany,DEU,30404,7024,0,-,0,-,1073
 2010,Albania,ALB,Germany,DEU,2275,66,0,-,0,-,0
 2010,Algeria,DZA,Germany,DEU,2283,426,0,-,0,-,0
@@ -22367,13 +21912,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2010,Zimbabwe,ZWE,Italy,ITA,23,5,0,-,0,-,0
 2010,Stateless,XXA,Italy,ITA,9,0,0,-,854,-,0
 2010,Unknown ,UNK,Italy,ITA,3058,87,0,-,0,-,0
-2010,Afghanistan,AFG,Kazakhstan,KAZ,593,22,0,-,0,-,0
-2010,China,CHN,Kazakhstan,KAZ,19,40,0,-,0,-,0
-2010,Palestinian,PSE,Kazakhstan,KAZ,0,8,0,-,0,-,0
-2010,Kyrgyzstan,KGZ,Kazakhstan,KAZ,5,18,0,-,0,-,0
-2010,Russian Federation,RUS,Kazakhstan,KAZ,3692,5,0,-,0,-,0
-2010,Uzbekistan,UZB,Kazakhstan,KAZ,94,221,0,-,0,-,0
-2010,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,7966,-,0
 2010,Armenia,ARM,Liechtenstein,LIE,16,0,0,-,0,-,0
 2010,Eritrea,ERI,Liechtenstein,LIE,0,9,0,-,0,-,0
 2010,Iraq,IRQ,Liechtenstein,LIE,0,5,0,-,0,-,0
@@ -23122,17 +22660,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2011,Serbia and Kosovo: S/RES/1244 (1999),SRB,Albania,ALB,50,21,0,-,0,-,0
 2011,Somalia,SOM,Albania,ALB,0,5,0,-,0,-,0
 2011,Türkiye,TUR,Albania,ALB,5,0,0,-,0,-,0
-2011,Armenia,ARM,Armenia,ARM,0,0,0,-,0,-,82938
-2011,Azerbaijan,AZE,Armenia,ARM,1928,0,0,-,0,-,0
-2011,Palestinian,PSE,Armenia,ARM,5,0,0,-,0,-,0
-2011,Georgia,GEO,Armenia,ARM,11,0,0,-,0,-,0
-2011,Cote d'Ivoire,CIV,Armenia,ARM,8,0,0,-,0,-,0
-2011,Iran (Islamic Rep. of),IRN,Armenia,ARM,18,12,0,-,0,-,0
-2011,Iraq,IRQ,Armenia,ARM,923,0,0,-,0,-,0
-2011,Lebanon,LBN,Armenia,ARM,14,0,0,-,0,-,0
-2011,Syrian Arab Rep.,SYR,Armenia,ARM,6,0,0,-,0,-,0
-2011,Türkiye,TUR,Armenia,ARM,0,5,0,-,0,-,0
-2011,Stateless,XXA,Armenia,ARM,0,0,0,-,11,-,0
 2011,Afghanistan,AFG,Austria,AUT,8636,4576,0,-,0,-,0
 2011,Albania,ALB,Austria,AUT,169,108,0,-,0,-,0
 2011,Algeria,DZA,Austria,AUT,41,259,0,-,0,-,0
@@ -23219,15 +22746,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2011,Zimbabwe,ZWE,Austria,AUT,22,7,0,-,0,-,0
 2011,Stateless,XXA,Austria,AUT,535,217,0,-,464,-,0
 2011,Unknown ,UNK,Austria,AUT,315,3966,0,-,0,-,0
-2011,Afghanistan,AFG,Azerbaijan,AZE,706,21,0,-,0,-,0
-2011,Armenia,ARM,Azerbaijan,AZE,8,0,0,-,0,-,0
-2011,Azerbaijan,AZE,Azerbaijan,AZE,0,0,599192,-,0,-,0
-2011,Palestinian,PSE,Azerbaijan,AZE,5,0,0,-,0,-,0
-2011,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,85,14,0,-,0,-,0
-2011,Iraq,IRQ,Azerbaijan,AZE,27,0,0,-,0,-,0
-2011,Pakistan,PAK,Azerbaijan,AZE,7,0,0,-,0,-,0
-2011,Russian Federation,RUS,Azerbaijan,AZE,889,7,0,-,0,-,0
-2011,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,1741,-,0
 2011,Afghanistan,AFG,Belgium,BEL,785,1765,0,-,0,-,0
 2011,Albania,ALB,Belgium,BEL,228,976,0,-,0,-,0
 2011,Algeria,DZA,Belgium,BEL,37,106,0,-,0,-,0
@@ -23691,15 +23209,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2011,Zimbabwe,ZWE,France,FRA,32,0,0,-,0,-,0
 2011,Stateless,XXA,France,FRA,0,0,0,-,1180,-,0
 2011,Unknown ,UNK,France,FRA,42659,49240,0,-,0,-,0
-2011,Georgia,GEO,Georgia,GEO,0,0,273997,-,0,-,0
-2011,Iran (Islamic Rep. of),IRN,Georgia,GEO,0,19,0,-,0,-,0
-2011,Iraq,IRQ,Georgia,GEO,5,0,0,-,0,-,0
-2011,Sri Lanka,LKA,Georgia,GEO,0,6,0,-,0,-,0
-2011,Nigeria,NGA,Georgia,GEO,0,5,0,-,0,-,0
-2011,Russian Federation,RUS,Georgia,GEO,446,6,0,-,0,-,0
-2011,Tajikistan,TJK,Georgia,GEO,5,0,0,-,0,-,0
-2011,Uzbekistan,UZB,Georgia,GEO,5,0,0,-,0,-,0
-2011,Stateless,XXA,Georgia,GEO,0,0,0,-,1569,-,0
 2011,Afghanistan,AFG,Germany,DEU,30425,11087,0,-,0,-,1358
 2011,Albania,ALB,Germany,DEU,2207,82,0,-,0,-,0
 2011,Algeria,DZA,Germany,DEU,2165,451,0,-,0,-,0
@@ -24162,13 +23671,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2011,Zimbabwe,ZWE,Italy,ITA,25,0,0,-,0,-,0
 2011,Stateless,XXA,Italy,ITA,11,0,0,-,1176,-,0
 2011,Unknown ,UNK,Italy,ITA,2958,13525,0,-,0,-,0
-2011,Afghanistan,AFG,Kazakhstan,KAZ,556,36,0,-,0,-,0
-2011,China,CHN,Kazakhstan,KAZ,18,8,0,-,0,-,0
-2011,Palestinian,PSE,Kazakhstan,KAZ,7,0,0,-,0,-,0
-2011,Kyrgyzstan,KGZ,Kazakhstan,KAZ,0,19,0,-,0,-,0
-2011,Russian Federation,RUS,Kazakhstan,KAZ,0,0,0,-,0,-,3682
-2011,Uzbekistan,UZB,Kazakhstan,KAZ,32,0,0,-,0,-,0
-2011,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,7337,-,0
 2011,Armenia,ARM,Liechtenstein,LIE,16,0,0,-,0,-,0
 2011,Eritrea,ERI,Liechtenstein,LIE,5,12,0,-,0,-,0
 2011,Iraq,IRQ,Liechtenstein,LIE,0,5,0,-,0,-,0
@@ -24874,16 +24376,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2012,Türkiye,TUR,Albania,ALB,5,0,0,-,0,-,0
 2012,Uzbekistan,UZB,Albania,ALB,5,0,0,-,0,-,0
 2012,Stateless,XXA,Albania,ALB,0,0,0,-,7443,-,0
-2012,Azerbaijan,AZE,Armenia,ARM,1716,0,0,-,0,-,0
-2012,Congo,COG,Armenia,ARM,0,5,0,-,0,-,0
-2012,Palestinian,PSE,Armenia,ARM,5,0,0,-,0,-,0
-2012,Georgia,GEO,Armenia,ARM,8,0,0,-,0,-,0
-2012,Cote d'Ivoire,CIV,Armenia,ARM,6,0,0,-,0,-,0
-2012,Iran (Islamic Rep. of),IRN,Armenia,ARM,21,12,0,-,0,-,0
-2012,Iraq,IRQ,Armenia,ARM,943,16,0,-,0,-,0
-2012,Lebanon,LBN,Armenia,ARM,14,5,0,-,0,-,0
-2012,Syrian Arab Rep.,SYR,Armenia,ARM,136,340,0,-,0,-,5500
-2012,Stateless,XXA,Armenia,ARM,0,0,0,-,35,-,0
 2012,Afghanistan,AFG,Austria,AUT,10158,6203,0,-,0,-,0
 2012,Albania,ALB,Austria,AUT,150,87,0,-,0,-,0
 2012,Algeria,DZA,Austria,AUT,50,175,0,-,0,-,0
@@ -24972,17 +24464,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2012,Zimbabwe,ZWE,Austria,AUT,22,5,0,-,0,-,0
 2012,Stateless,XXA,Austria,AUT,625,178,0,-,542,-,0
 2012,Unknown ,UNK,Austria,AUT,322,701,0,-,0,-,0
-2012,Afghanistan,AFG,Azerbaijan,AZE,576,82,0,-,0,-,0
-2012,Algeria,DZA,Azerbaijan,AZE,0,5,0,-,0,-,0
-2012,Armenia,ARM,Azerbaijan,AZE,5,0,0,-,0,-,0
-2012,Azerbaijan,AZE,Azerbaijan,AZE,0,0,600336,-,0,-,0
-2012,Palestinian,PSE,Azerbaijan,AZE,5,5,0,-,0,-,0
-2012,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,78,17,0,-,0,-,0
-2012,Iraq,IRQ,Azerbaijan,AZE,12,0,0,-,0,-,0
-2012,Pakistan,PAK,Azerbaijan,AZE,5,11,0,-,0,-,0
-2012,Russian Federation,RUS,Azerbaijan,AZE,781,11,0,-,0,-,0
-2012,Syrian Arab Rep.,SYR,Azerbaijan,AZE,5,6,0,-,0,-,0
-2012,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,3585,-,0
 2012,Afghanistan,AFG,Belgium,BEL,1267,1911,0,-,0,-,0
 2012,Albania,ALB,Belgium,BEL,318,39,0,-,0,-,0
 2012,Algeria,DZA,Belgium,BEL,33,104,0,-,0,-,0
@@ -25432,17 +24913,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2012,Zimbabwe,ZWE,France,FRA,35,0,0,-,0,-,0
 2012,Stateless,XXA,France,FRA,0,0,0,-,1210,-,0
 2012,Unknown ,UNK,France,FRA,42289,33473,0,-,0,-,0
-2012,Afghanistan,AFG,Georgia,GEO,5,0,0,-,0,-,0
-2012,Egypt,EGY,Georgia,GEO,0,18,0,-,0,-,0
-2012,Georgia,GEO,Georgia,GEO,0,0,279778,-,0,-,0
-2012,Iran (Islamic Rep. of),IRN,Georgia,GEO,0,16,0,-,0,-,0
-2012,Iraq,IRQ,Georgia,GEO,20,375,0,-,0,-,0
-2012,Kazakhstan,KAZ,Georgia,GEO,0,5,0,-,0,-,0
-2012,Sri Lanka,LKA,Georgia,GEO,5,0,0,-,0,-,0
-2012,Russian Federation,RUS,Georgia,GEO,293,21,0,-,0,-,0
-2012,Syrian Arab Rep.,SYR,Georgia,GEO,140,16,0,-,0,-,0
-2012,Tajikistan,TJK,Georgia,GEO,5,0,0,-,0,-,0
-2012,Stateless,XXA,Georgia,GEO,0,0,0,-,1156,-,0
 2012,Afghanistan,AFG,Germany,DEU,31746,14357,0,-,0,-,0
 2012,Albania,ALB,Germany,DEU,2201,231,0,-,0,-,0
 2012,Algeria,DZA,Germany,DEU,2198,538,0,-,0,-,0
@@ -25920,13 +25390,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2012,Zimbabwe,ZWE,Italy,ITA,25,5,0,-,0,-,0
 2012,Stateless,XXA,Italy,ITA,13,0,0,-,470,-,0
 2012,Unknown ,UNK,Italy,ITA,2889,165,0,-,0,-,0
-2012,Afghanistan,AFG,Kazakhstan,KAZ,525,35,0,-,0,-,0
-2012,China,CHN,Kazakhstan,KAZ,16,7,0,-,0,-,0
-2012,Kyrgyzstan,KGZ,Kazakhstan,KAZ,0,10,0,-,0,-,0
-2012,Russian Federation,RUS,Kazakhstan,KAZ,0,0,0,-,0,-,3675
-2012,Syrian Arab Rep.,SYR,Kazakhstan,KAZ,0,14,0,-,0,-,0
-2012,Uzbekistan,UZB,Kazakhstan,KAZ,20,15,0,-,0,-,0
-2012,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,6935,-,0
 2012,Armenia,ARM,Liechtenstein,LIE,8,0,0,-,0,-,0
 2012,Bosnia and Herzegovina,BIH,Liechtenstein,LIE,0,6,0,-,0,-,0
 2012,China,CHN,Liechtenstein,LIE,5,0,0,-,0,-,0
@@ -26662,16 +26125,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2013,Türkiye,TUR,Albania,ALB,5,0,0,-,0,-,0
 2013,Uzbekistan,UZB,Albania,ALB,5,0,0,-,0,-,0
 2013,Stateless,XXA,Albania,ALB,0,0,0,-,7443,-,0
-2013,Azerbaijan,AZE,Armenia,ARM,1607,0,0,-,0,-,0
-2013,Palestinian,PSE,Armenia,ARM,5,0,0,-,0,-,0
-2013,Georgia,GEO,Armenia,ARM,8,0,0,-,0,-,0
-2013,Guinea,GIN,Armenia,ARM,0,5,0,-,0,-,0
-2013,Cote d'Ivoire,CIV,Armenia,ARM,6,5,0,-,0,-,0
-2013,Iran (Islamic Rep. of),IRN,Armenia,ARM,27,13,0,-,0,-,0
-2013,Iraq,IRQ,Armenia,ARM,967,5,0,-,0,-,0
-2013,Lebanon,LBN,Armenia,ARM,17,0,0,-,0,-,0
-2013,Syrian Arab Rep.,SYR,Armenia,ARM,11090,42,0,-,0,-,0
-2013,Stateless,XXA,Armenia,ARM,0,0,0,-,180,-,0
 2013,Afghanistan,AFG,Austria,AUT,11906,6248,0,-,0,-,0
 2013,Albania,ALB,Austria,AUT,125,118,0,-,0,-,0
 2013,Algeria,DZA,Austria,AUT,51,318,0,-,0,-,0
@@ -26760,16 +26213,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2013,Zimbabwe,ZWE,Austria,AUT,23,6,0,-,0,-,0
 2013,Stateless,XXA,Austria,AUT,658,301,0,-,604,-,0
 2013,Unknown ,UNK,Austria,AUT,321,613,0,-,0,-,0
-2013,Afghanistan,AFG,Azerbaijan,AZE,603,164,0,-,0,-,0
-2013,Armenia,ARM,Azerbaijan,AZE,5,0,0,-,0,-,0
-2013,Azerbaijan,AZE,Azerbaijan,AZE,0,0,609029,-,0,-,0
-2013,Palestinian,PSE,Azerbaijan,AZE,8,0,0,-,0,-,0
-2013,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,77,5,0,-,0,-,0
-2013,Iraq,IRQ,Azerbaijan,AZE,9,12,0,-,0,-,0
-2013,Pakistan,PAK,Azerbaijan,AZE,9,38,0,-,0,-,0
-2013,Russian Federation,RUS,Azerbaijan,AZE,657,44,0,-,0,-,0
-2013,Syrian Arab Rep.,SYR,Azerbaijan,AZE,9,5,0,-,0,-,0
-2013,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,3585,-,0
 2013,Afghanistan,AFG,Belgium,BEL,4328,580,0,-,0,-,0
 2013,Albania,ALB,Belgium,BEL,398,41,0,-,0,-,0
 2013,Algeria,DZA,Belgium,BEL,28,80,0,-,0,-,0
@@ -27241,18 +26684,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2013,Zimbabwe,ZWE,France,FRA,37,0,0,-,0,-,0
 2013,Stateless,XXA,France,FRA,0,0,0,-,1247,-,0
 2013,Unknown ,UNK,France,FRA,47676,9,0,-,0,-,0
-2013,Afghanistan,AFG,Georgia,GEO,5,0,0,-,0,-,0
-2013,Egypt,EGY,Georgia,GEO,5,35,0,-,0,-,0
-2013,Bangladesh,BGD,Georgia,GEO,0,5,0,-,0,-,0
-2013,Georgia,GEO,Georgia,GEO,0,0,257611,-,0,-,0
-2013,Iran (Islamic Rep. of),IRN,Georgia,GEO,0,9,0,-,0,-,0
-2013,Iraq,IRQ,Georgia,GEO,45,230,0,-,0,-,0
-2013,Sri Lanka,LKA,Georgia,GEO,0,6,0,-,0,-,0
-2013,Nigeria,NGA,Georgia,GEO,0,5,0,-,0,-,0
-2013,Russian Federation,RUS,Georgia,GEO,271,9,0,-,0,-,0
-2013,Syrian Arab Rep.,SYR,Georgia,GEO,516,26,0,-,0,-,0
-2013,Tajikistan,TJK,Georgia,GEO,5,0,0,-,0,-,0
-2013,Stateless,XXA,Georgia,GEO,0,0,0,-,776,-,0
 2013,Afghanistan,AFG,Germany,DEU,24203,16148,0,-,0,-,0
 2013,Albania,ALB,Germany,DEU,296,1266,0,-,0,-,0
 2013,Algeria,DZA,Germany,DEU,307,1150,0,-,0,-,0
@@ -27761,13 +27192,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2013,Zimbabwe,ZWE,Italy,ITA,25,0,0,-,0,-,0
 2013,Stateless,XXA,Italy,ITA,19,0,0,-,350,-,0
 2013,Unknown ,UNK,Italy,ITA,857,157,0,-,0,-,0
-2013,Afghanistan,AFG,Kazakhstan,KAZ,537,32,0,-,0,-,0
-2013,China,CHN,Kazakhstan,KAZ,16,6,0,-,0,-,0
-2013,Kyrgyzstan,KGZ,Kazakhstan,KAZ,0,10,0,-,0,-,0
-2013,Russian Federation,RUS,Kazakhstan,KAZ,0,0,0,-,0,-,3675
-2013,Syrian Arab Rep.,SYR,Kazakhstan,KAZ,7,21,0,-,0,-,0
-2013,Uzbekistan,UZB,Kazakhstan,KAZ,20,5,0,-,0,-,0
-2013,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,6942,-,0
 2013,Armenia,ARM,Liechtenstein,LIE,8,5,0,-,0,-,0
 2013,China,CHN,Liechtenstein,LIE,7,0,0,-,0,-,0
 2013,Eritrea,ERI,Liechtenstein,LIE,14,0,0,-,0,-,0
@@ -28568,16 +27992,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2014,Türkiye,TUR,Albania,ALB,5,0,0,-,0,-,0
 2014,Uzbekistan,UZB,Albania,ALB,5,0,0,-,0,-,0
 2014,Stateless,XXA,Albania,ALB,0,0,0,-,7443,-,0
-2014,Azerbaijan,AZE,Armenia,ARM,1554,0,0,-,0,-,0
-2014,Palestinian,PSE,Armenia,ARM,6,0,0,-,0,-,0
-2014,Georgia,GEO,Armenia,ARM,8,0,0,-,0,-,0
-2014,Cote d'Ivoire,CIV,Armenia,ARM,6,0,0,-,0,-,0
-2014,Iran (Islamic Rep. of),IRN,Armenia,ARM,27,21,0,-,0,-,0
-2014,Iraq,IRQ,Armenia,ARM,979,0,0,-,0,-,0
-2014,Lebanon,LBN,Armenia,ARM,18,0,0,-,0,-,0
-2014,Syrian Arab Rep.,SYR,Armenia,ARM,14994,9,0,-,0,-,0
-2014,Ukraine,UKR,Armenia,ARM,43,27,0,-,0,-,0
-2014,Stateless,XXA,Armenia,ARM,0,0,0,-,206,-,0
 2014,Afghanistan,AFG,Austria,AUT,14793,0,0,-,0,-,0
 2014,Albania,ALB,Austria,AUT,118,0,0,-,0,-,0
 2014,Algeria,DZA,Austria,AUT,53,0,0,-,0,-,0
@@ -28659,19 +28073,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2014,Zimbabwe,ZWE,Austria,AUT,22,0,0,-,0,-,0
 2014,Stateless,XXA,Austria,AUT,1141,0,0,-,570,-,0
 2014,Unknown ,UNK,Austria,AUT,275,22745,0,-,0,-,0
-2014,Afghanistan,AFG,Azerbaijan,AZE,618,160,0,-,0,-,0
-2014,Azerbaijan,AZE,Azerbaijan,AZE,0,0,622892,-,0,-,0
-2014,Bangladesh,BGD,Azerbaijan,AZE,0,5,0,-,0,-,0
-2014,Palestinian,PSE,Azerbaijan,AZE,8,0,0,-,0,-,0
-2014,India,IND,Azerbaijan,AZE,0,5,0,-,0,-,0
-2014,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,76,16,0,-,0,-,0
-2014,Iraq,IRQ,Azerbaijan,AZE,15,11,0,-,0,-,0
-2014,Nepal,NPL,Azerbaijan,AZE,0,10,0,-,0,-,0
-2014,Pakistan,PAK,Azerbaijan,AZE,17,141,0,-,0,-,0
-2014,Russian Federation,RUS,Azerbaijan,AZE,557,31,0,-,0,-,0
-2014,Syrian Arab Rep.,SYR,Azerbaijan,AZE,7,7,0,-,0,-,0
-2014,Ukraine,UKR,Azerbaijan,AZE,0,12,0,-,0,-,0
-2014,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,3585,-,0
 2014,Afghanistan,AFG,Belgium,BEL,5038,765,0,-,0,-,0
 2014,Albania,ALB,Belgium,BEL,439,305,0,-,0,-,0
 2014,Algeria,DZA,Belgium,BEL,37,66,0,-,0,-,0
@@ -29158,23 +28559,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2014,Zimbabwe,ZWE,France,FRA,37,8,0,-,0,-,0
 2014,Stateless,XXA,France,FRA,0,0,0,-,1288,-,0
 2014,Unknown ,UNK,France,FRA,60000,6,0,-,0,-,0
-2014,Afghanistan,AFG,Georgia,GEO,5,10,0,-,0,-,0
-2014,Egypt,EGY,Georgia,GEO,5,28,0,-,0,-,0
-2014,Armenia,ARM,Georgia,GEO,0,5,0,-,0,-,0
-2014,Azerbaijan,AZE,Georgia,GEO,0,6,0,-,0,-,0
-2014,Georgia,GEO,Georgia,GEO,0,0,262704,-,0,-,0
-2014,India,IND,Georgia,GEO,0,5,0,-,0,-,0
-2014,Iran (Islamic Rep. of),IRN,Georgia,GEO,0,32,0,-,0,-,0
-2014,Iraq,IRQ,Georgia,GEO,127,715,0,-,0,-,0
-2014,Kazakhstan,KAZ,Georgia,GEO,0,5,0,-,0,-,0
-2014,Kuwait,KWT,Georgia,GEO,0,5,0,-,0,-,0
-2014,Lebanon,LBN,Georgia,GEO,0,6,0,-,0,-,0
-2014,Russian Federation,RUS,Georgia,GEO,245,28,0,-,0,-,0
-2014,Syrian Arab Rep.,SYR,Georgia,GEO,471,35,0,-,0,-,0
-2014,Tajikistan,TJK,Georgia,GEO,5,0,0,-,0,-,0
-2014,Türkiye,TUR,Georgia,GEO,0,6,0,-,0,-,0
-2014,Ukraine,UKR,Georgia,GEO,0,354,0,-,0,-,0
-2014,Stateless,XXA,Georgia,GEO,0,0,0,-,770,-,0
 2014,Afghanistan,AFG,Germany,DEU,27814,19023,0,-,0,-,0
 2014,Albania,ALB,Germany,DEU,366,6985,0,-,0,-,0
 2014,Algeria,DZA,Germany,DEU,301,2263,0,-,0,-,0
@@ -29686,13 +29070,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2014,Zimbabwe,ZWE,Italy,ITA,27,5,0,-,0,-,0
 2014,Stateless,XXA,Italy,ITA,21,5,0,-,813,-,0
 2014,Unknown ,UNK,Italy,ITA,982,495,0,-,0,-,0
-2014,Afghanistan,AFG,Kazakhstan,KAZ,578,24,0,-,0,-,0
-2014,China,CHN,Kazakhstan,KAZ,9,6,0,-,0,-,0
-2014,Kyrgyzstan,KGZ,Kazakhstan,KAZ,0,7,0,-,0,-,0
-2014,Syrian Arab Rep.,SYR,Kazakhstan,KAZ,14,29,0,-,0,-,0
-2014,Ukraine,UKR,Kazakhstan,KAZ,0,21,0,-,0,-,0
-2014,Uzbekistan,UZB,Kazakhstan,KAZ,27,5,0,-,0,-,0
-2014,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,7038,-,0
 2014,Albania,ALB,Liechtenstein,LIE,0,5,0,-,0,-,0
 2014,Armenia,ARM,Liechtenstein,LIE,8,8,0,-,0,-,0
 2014,Bosnia and Herzegovina,BIH,Liechtenstein,LIE,0,5,0,-,0,-,0
@@ -30505,18 +29882,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2015,Türkiye,TUR,Albania,ALB,5,0,0,-,0,-,0
 2015,Uzbekistan,UZB,Albania,ALB,5,0,0,-,0,-,0
 2015,Stateless,XXA,Albania,ALB,0,0,0,-,7442,-,0
-2015,Azerbaijan,AZE,Armenia,ARM,1501,0,0,-,0,-,0
-2015,Palestinian,PSE,Armenia,ARM,6,0,0,-,0,-,0
-2015,Georgia,GEO,Armenia,ARM,8,0,0,-,0,-,0
-2015,Guinea,GIN,Armenia,ARM,0,6,0,-,0,-,0
-2015,Cote d'Ivoire,CIV,Armenia,ARM,6,0,0,-,0,-,0
-2015,Iran (Islamic Rep. of),IRN,Armenia,ARM,30,22,0,-,0,-,0
-2015,Iraq,IRQ,Armenia,ARM,1019,12,0,-,0,-,0
-2015,Lebanon,LBN,Armenia,ARM,19,0,0,-,0,-,0
-2015,Syrian Arab Rep.,SYR,Armenia,ARM,16611,11,0,-,0,-,0
-2015,Ukraine,UKR,Armenia,ARM,109,0,0,-,0,-,0
-2015,Yemen,YEM,Armenia,ARM,5,0,0,-,0,-,0
-2015,Stateless,XXA,Armenia,ARM,0,0,0,-,311,-,0
 2015,Afghanistan,AFG,Austria,AUT,17458,24267,0,-,0,-,0
 2015,Albania,ALB,Austria,AUT,106,134,0,-,0,-,0
 2015,Algeria,DZA,Austria,AUT,52,609,0,-,0,-,0
@@ -30608,18 +29973,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2015,Zimbabwe,ZWE,Austria,AUT,23,6,0,-,0,-,0
 2015,Stateless,XXA,Austria,AUT,2457,1868,0,-,828,-,0
 2015,Unknown ,UNK,Austria,AUT,178,451,0,-,0,-,0
-2015,Afghanistan,AFG,Azerbaijan,AZE,602,134,0,-,0,-,0
-2015,Azerbaijan,AZE,Azerbaijan,AZE,0,0,618220,-,0,-,0
-2015,Palestinian,PSE,Azerbaijan,AZE,5,0,0,-,0,-,0
-2015,Georgia,GEO,Azerbaijan,AZE,0,5,0,-,0,-,0
-2015,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,71,13,0,-,0,-,0
-2015,Iraq,IRQ,Azerbaijan,AZE,16,5,0,-,0,-,0
-2015,Pakistan,PAK,Azerbaijan,AZE,18,0,0,-,0,-,0
-2015,Russian Federation,RUS,Azerbaijan,AZE,539,46,0,-,0,-,0
-2015,Syrian Arab Rep.,SYR,Azerbaijan,AZE,8,7,0,-,0,-,0
-2015,Ukraine,UKR,Azerbaijan,AZE,15,0,0,-,0,-,0
-2015,Yemen,YEM,Azerbaijan,AZE,5,5,0,-,0,-,0
-2015,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,3585,-,0
 2015,Afghanistan,AFG,Belgium,BEL,2934,1643,0,-,0,-,0
 2015,Albania,ALB,Belgium,BEL,484,382,0,-,0,-,0
 2015,Algeria,DZA,Belgium,BEL,47,65,0,-,0,-,0
@@ -31116,31 +30469,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2015,Zimbabwe,ZWE,France,FRA,34,21,0,-,0,-,0
 2015,Stateless,XXA,France,FRA,0,0,0,-,1326,-,0
 2015,Unknown ,UNK,France,FRA,68443,85,0,-,0,-,0
-2015,Afghanistan,AFG,Georgia,GEO,5,6,0,-,0,-,0
-2015,Egypt,EGY,Georgia,GEO,6,37,0,-,0,-,0
-2015,Azerbaijan,AZE,Georgia,GEO,0,5,0,-,0,-,0
-2015,Bangladesh,BGD,Georgia,GEO,0,61,0,-,0,-,0
-2015,Cameroon,CMR,Georgia,GEO,0,14,0,-,0,-,0
-2015,Gambia,GMB,Georgia,GEO,0,5,0,-,0,-,0
-2015,Georgia,GEO,Georgia,GEO,0,0,268416,-,0,-,0
-2015,Ghana,GHA,Georgia,GEO,0,10,0,-,0,-,0
-2015,Cote d'Ivoire,CIV,Georgia,GEO,0,25,0,-,0,-,0
-2015,India,IND,Georgia,GEO,0,5,0,-,0,-,0
-2015,Iran (Islamic Rep. of),IRN,Georgia,GEO,0,30,0,-,0,-,0
-2015,Iraq,IRQ,Georgia,GEO,553,392,0,-,0,-,0
-2015,Lebanon,LBN,Georgia,GEO,6,0,0,-,0,-,0
-2015,Morocco,MAR,Georgia,GEO,0,5,0,-,0,-,0
-2015,Nigeria,NGA,Georgia,GEO,0,27,0,-,0,-,0
-2015,Pakistan,PAK,Georgia,GEO,0,13,0,-,0,-,0
-2015,Russian Federation,RUS,Georgia,GEO,255,12,0,-,0,-,0
-2015,Somalia,SOM,Georgia,GEO,0,5,0,-,0,-,0
-2015,Syrian Arab Rep.,SYR,Georgia,GEO,475,10,0,-,0,-,0
-2015,Tajikistan,TJK,Georgia,GEO,5,0,0,-,0,-,0
-2015,Türkiye,TUR,Georgia,GEO,0,6,0,-,0,-,0
-2015,Ukraine,UKR,Georgia,GEO,668,38,0,-,0,-,0
-2015,Uzbekistan,UZB,Georgia,GEO,0,9,0,-,0,-,0
-2015,Yemen,YEM,Georgia,GEO,0,5,0,-,0,-,0
-2015,Stateless,XXA,Georgia,GEO,0,0,0,-,627,-,0
 2015,Afghanistan,AFG,Germany,DEU,30026,42602,0,-,0,-,0
 2015,Albania,ALB,Germany,DEU,472,32295,0,-,0,-,0
 2015,Algeria,DZA,Germany,DEU,289,3661,0,-,0,-,0
@@ -31670,12 +30998,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2015,Zambia,ZMB,Italy,ITA,29,0,0,-,0,-,0
 2015,Stateless,XXA,Italy,ITA,20,0,0,-,747,-,0
 2015,Unknown ,UNK,Italy,ITA,1212,1010,0,-,0,-,0
-2015,Afghanistan,AFG,Kazakhstan,KAZ,644,49,0,-,0,-,0
-2015,China,CHN,Kazakhstan,KAZ,8,6,0,-,0,-,0
-2015,Syrian Arab Rep.,SYR,Kazakhstan,KAZ,23,16,0,-,0,-,0
-2015,Ukraine,UKR,Kazakhstan,KAZ,0,18,0,-,0,-,0
-2015,Uzbekistan,UZB,Kazakhstan,KAZ,26,0,0,-,0,-,0
-2015,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,7909,-,0
 2015,Afghanistan,AFG,Liechtenstein,LIE,0,7,0,-,0,-,0
 2015,Albania,ALB,Liechtenstein,LIE,0,5,0,-,0,-,0
 2015,Armenia,ARM,Liechtenstein,LIE,8,0,0,-,0,-,0
@@ -32484,19 +31806,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2016,Türkiye,TUR,Albania,ALB,5,0,0,-,0,-,0
 2016,Uzbekistan,UZB,Albania,ALB,5,0,0,-,0,-,0
 2016,Stateless,XXA,Albania,ALB,0,0,0,-,4921,-,0
-2016,Azerbaijan,AZE,Armenia,ARM,2046,0,0,-,0,-,0
-2016,Cuba,CUB,Armenia,ARM,0,6,0,-,0,-,0
-2016,Palestinian,PSE,Armenia,ARM,6,0,0,-,0,-,0
-2016,Georgia,GEO,Armenia,ARM,8,0,0,-,0,-,0
-2016,Cote d'Ivoire,CIV,Armenia,ARM,6,0,0,-,0,-,0
-2016,Iran (Islamic Rep. of),IRN,Armenia,ARM,32,19,0,-,0,-,0
-2016,Iraq,IRQ,Armenia,ARM,1017,23,0,-,0,-,0
-2016,Lebanon,LBN,Armenia,ARM,19,0,0,-,0,-,0
-2016,Syrian Arab Rep.,SYR,Armenia,ARM,14626,20,0,-,0,-,0
-2016,Türkiye,TUR,Armenia,ARM,5,0,0,-,0,-,0
-2016,Ukraine,UKR,Armenia,ARM,113,5,0,-,0,-,0
-2016,Yemen,YEM,Armenia,ARM,5,0,0,-,0,-,0
-2016,Stateless,XXA,Armenia,ARM,0,0,0,-,512,-,0
 2016,Afghanistan,AFG,Austria,AUT,20220,29783,0,-,0,-,0
 2016,Albania,ALB,Austria,AUT,93,100,0,-,0,-,0
 2016,Algeria,DZA,Austria,AUT,53,570,0,-,0,-,0
@@ -32591,19 +31900,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2016,Zimbabwe,ZWE,Austria,AUT,22,6,0,-,0,-,0
 2016,Stateless,XXA,Austria,AUT,2398,0,0,-,937,-,0
 2016,Unknown ,UNK,Austria,AUT,1933,1440,0,-,0,-,0
-2016,Afghanistan,AFG,Azerbaijan,AZE,562,135,0,-,0,-,0
-2016,Azerbaijan,AZE,Azerbaijan,AZE,0,0,613129,-,0,-,0
-2016,Eritrea,ERI,Azerbaijan,AZE,0,5,0,-,0,-,0
-2016,Palestinian,PSE,Azerbaijan,AZE,5,0,0,-,0,-,0
-2016,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,61,8,0,-,0,-,0
-2016,Iraq,IRQ,Azerbaijan,AZE,13,10,0,-,0,-,0
-2016,Pakistan,PAK,Azerbaijan,AZE,22,21,0,-,0,-,0
-2016,Russian Federation,RUS,Azerbaijan,AZE,501,55,0,-,0,-,0
-2016,Syrian Arab Rep.,SYR,Azerbaijan,AZE,15,8,0,-,0,-,0
-2016,Türkiye,TUR,Azerbaijan,AZE,0,8,0,-,0,-,0
-2016,Ukraine,UKR,Azerbaijan,AZE,9,0,0,-,0,-,0
-2016,Yemen,YEM,Azerbaijan,AZE,5,5,0,-,0,-,0
-2016,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,3585,-,0
 2016,Afghanistan,AFG,Belgium,BEL,3201,6457,0,-,0,-,0
 2016,Albania,ALB,Belgium,BEL,534,368,0,-,0,-,0
 2016,Algeria,DZA,Belgium,BEL,46,80,0,-,0,-,0
@@ -33110,29 +32406,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2016,Zimbabwe,ZWE,France,FRA,37,7,0,-,0,-,0
 2016,Stateless,XXA,France,FRA,0,410,0,-,1370,-,0
 2016,Unknown ,UNK,France,FRA,77661,1497,0,-,0,-,0
-2016,Afghanistan,AFG,Georgia,GEO,5,9,0,-,0,-,0
-2016,Egypt,EGY,Georgia,GEO,8,30,0,-,0,-,0
-2016,Azerbaijan,AZE,Georgia,GEO,0,9,0,-,0,-,0
-2016,Bangladesh,BGD,Georgia,GEO,0,6,0,-,0,-,0
-2016,Cameroon,CMR,Georgia,GEO,0,5,0,-,0,-,0
-2016,Congo,COG,Georgia,GEO,0,5,0,-,0,-,0
-2016,Georgia,GEO,Georgia,GEO,0,0,273765,-,0,-,0
-2016,India,IND,Georgia,GEO,0,25,0,-,0,-,0
-2016,Iran (Islamic Rep. of),IRN,Georgia,GEO,18,24,0,-,0,-,0
-2016,Iraq,IRQ,Georgia,GEO,669,81,0,-,0,-,0
-2016,Lebanon,LBN,Georgia,GEO,6,0,0,-,0,-,0
-2016,Sri Lanka,LKA,Georgia,GEO,0,5,0,-,0,-,0
-2016,Nepal,NPL,Georgia,GEO,0,5,0,-,0,-,0
-2016,Nigeria,NGA,Georgia,GEO,0,31,0,-,0,-,0
-2016,Pakistan,PAK,Georgia,GEO,7,8,0,-,0,-,0
-2016,Russian Federation,RUS,Georgia,GEO,265,16,0,-,0,-,0
-2016,Syrian Arab Rep.,SYR,Georgia,GEO,425,12,0,-,0,-,0
-2016,Tajikistan,TJK,Georgia,GEO,5,0,0,-,0,-,0
-2016,Türkiye,TUR,Georgia,GEO,0,15,0,-,0,-,0
-2016,Ukraine,UKR,Georgia,GEO,702,14,0,-,0,-,0
-2016,Uzbekistan,UZB,Georgia,GEO,7,0,0,-,0,-,0
-2016,Stateless,XXA,Georgia,GEO,0,0,0,-,580,-,0
-2016,Unknown ,UNK,Georgia,GEO,5,5,0,-,0,-,0
 2016,Afghanistan,AFG,Germany,DEU,46292,126522,0,-,0,-,0
 2016,Albania,ALB,Germany,DEU,699,11258,0,-,0,-,0
 2016,Algeria,DZA,Germany,DEU,397,2744,0,-,0,-,0
@@ -33665,12 +32938,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2016,Zimbabwe,ZWE,Italy,ITA,29,0,0,-,0,-,0
 2016,Stateless,XXA,Italy,ITA,16,0,0,-,701,-,0
 2016,Unknown ,UNK,Italy,ITA,1251,220,0,-,0,-,0
-2016,Afghanistan,AFG,Kazakhstan,KAZ,599,87,0,-,0,-,0
-2016,China,CHN,Kazakhstan,KAZ,6,6,0,-,0,-,0
-2016,Syrian Arab Rep.,SYR,Kazakhstan,KAZ,19,22,0,-,0,-,0
-2016,Ukraine,UKR,Kazakhstan,KAZ,0,18,0,-,0,-,0
-2016,Uzbekistan,UZB,Kazakhstan,KAZ,23,0,0,-,0,-,0
-2016,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,8451,-,0
 2016,Afghanistan,AFG,Liechtenstein,LIE,0,7,0,-,0,-,0
 2016,Albania,ALB,Liechtenstein,LIE,0,5,0,-,0,-,0
 2016,Armenia,ARM,Liechtenstein,LIE,8,0,0,-,0,-,0
@@ -34489,20 +33756,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2017,Uzbekistan,UZB,Albania,ALB,5,0,0,-,0,-,0
 2017,Venezuela (Bolivarian Republic of),VEN,Albania,ALB,5,0,0,-,0,-,0
 2017,Stateless,XXA,Albania,ALB,0,0,0,-,4460,-,0
-2017,Afghanistan,AFG,Armenia,ARM,0,5,0,-,0,-,0
-2017,Azerbaijan,AZE,Armenia,ARM,2034,0,0,-,0,-,0
-2017,Palestinian,PSE,Armenia,ARM,6,0,0,-,0,-,0
-2017,Georgia,GEO,Armenia,ARM,8,0,0,-,0,-,0
-2017,Cote d'Ivoire,CIV,Armenia,ARM,6,0,0,-,0,-,0
-2017,Iran (Islamic Rep. of),IRN,Armenia,ARM,31,19,0,-,0,-,0
-2017,Iraq,IRQ,Armenia,ARM,1061,5,0,-,0,-,0
-2017,Lebanon,LBN,Armenia,ARM,19,0,0,-,0,-,0
-2017,Syrian Arab Rep.,SYR,Armenia,ARM,14680,12,0,-,0,-,0
-2017,Türkiye,TUR,Armenia,ARM,5,10,0,-,0,-,0
-2017,Ukraine,UKR,Armenia,ARM,113,0,0,-,0,-,0
-2017,Uzbekistan,UZB,Armenia,ARM,0,5,0,-,0,-,0
-2017,Yemen,YEM,Armenia,ARM,5,6,0,-,0,-,0
-2017,Stateless,XXA,Armenia,ARM,0,0,0,-,773,-,0
 2017,Afghanistan,AFG,Austria,AUT,26939,24233,0,-,0,-,0
 2017,Albania,ALB,Austria,AUT,88,51,0,-,0,-,0
 2017,Algeria,DZA,Austria,AUT,43,248,0,-,0,-,0
@@ -34593,20 +33846,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2017,Zimbabwe,ZWE,Austria,AUT,22,5,0,-,0,-,0
 2017,Stateless,XXA,Austria,AUT,2326,0,0,-,1003,-,0
 2017,Unknown ,UNK,Austria,AUT,3308,756,0,-,0,-,0
-2017,Afghanistan,AFG,Azerbaijan,AZE,587,70,0,-,0,-,0
-2017,Azerbaijan,AZE,Azerbaijan,AZE,0,0,612785,-,0,-,0
-2017,Palestinian,PSE,Azerbaijan,AZE,5,0,0,-,0,-,0
-2017,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,56,0,0,-,0,-,0
-2017,Iraq,IRQ,Azerbaijan,AZE,8,0,0,-,0,-,0
-2017,Sri Lanka,LKA,Azerbaijan,AZE,0,5,0,-,0,-,0
-2017,Pakistan,PAK,Azerbaijan,AZE,16,8,0,-,0,-,0
-2017,Russian Federation,RUS,Azerbaijan,AZE,419,28,0,-,0,-,0
-2017,Syrian Arab Rep.,SYR,Azerbaijan,AZE,15,0,0,-,0,-,0
-2017,Türkiye,TUR,Azerbaijan,AZE,0,8,0,-,0,-,0
-2017,Ukraine,UKR,Azerbaijan,AZE,6,0,0,-,0,-,0
-2017,Uzbekistan,UZB,Azerbaijan,AZE,0,5,0,-,0,-,0
-2017,Yemen,YEM,Azerbaijan,AZE,8,0,0,-,0,-,0
-2017,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,3585,-,0
 2017,Afghanistan,AFG,Belgium,BEL,3201,3915,0,-,0,-,0
 2017,Albania,ALB,Belgium,BEL,534,385,0,-,0,-,0
 2017,Algeria,DZA,Belgium,BEL,46,100,0,-,0,-,0
@@ -35120,33 +34359,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2017,Zimbabwe,ZWE,France,FRA,44,0,0,-,0,-,0
 2017,Stateless,XXA,France,FRA,0,0,0,-,1425,-,0
 2017,Unknown ,UNK,France,FRA,86381,1866,0,-,0,-,0
-2017,Afghanistan,AFG,Georgia,GEO,5,16,0,-,0,-,0
-2017,Egypt,EGY,Georgia,GEO,19,70,0,-,0,-,0
-2017,Azerbaijan,AZE,Georgia,GEO,6,9,0,-,0,-,0
-2017,Bangladesh,BGD,Georgia,GEO,0,23,0,-,0,-,0
-2017,Cameroon,CMR,Georgia,GEO,0,5,0,-,0,-,0
-2017,Congo,COG,Georgia,GEO,0,6,0,-,0,-,0
-2017,Eritrea,ERI,Georgia,GEO,0,69,0,-,0,-,0
-2017,Georgia,GEO,Georgia,GEO,0,0,278103,-,0,-,0
-2017,Ghana,GHA,Georgia,GEO,0,5,0,-,0,-,0
-2017,India,IND,Georgia,GEO,0,12,0,-,0,-,0
-2017,Iran (Islamic Rep. of),IRN,Georgia,GEO,34,37,0,-,0,-,0
-2017,Iraq,IRQ,Georgia,GEO,630,28,0,-,0,-,0
-2017,Lebanon,LBN,Georgia,GEO,6,0,0,-,0,-,0
-2017,Sri Lanka,LKA,Georgia,GEO,0,5,0,-,0,-,0
-2017,Nigeria,NGA,Georgia,GEO,0,19,0,-,0,-,0
-2017,Pakistan,PAK,Georgia,GEO,10,40,0,-,0,-,0
-2017,Russian Federation,RUS,Georgia,GEO,259,30,0,-,0,-,0
-2017,Saudi Arabia,SAU,Georgia,GEO,0,5,0,-,0,-,0
-2017,Somalia,SOM,Georgia,GEO,0,24,0,-,0,-,0
-2017,Sudan,SDN,Georgia,GEO,6,5,0,-,0,-,0
-2017,Syrian Arab Rep.,SYR,Georgia,GEO,445,9,0,-,0,-,0
-2017,Tajikistan,TJK,Georgia,GEO,5,0,0,-,0,-,0
-2017,Türkiye,TUR,Georgia,GEO,0,41,0,-,0,-,0
-2017,Ukraine,UKR,Georgia,GEO,654,5,0,-,0,-,0
-2017,Yemen,YEM,Georgia,GEO,5,50,0,-,0,-,0
-2017,Stateless,XXA,Georgia,GEO,0,12,0,-,587,-,0
-2017,Unknown ,UNK,Georgia,GEO,5,5,0,-,0,-,0
 2017,Afghanistan,AFG,Germany,DEU,104385,87321,0,-,0,-,0
 2017,Albania,ALB,Germany,DEU,983,4838,0,-,0,-,0
 2017,Algeria,DZA,Germany,DEU,524,1748,0,-,0,-,0
@@ -35708,12 +34920,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2017,Zimbabwe,ZWE,Italy,ITA,24,11,0,-,0,-,0
 2017,Stateless,XXA,Italy,ITA,19,13,0,-,715,-,0
 2017,Unknown ,UNK,Italy,ITA,1353,0,0,-,0,-,0
-2017,Afghanistan,AFG,Kazakhstan,KAZ,561,164,0,-,0,-,0
-2017,China,CHN,Kazakhstan,KAZ,6,6,0,-,0,-,0
-2017,Syrian Arab Rep.,SYR,Kazakhstan,KAZ,17,23,0,-,0,-,0
-2017,Türkiye,TUR,Kazakhstan,KAZ,0,14,0,-,0,-,0
-2017,Uzbekistan,UZB,Kazakhstan,KAZ,18,0,0,-,0,-,0
-2017,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,8138,-,0
 2017,Afghanistan,AFG,Liechtenstein,LIE,5,0,0,-,0,-,0
 2017,Albania,ALB,Liechtenstein,LIE,0,6,0,-,0,-,0
 2017,Armenia,ARM,Liechtenstein,LIE,8,0,0,-,0,-,0
@@ -36545,21 +35751,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2018,Uzbekistan,UZB,Albania,ALB,5,0,0,-,0,-,0
 2018,Venezuela (Bolivarian Republic of),VEN,Albania,ALB,5,0,0,-,0,-,0
 2018,Stateless,XXA,Albania,ALB,0,0,0,-,4160,-,0
-2018,Afghanistan,AFG,Armenia,ARM,0,16,0,-,0,-,0
-2018,Azerbaijan,AZE,Armenia,ARM,1961,0,0,-,0,-,0
-2018,Cuba,CUB,Armenia,ARM,0,5,0,-,0,-,0
-2018,Palestinian,PSE,Armenia,ARM,7,0,0,-,0,-,0
-2018,Georgia,GEO,Armenia,ARM,8,0,0,-,0,-,0
-2018,Cote d'Ivoire,CIV,Armenia,ARM,6,0,0,-,0,-,0
-2018,Iran (Islamic Rep. of),IRN,Armenia,ARM,36,41,0,-,0,-,0
-2018,Iraq,IRQ,Armenia,ARM,1083,9,0,-,0,-,0
-2018,Lebanon,LBN,Armenia,ARM,19,5,0,-,0,-,0
-2018,Nigeria,NGA,Armenia,ARM,5,0,0,-,0,-,0
-2018,Syrian Arab Rep.,SYR,Armenia,ARM,14701,8,0,-,0,-,0
-2018,Türkiye,TUR,Armenia,ARM,5,16,0,-,0,-,0
-2018,Ukraine,UKR,Armenia,ARM,115,5,0,-,0,-,0
-2018,Yemen,YEM,Armenia,ARM,20,0,0,-,0,-,0
-2018,Stateless,XXA,Armenia,ARM,0,0,0,-,848,-,0
 2018,Afghanistan,AFG,Austria,AUT,33103,16093,0,-,0,-,0
 2018,Albania,ALB,Austria,AUT,81,48,0,-,0,-,0
 2018,Algeria,DZA,Austria,AUT,42,130,0,-,0,-,0
@@ -36651,19 +35842,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2018,Zimbabwe,ZWE,Austria,AUT,14,5,0,-,0,-,0
 2018,Stateless,XXA,Austria,AUT,2242,0,0,-,1062,-,0
 2018,Unknown ,UNK,Austria,AUT,4007,409,0,-,0,-,0
-2018,Afghanistan,AFG,Azerbaijan,AZE,636,100,0,-,0,-,0
-2018,Azerbaijan,AZE,Azerbaijan,AZE,0,0,620423,-,0,-,0
-2018,Palestinian,PSE,Azerbaijan,AZE,5,0,0,-,0,-,0
-2018,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,43,9,0,-,0,-,0
-2018,Iraq,IRQ,Azerbaijan,AZE,5,9,0,-,0,-,0
-2018,Libya,LBY,Azerbaijan,AZE,5,0,0,-,0,-,0
-2018,Nepal,NPL,Azerbaijan,AZE,0,7,0,-,0,-,0
-2018,Pakistan,PAK,Azerbaijan,AZE,15,44,0,-,0,-,0
-2018,Russian Federation,RUS,Azerbaijan,AZE,392,30,0,-,0,-,0
-2018,Syrian Arab Rep.,SYR,Azerbaijan,AZE,15,5,0,-,0,-,0
-2018,Ukraine,UKR,Azerbaijan,AZE,5,0,0,-,0,-,0
-2018,Yemen,YEM,Azerbaijan,AZE,9,5,0,-,0,-,0
-2018,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,3585,-,0
 2018,Afghanistan,AFG,Belgium,BEL,3201,2105,0,-,0,-,0
 2018,Albania,ALB,Belgium,BEL,534,395,0,-,0,-,0
 2018,Algeria,DZA,Belgium,BEL,46,125,0,-,0,-,0
@@ -37181,34 +36359,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2018,Zimbabwe,ZWE,France,FRA,46,6,0,-,0,-,0
 2018,Stateless,XXA,France,FRA,0,515,0,-,1493,-,0
 2018,Unknown ,UNK,France,FRA,91266,1442,0,-,0,-,0
-2018,Afghanistan,AFG,Georgia,GEO,5,37,0,-,0,-,0
-2018,Egypt,EGY,Georgia,GEO,43,49,0,-,0,-,0
-2018,Armenia,ARM,Georgia,GEO,0,5,0,-,0,-,0
-2018,Azerbaijan,AZE,Georgia,GEO,6,14,0,-,0,-,0
-2018,Bangladesh,BGD,Georgia,GEO,0,19,0,-,0,-,0
-2018,Cameroon,CMR,Georgia,GEO,0,5,0,-,0,-,0
-2018,Congo,COG,Georgia,GEO,0,8,0,-,0,-,0
-2018,Ethiopia,ETH,Georgia,GEO,0,5,0,-,0,-,0
-2018,Georgia,GEO,Georgia,GEO,0,0,282382,-,0,-,0
-2018,Ghana,GHA,Georgia,GEO,0,5,0,-,0,-,0
-2018,India,IND,Georgia,GEO,0,23,0,-,0,-,0
-2018,Iran (Islamic Rep. of),IRN,Georgia,GEO,34,183,0,-,0,-,0
-2018,Iraq,IRQ,Georgia,GEO,560,46,0,-,0,-,0
-2018,Lebanon,LBN,Georgia,GEO,6,5,0,-,0,-,0
-2018,Nigeria,NGA,Georgia,GEO,0,18,0,-,0,-,0
-2018,Pakistan,PAK,Georgia,GEO,11,14,0,-,0,-,0
-2018,South Africa,ZAF,Georgia,GEO,0,6,0,-,0,-,0
-2018,Russian Federation,RUS,Georgia,GEO,235,21,0,-,0,-,0
-2018,Sierra Leone,SLE,Georgia,GEO,0,5,0,-,0,-,0
-2018,Somalia,SOM,Georgia,GEO,0,27,0,-,0,-,0
-2018,Sudan,SDN,Georgia,GEO,6,6,0,-,0,-,0
-2018,Syrian Arab Rep.,SYR,Georgia,GEO,428,24,0,-,0,-,0
-2018,Tajikistan,TJK,Georgia,GEO,5,0,0,-,0,-,0
-2018,Türkiye,TUR,Georgia,GEO,5,85,0,-,0,-,0
-2018,Ukraine,UKR,Georgia,GEO,617,10,0,-,0,-,0
-2018,Yemen,YEM,Georgia,GEO,20,35,0,-,0,-,0
-2018,Stateless,XXA,Georgia,GEO,0,5,0,-,566,-,0
-2018,Unknown ,UNK,Georgia,GEO,6,17,0,-,0,-,0
 2018,Afghanistan,AFG,Germany,DEU,126018,65838,0,-,0,-,0
 2018,Albania,ALB,Germany,DEU,1170,3146,0,-,0,-,0
 2018,Algeria,DZA,Germany,DEU,589,1295,0,-,0,-,0
@@ -37766,11 +36916,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2018,Zimbabwe,ZWE,Italy,ITA,25,6,0,-,0,-,0
 2018,Stateless,XXA,Italy,ITA,17,0,0,-,732,-,0
 2018,Unknown ,UNK,Italy,ITA,1437,0,0,-,0,-,0
-2018,Afghanistan,AFG,Kazakhstan,KAZ,538,164,0,-,0,-,0
-2018,China,CHN,Kazakhstan,KAZ,0,12,0,-,0,-,0
-2018,Syrian Arab Rep.,SYR,Kazakhstan,KAZ,15,14,0,-,0,-,0
-2018,Uzbekistan,UZB,Kazakhstan,KAZ,15,0,0,-,0,-,0
-2018,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,7690,-,0
 2018,Afghanistan,AFG,Liechtenstein,LIE,5,0,0,-,0,-,0
 2018,Armenia,ARM,Liechtenstein,LIE,8,0,0,-,0,-,0
 2018,Belarus,BLR,Liechtenstein,LIE,0,5,0,-,0,-,0
@@ -38632,23 +37777,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2019,Uzbekistan,UZB,Albania,ALB,5,0,0,-,0,-,0
 2019,Venezuela (Bolivarian Republic of),VEN,Albania,ALB,5,0,0,-,0,-,0
 2019,Stateless,XXA,Albania,ALB,0,0,0,-,3687,-,0
-2019,Afghanistan,AFG,Armenia,ARM,5,0,0,-,0,-,0
-2019,Egypt,EGY,Armenia,ARM,5,0,0,-,0,-,0
-2019,Azerbaijan,AZE,Armenia,ARM,1888,5,0,-,0,-,0
-2019,Cuba,CUB,Armenia,ARM,0,23,0,-,0,-,0
-2019,Palestinian,PSE,Armenia,ARM,7,0,0,-,0,-,0
-2019,Georgia,GEO,Armenia,ARM,8,5,0,-,0,-,0
-2019,Cote d'Ivoire,CIV,Armenia,ARM,6,0,0,-,0,-,0
-2019,Iran (Islamic Rep. of),IRN,Armenia,ARM,68,84,0,-,0,-,0
-2019,Iraq,IRQ,Armenia,ARM,1087,0,0,-,0,-,0
-2019,Lebanon,LBN,Armenia,ARM,24,0,0,-,0,-,0
-2019,Nigeria,NGA,Armenia,ARM,5,0,0,-,0,-,0
-2019,Russian Federation,RUS,Armenia,ARM,0,5,0,-,0,-,0
-2019,Syrian Arab Rep.,SYR,Armenia,ARM,14730,16,0,-,0,-,0
-2019,Türkiye,TUR,Armenia,ARM,9,15,0,-,0,-,0
-2019,Ukraine,UKR,Armenia,ARM,116,5,0,-,0,-,0
-2019,Yemen,YEM,Armenia,ARM,22,0,0,-,0,-,0
-2019,Stateless,XXA,Armenia,ARM,0,0,0,-,961,-,0
 2019,Afghanistan,AFG,Austria,AUT,37276,10326,0,-,0,-,0
 2019,Albania,ALB,Austria,AUT,72,45,0,-,0,-,0
 2019,Algeria,DZA,Austria,AUT,37,117,0,-,0,-,0
@@ -38736,20 +37864,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2019,Zimbabwe,ZWE,Austria,AUT,11,0,0,-,0,-,0
 2019,Stateless,XXA,Austria,AUT,2199,0,0,-,1132,-,0
 2019,Unknown ,UNK,Austria,AUT,4341,260,0,-,0,-,0
-2019,Afghanistan,AFG,Azerbaijan,AZE,627,94,0,-,0,-,0
-2019,Egypt,EGY,Azerbaijan,AZE,0,5,0,-,0,-,0
-2019,Azerbaijan,AZE,Azerbaijan,AZE,0,0,652326,-,0,-,0
-2019,Palestinian,PSE,Azerbaijan,AZE,5,0,0,-,0,-,0
-2019,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,43,7,0,-,0,-,0
-2019,Iraq,IRQ,Azerbaijan,AZE,5,6,0,-,0,-,0
-2019,Libya,LBY,Azerbaijan,AZE,5,0,0,-,0,-,0
-2019,Sri Lanka,LKA,Azerbaijan,AZE,0,5,0,-,0,-,0
-2019,Pakistan,PAK,Azerbaijan,AZE,16,34,0,-,0,-,0
-2019,Russian Federation,RUS,Azerbaijan,AZE,372,30,0,-,0,-,0
-2019,Syrian Arab Rep.,SYR,Azerbaijan,AZE,20,0,0,-,0,-,0
-2019,Ukraine,UKR,Azerbaijan,AZE,5,0,0,-,0,-,0
-2019,Yemen,YEM,Azerbaijan,AZE,11,0,0,-,0,-,0
-2019,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,3585,-,0
 2019,Afghanistan,AFG,Belgium,BEL,5070,1035,0,-,0,-,0
 2019,Albania,ALB,Belgium,BEL,712,208,0,-,0,-,0
 2019,Algeria,DZA,Belgium,BEL,75,78,0,-,0,-,0
@@ -39288,38 +38402,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2019,Zimbabwe,ZWE,France,FRA,51,5,0,-,0,-,0
 2019,Stateless,XXA,France,FRA,0,459,0,-,1980,-,0
 2019,Unknown ,UNK,France,FRA,101068,1496,0,-,0,-,0
-2019,Afghanistan,AFG,Georgia,GEO,11,18,0,-,0,-,0
-2019,Egypt,EGY,Georgia,GEO,60,114,0,-,0,-,0
-2019,Azerbaijan,AZE,Georgia,GEO,5,5,0,-,0,-,0
-2019,Bangladesh,BGD,Georgia,GEO,0,25,0,-,0,-,0
-2019,China,CHN,Georgia,GEO,0,5,0,-,0,-,0
-2019,Cameroon,CMR,Georgia,GEO,0,7,0,-,0,-,0
-2019,Dem. Rep. of the Congo,COD,Georgia,GEO,5,5,0,-,0,-,0
-2019,Eritrea,ERI,Georgia,GEO,0,15,0,-,0,-,0
-2019,Palestinian,PSE,Georgia,GEO,0,14,0,-,0,-,0
-2019,Georgia,GEO,Georgia,GEO,0,0,286216,-,0,-,0
-2019,India,IND,Georgia,GEO,0,55,0,-,0,-,0
-2019,Iran (Islamic Rep. of),IRN,Georgia,GEO,33,462,0,-,0,-,0
-2019,Iraq,IRQ,Georgia,GEO,527,66,0,-,0,-,0
-2019,Jordan,JOR,Georgia,GEO,0,25,0,-,0,-,0
-2019,Kazakhstan,KAZ,Georgia,GEO,0,9,0,-,0,-,0
-2019,Lebanon,LBN,Georgia,GEO,6,7,0,-,0,-,0
-2019,Morocco,MAR,Georgia,GEO,0,5,0,-,0,-,0
-2019,Nigeria,NGA,Georgia,GEO,0,34,0,-,0,-,0
-2019,Pakistan,PAK,Georgia,GEO,11,20,0,-,0,-,0
-2019,South Africa,ZAF,Georgia,GEO,0,5,0,-,0,-,0
-2019,Russian Federation,RUS,Georgia,GEO,240,50,0,-,0,-,0
-2019,Somalia,SOM,Georgia,GEO,0,33,0,-,0,-,0
-2019,Sudan,SDN,Georgia,GEO,6,6,0,-,0,-,0
-2019,Syrian Arab Rep.,SYR,Georgia,GEO,91,26,0,-,0,-,341
-2019,Tajikistan,TJK,Georgia,GEO,5,0,0,-,0,-,0
-2019,Turkmenistan,TKM,Georgia,GEO,0,5,0,-,0,-,0
-2019,Türkiye,TUR,Georgia,GEO,5,43,0,-,0,-,0
-2019,Ukraine,UKR,Georgia,GEO,306,6,0,-,0,-,252
-2019,Uzbekistan,UZB,Georgia,GEO,0,5,0,-,0,-,0
-2019,Yemen,YEM,Georgia,GEO,32,29,0,-,0,-,0
-2019,Stateless,XXA,Georgia,GEO,0,0,0,-,559,-,0
-2019,Unknown ,UNK,Georgia,GEO,12,12,0,-,0,-,0
 2019,Afghanistan,AFG,Germany,DEU,140366,47343,0,-,0,-,0
 2019,Albania,ALB,Germany,DEU,1278,2375,0,-,0,-,0
 2019,Algeria,DZA,Germany,DEU,613,1087,0,-,0,-,0
@@ -39901,11 +38983,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2019,Zimbabwe,ZWE,Italy,ITA,30,5,0,-,0,-,0
 2019,Stateless,XXA,Italy,ITA,17,0,0,-,15839,-,0
 2019,Unknown ,UNK,Italy,ITA,1630,385,0,-,0,-,0
-2019,Afghanistan,AFG,Kazakhstan,KAZ,491,181,0,-,0,-,0
-2019,China,CHN,Kazakhstan,KAZ,0,12,0,-,0,-,0
-2019,Syrian Arab Rep.,SYR,Kazakhstan,KAZ,14,19,0,-,0,-,0
-2019,Uzbekistan,UZB,Kazakhstan,KAZ,13,0,0,-,0,-,0
-2019,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,8386,-,0
 2019,Afghanistan,AFG,Liechtenstein,LIE,5,0,0,-,0,-,0
 2019,China,CHN,Liechtenstein,LIE,27,9,0,-,0,-,0
 2019,Dem. Rep. of the Congo,COD,Liechtenstein,LIE,6,0,0,-,0,-,0
@@ -40795,25 +39872,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2020,Uzbekistan,UZB,Albania,ALB,5,0,0,-,0,-,0
 2020,Venezuela (Bolivarian Republic of),VEN,Albania,ALB,5,0,0,-,0,-,0
 2020,Stateless,XXA,Albania,ALB,0,0,0,-,1031,-,0
-2020,Afghanistan,AFG,Armenia,ARM,5,0,0,-,0,-,0
-2020,Egypt,EGY,Armenia,ARM,5,0,0,-,0,-,0
-2020,Azerbaijan,AZE,Armenia,ARM,91766,5,0,-,0,-,0
-2020,Congo,COG,Armenia,ARM,5,0,0,-,0,-,0
-2020,Cuba,CUB,Armenia,ARM,0,26,0,-,0,-,0
-2020,Palestinian,PSE,Armenia,ARM,7,0,0,-,0,-,0
-2020,Georgia,GEO,Armenia,ARM,8,5,0,-,0,-,0
-2020,Cote d'Ivoire,CIV,Armenia,ARM,6,0,0,-,0,-,0
-2020,India,IND,Armenia,ARM,0,5,0,-,0,-,0
-2020,Iran (Islamic Rep. of),IRN,Armenia,ARM,102,66,0,-,0,-,0
-2020,Iraq,IRQ,Armenia,ARM,1086,0,0,-,0,-,0
-2020,Lebanon,LBN,Armenia,ARM,25,5,0,-,0,-,0
-2020,Nigeria,NGA,Armenia,ARM,5,0,0,-,0,-,0
-2020,Russian Federation,RUS,Armenia,ARM,0,5,0,-,0,-,0
-2020,Syrian Arab Rep.,SYR,Armenia,ARM,14741,5,0,-,0,-,0
-2020,Türkiye,TUR,Armenia,ARM,13,14,0,-,0,-,0
-2020,Ukraine,UKR,Armenia,ARM,115,0,0,-,0,-,0
-2020,Yemen,YEM,Armenia,ARM,21,0,0,-,0,-,0
-2020,Stateless,XXA,Armenia,ARM,0,0,0,-,1000,-,0
 2020,Afghanistan,AFG,Austria,AUT,40096,6473,0,-,0,-,0
 2020,Albania,ALB,Austria,AUT,60,23,0,-,0,-,0
 2020,Algeria,DZA,Austria,AUT,34,123,0,-,0,-,0
@@ -40901,19 +39959,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2020,Zimbabwe,ZWE,Austria,AUT,6,0,0,-,0,-,0
 2020,Stateless,XXA,Austria,AUT,2125,0,0,-,3267,-,0
 2020,Unknown ,UNK,Austria,AUT,4578,310,0,-,0,-,0
-2020,Afghanistan,AFG,Azerbaijan,AZE,1087,24,0,-,0,-,0
-2020,Azerbaijan,AZE,Azerbaijan,AZE,0,0,653921,-,0,-,0
-2020,Palestinian,PSE,Azerbaijan,AZE,5,0,0,-,0,-,0
-2020,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,43,0,0,-,0,-,0
-2020,Iraq,IRQ,Azerbaijan,AZE,10,0,0,-,0,-,0
-2020,Libya,LBY,Azerbaijan,AZE,5,0,0,-,0,-,0
-2020,Pakistan,PAK,Azerbaijan,AZE,17,0,0,-,0,-,0
-2020,Russian Federation,RUS,Azerbaijan,AZE,350,24,0,-,0,-,0
-2020,Syrian Arab Rep.,SYR,Azerbaijan,AZE,34,0,0,-,0,-,0
-2020,Ukraine,UKR,Azerbaijan,AZE,5,0,0,-,0,-,0
-2020,Uzbekistan,UZB,Azerbaijan,AZE,5,0,0,-,0,-,0
-2020,Yemen,YEM,Azerbaijan,AZE,11,0,0,-,0,-,0
-2020,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,3585,-,0
 2020,Afghanistan,AFG,Belgium,BEL,4689,4215,0,-,0,-,0
 2020,Albania,ALB,Belgium,BEL,669,400,0,-,0,-,0
 2020,Algeria,DZA,Belgium,BEL,70,205,0,-,0,-,0
@@ -41467,40 +40512,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2020,Zimbabwe,ZWE,France,FRA,51,0,0,-,0,-,0
 2020,Stateless,XXA,France,FRA,48,414,0,-,2068,-,1606
 2020,Unknown ,UNK,France,FRA,100900,1044,0,-,0,-,0
-2020,Afghanistan,AFG,Georgia,GEO,11,18,0,-,0,-,0
-2020,Egypt,EGY,Georgia,GEO,64,122,0,-,0,-,0
-2020,Azerbaijan,AZE,Georgia,GEO,5,5,0,-,0,-,0
-2020,Bangladesh,BGD,Georgia,GEO,0,17,0,-,0,-,0
-2020,China,CHN,Georgia,GEO,0,5,0,-,0,-,0
-2020,Cameroon,CMR,Georgia,GEO,0,9,0,-,0,-,0
-2020,Dem. Rep. of the Congo,COD,Georgia,GEO,5,6,0,-,0,-,0
-2020,Eritrea,ERI,Georgia,GEO,0,14,0,-,0,-,0
-2020,Palestinian,PSE,Georgia,GEO,0,17,0,-,0,-,0
-2020,Georgia,GEO,Georgia,GEO,0,0,288538,-,0,-,0
-2020,Ghana,GHA,Georgia,GEO,0,5,0,-,0,-,0
-2020,India,IND,Georgia,GEO,0,21,0,-,0,-,0
-2020,Iran (Islamic Rep. of),IRN,Georgia,GEO,37,499,0,-,0,-,0
-2020,Iraq,IRQ,Georgia,GEO,406,69,0,-,0,-,0
-2020,Jordan,JOR,Georgia,GEO,0,70,0,-,0,-,0
-2020,Kazakhstan,KAZ,Georgia,GEO,0,14,0,-,0,-,0
-2020,Lebanon,LBN,Georgia,GEO,6,22,0,-,0,-,0
-2020,Sri Lanka,LKA,Georgia,GEO,0,5,0,-,0,-,0
-2020,Morocco,MAR,Georgia,GEO,0,6,0,-,0,-,0
-2020,Nigeria,NGA,Georgia,GEO,0,47,0,-,0,-,0
-2020,Pakistan,PAK,Georgia,GEO,11,28,0,-,0,-,0
-2020,Philippines,PHL,Georgia,GEO,0,5,0,-,0,-,0
-2020,South Africa,ZAF,Georgia,GEO,0,7,0,-,0,-,0
-2020,Russian Federation,RUS,Georgia,GEO,238,72,0,-,0,-,0
-2020,Saudi Arabia,SAU,Georgia,GEO,0,5,0,-,0,-,0
-2020,Somalia,SOM,Georgia,GEO,0,13,0,-,0,-,0
-2020,Sudan,SDN,Georgia,GEO,6,7,0,-,0,-,0
-2020,Syrian Arab Rep.,SYR,Georgia,GEO,437,20,0,-,0,-,0
-2020,Tajikistan,TJK,Georgia,GEO,5,5,0,-,0,-,0
-2020,Türkiye,TUR,Georgia,GEO,0,88,0,-,0,-,0
-2020,Ukraine,UKR,Georgia,GEO,493,13,0,-,0,-,0
-2020,Yemen,YEM,Georgia,GEO,40,18,0,-,0,-,0
-2020,Stateless,XXA,Georgia,GEO,0,0,0,-,531,-,0
-2020,Unknown ,UNK,Georgia,GEO,16,30,0,-,0,-,0
 2020,Afghanistan,AFG,Germany,DEU,147994,33103,0,-,0,-,0
 2020,Albania,ALB,Germany,DEU,1272,1460,0,-,0,-,0
 2020,Algeria,DZA,Germany,DEU,600,1269,0,-,0,-,0
@@ -42063,11 +41074,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2020,Zimbabwe,ZWE,Italy,ITA,0,5,0,-,0,-,0
 2020,Stateless,XXA,Italy,ITA,0,16,0,-,3000,-,0
 2020,Unknown ,UNK,Italy,ITA,2291,443,0,-,0,-,0
-2020,Afghanistan,AFG,Kazakhstan,KAZ,408,198,0,-,0,-,0
-2020,China,CHN,Kazakhstan,KAZ,5,7,0,-,0,-,0
-2020,Syrian Arab Rep.,SYR,Kazakhstan,KAZ,14,18,0,-,0,-,0
-2020,Uzbekistan,UZB,Kazakhstan,KAZ,13,0,0,-,0,-,0
-2020,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,7999,-,0
 2020,Afghanistan,AFG,Liechtenstein,LIE,5,0,0,-,0,-,0
 2020,China,CHN,Liechtenstein,LIE,35,0,0,-,0,-,0
 2020,Eritrea,ERI,Liechtenstein,LIE,12,0,0,-,0,-,0
@@ -42932,25 +41938,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2021,Uzbekistan,UZB,Albania,ALB,5,0,0,-,0,-,0
 2021,Venezuela (Bolivarian Republic of),VEN,Albania,ALB,5,0,0,-,0,-,0
 2021,Stateless,XXA,Albania,ALB,0,0,0,-,1838,-,0
-2021,Afghanistan,AFG,Armenia,ARM,5,0,0,-,0,-,0
-2021,Egypt,EGY,Armenia,ARM,5,0,0,-,0,-,0
-2021,Azerbaijan,AZE,Armenia,ARM,27933,0,0,-,0,-,0
-2021,Congo,COG,Armenia,ARM,5,0,0,-,0,-,0
-2021,Cuba,CUB,Armenia,ARM,5,13,0,-,0,-,0
-2021,Palestinian,PSE,Armenia,ARM,7,0,0,-,0,-,0
-2021,Georgia,GEO,Armenia,ARM,8,5,0,-,0,-,0
-2021,Cote d'Ivoire,CIV,Armenia,ARM,6,0,0,-,0,-,0
-2021,Iran (Islamic Rep. of),IRN,Armenia,ARM,139,88,0,-,0,-,0
-2021,Iraq,IRQ,Armenia,ARM,1095,39,0,-,0,-,0
-2021,Lebanon,LBN,Armenia,ARM,26,5,0,-,0,-,0
-2021,Myanmar,MMR,Armenia,ARM,0,5,0,-,0,-,0
-2021,Nigeria,NGA,Armenia,ARM,5,0,0,-,0,-,0
-2021,Russian Federation,RUS,Armenia,ARM,0,6,0,-,0,-,0
-2021,Syrian Arab Rep.,SYR,Armenia,ARM,5335,8,0,-,0,-,0
-2021,Türkiye,TUR,Armenia,ARM,16,12,0,-,0,-,0
-2021,Ukraine,UKR,Armenia,ARM,117,0,0,-,0,-,0
-2021,Yemen,YEM,Armenia,ARM,21,0,0,-,0,-,0
-2021,Stateless,XXA,Armenia,ARM,0,0,0,-,870,-,0
 2021,Afghanistan,AFG,Austria,AUT,42685,5600,0,-,0,-,0
 2021,Albania,ALB,Austria,AUT,52,23,0,-,0,-,0
 2021,Algeria,DZA,Austria,AUT,28,173,0,-,0,-,0
@@ -43037,19 +42024,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2021,Zambia,ZMB,Austria,AUT,5,0,0,-,0,-,0
 2021,Stateless,XXA,Austria,AUT,2020,0,0,-,3162,-,0
 2021,Unknown ,UNK,Austria,AUT,5009,546,0,-,0,-,0
-2021,Afghanistan,AFG,Azerbaijan,AZE,1189,26,0,-,0,-,0
-2021,Azerbaijan,AZE,Azerbaijan,AZE,0,0,654839,-,0,-,0
-2021,Palestinian,PSE,Azerbaijan,AZE,5,0,0,-,0,-,0
-2021,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,52,0,0,-,0,-,0
-2021,Iraq,IRQ,Azerbaijan,AZE,10,0,0,-,0,-,0
-2021,Libya,LBY,Azerbaijan,AZE,5,0,0,-,0,-,0
-2021,Pakistan,PAK,Azerbaijan,AZE,45,0,0,-,0,-,0
-2021,Russian Federation,RUS,Azerbaijan,AZE,317,8,0,-,0,-,0
-2021,Syrian Arab Rep.,SYR,Azerbaijan,AZE,33,0,0,-,0,-,0
-2021,Ukraine,UKR,Azerbaijan,AZE,5,0,0,-,0,-,0
-2021,Uzbekistan,UZB,Azerbaijan,AZE,5,0,0,-,0,-,0
-2021,Yemen,YEM,Azerbaijan,AZE,10,0,0,-,0,-,0
-2021,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,3585,-,0
 2021,Afghanistan,AFG,Belgium,BEL,5859,7375,0,-,0,-,0
 2021,Albania,ALB,Belgium,BEL,689,470,0,-,0,-,0
 2021,Algeria,DZA,Belgium,BEL,70,220,0,-,0,-,0
@@ -43599,42 +42573,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2021,Stateless,XXA,France,FRA,1725,199,0,-,3560,-,1716
 2021,Tibetan,TIB,France,FRA,32,0,0,-,0,-,0
 2021,Unknown ,UNK,France,FRA,6976,1517,0,-,0,-,0
-2021,Afghanistan,AFG,Georgia,GEO,20,49,0,-,0,-,0
-2021,Algeria,DZA,Georgia,GEO,0,5,0,-,0,-,0
-2021,Egypt,EGY,Georgia,GEO,65,61,0,-,0,-,0
-2021,Azerbaijan,AZE,Georgia,GEO,0,5,0,-,0,-,0
-2021,Belarus,BLR,Georgia,GEO,0,12,0,-,0,-,0
-2021,Cameroon,CMR,Georgia,GEO,0,5,0,-,0,-,0
-2021,Dem. Rep. of the Congo,COD,Georgia,GEO,5,5,0,-,0,-,0
-2021,Eritrea,ERI,Georgia,GEO,10,20,0,-,0,-,0
-2021,Ethiopia,ETH,Georgia,GEO,0,5,0,-,0,-,0
-2021,Palestinian,PSE,Georgia,GEO,0,15,0,-,0,-,0
-2021,Georgia,GEO,Georgia,GEO,0,0,290156,-,0,-,0
-2021,Ghana,GHA,Georgia,GEO,0,5,0,-,0,-,0
-2021,India,IND,Georgia,GEO,0,9,0,-,0,-,0
-2021,Iran (Islamic Rep. of),IRN,Georgia,GEO,44,472,0,-,0,-,0
-2021,Iraq,IRQ,Georgia,GEO,401,45,0,-,0,-,0
-2021,Jordan,JOR,Georgia,GEO,0,77,0,-,0,-,0
-2021,Kazakhstan,KAZ,Georgia,GEO,5,12,0,-,0,-,0
-2021,Lebanon,LBN,Georgia,GEO,10,37,0,-,0,-,0
-2021,Sri Lanka,LKA,Georgia,GEO,0,5,0,-,0,-,0
-2021,Morocco,MAR,Georgia,GEO,0,5,0,-,0,-,0
-2021,Nigeria,NGA,Georgia,GEO,0,35,0,-,0,-,0
-2021,Pakistan,PAK,Georgia,GEO,11,10,0,-,0,-,0
-2021,South Africa,ZAF,Georgia,GEO,0,5,0,-,0,-,0
-2021,Russian Federation,RUS,Georgia,GEO,223,81,0,-,0,-,0
-2021,Saudi Arabia,SAU,Georgia,GEO,0,6,0,-,0,-,0
-2021,Somalia,SOM,Georgia,GEO,5,10,0,-,0,-,0
-2021,Sudan,SDN,Georgia,GEO,6,7,0,-,0,-,0
-2021,Syrian Arab Rep.,SYR,Georgia,GEO,444,18,0,-,0,-,0
-2021,Thailand,THA,Georgia,GEO,0,5,0,-,0,-,0
-2021,Tajikistan,TJK,Georgia,GEO,5,7,0,-,0,-,0
-2021,Turkmenistan,TKM,Georgia,GEO,0,6,0,-,0,-,0
-2021,Türkiye,TUR,Georgia,GEO,0,147,0,-,0,-,0
-2021,Ukraine,UKR,Georgia,GEO,481,0,0,-,0,-,0
-2021,Yemen,YEM,Georgia,GEO,55,20,0,-,0,-,0
-2021,Stateless,XXA,Georgia,GEO,0,0,0,-,530,-,0
-2021,Unknown ,UNK,Georgia,GEO,28,23,0,-,0,-,0
 2021,Afghanistan,AFG,Germany,DEU,159409,43964,0,-,0,-,0
 2021,Albania,ALB,Germany,DEU,1274,1676,0,-,0,-,0
 2021,Algeria,DZA,Germany,DEU,630,1223,0,-,0,-,0
@@ -44195,11 +43133,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2021,Yemen,YEM,Italy,ITA,0,42,0,-,0,-,0
 2021,Stateless,XXA,Italy,ITA,9,13,0,-,3000,-,0
 2021,Unknown ,UNK,Italy,ITA,2517,574,0,-,0,-,0
-2021,Afghanistan,AFG,Kazakhstan,KAZ,327,287,0,-,0,-,0
-2021,China,CHN,Kazakhstan,KAZ,6,7,0,-,0,-,0
-2021,Syrian Arab Rep.,SYR,Kazakhstan,KAZ,14,11,0,-,0,-,0
-2021,Uzbekistan,UZB,Kazakhstan,KAZ,5,0,0,-,0,-,0
-2021,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,7831,-,0
 2021,Afghanistan,AFG,Liechtenstein,LIE,5,0,0,-,0,-,0
 2021,Albania,ALB,Liechtenstein,LIE,0,5,0,-,0,-,0
 2021,Belarus,BLR,Liechtenstein,LIE,0,5,0,-,0,-,0
@@ -45076,30 +44009,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2022,Uzbekistan,UZB,Albania,ALB,5,0,0,-,0,0,0
 2022,Venezuela (Bolivarian Republic of),VEN,Albania,ALB,5,0,0,-,0,0,0
 2022,Stateless,XXA,Albania,ALB,0,0,0,-,1950,0,0
-2022,Afghanistan,AFG,Armenia,ARM,9,0,0,-,0,0,0
-2022,Egypt,EGY,Armenia,ARM,5,24,0,-,0,0,0
-2022,Azerbaijan,AZE,Armenia,ARM,27933,5,0,-,0,0,0
-2022,Congo,COG,Armenia,ARM,5,0,0,-,0,0,0
-2022,Cuba,CUB,Armenia,ARM,5,17,0,-,0,0,0
-2022,Palestinian,PSE,Armenia,ARM,7,0,0,-,0,0,0
-2022,Georgia,GEO,Armenia,ARM,9,5,0,-,0,0,0
-2022,Haiti,HTI,Armenia,ARM,0,5,0,-,0,0,0
-2022,Cote d'Ivoire,CIV,Armenia,ARM,6,0,0,-,0,0,0
-2022,India,IND,Armenia,ARM,0,5,0,-,0,0,0
-2022,Iran (Islamic Rep. of),IRN,Armenia,ARM,158,129,0,-,0,0,0
-2022,Iraq,IRQ,Armenia,ARM,1123,184,0,-,0,0,0
-2022,Lebanon,LBN,Armenia,ARM,26,0,0,-,0,0,0
-2022,Myanmar,MMR,Armenia,ARM,5,0,0,-,0,0,0
-2022,Nigeria,NGA,Armenia,ARM,11,0,0,-,0,0,0
-2022,Pakistan,PAK,Armenia,ARM,0,6,0,-,0,0,0
-2022,Russian Federation,RUS,Armenia,ARM,0,20,0,-,0,0,0
-2022,Syrian Arab Rep.,SYR,Armenia,ARM,4888,24,0,-,0,0,0
-2022,Türkiye,TUR,Armenia,ARM,17,18,0,-,0,0,0
-2022,Ukraine,UKR,Armenia,ARM,406,122,0,-,0,0,0
-2022,Yemen,YEM,Armenia,ARM,21,6,0,-,0,0,0
-2022,Zimbabwe,ZWE,Armenia,ARM,0,5,0,-,0,0,0
-2022,Stateless,XXA,Armenia,ARM,0,0,0,-,672,0,0
-2022,Unknown ,UNK,Armenia,ARM,0,5,0,-,0,0,0
 2022,Afghanistan,AFG,Austria,AUT,45282,7419,0,-,0,0,0
 2022,Albania,ALB,Austria,AUT,49,24,0,-,0,0,0
 2022,Algeria,DZA,Austria,AUT,27,211,0,-,0,0,0
@@ -45186,19 +44095,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2022,Zimbabwe,ZWE,Austria,AUT,0,7,0,-,0,0,0
 2022,Stateless,XXA,Austria,AUT,1972,0,0,-,3256,0,0
 2022,Unknown ,UNK,Austria,AUT,5435,539,0,-,0,0,0
-2022,Afghanistan,AFG,Azerbaijan,AZE,1161,15,0,-,0,0,0
-2022,Azerbaijan,AZE,Azerbaijan,AZE,0,0,658793,-,0,0,0
-2022,Palestinian,PSE,Azerbaijan,AZE,5,0,0,-,0,0,0
-2022,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,51,14,0,-,0,0,0
-2022,Iraq,IRQ,Azerbaijan,AZE,10,0,0,-,0,0,0
-2022,Libya,LBY,Azerbaijan,AZE,5,0,0,-,0,0,0
-2022,Pakistan,PAK,Azerbaijan,AZE,51,41,0,-,0,0,0
-2022,Russian Federation,RUS,Azerbaijan,AZE,310,5,0,-,0,0,0
-2022,Syrian Arab Rep.,SYR,Azerbaijan,AZE,35,0,0,-,0,0,0
-2022,Ukraine,UKR,Azerbaijan,AZE,4770,77,0,-,0,0,0
-2022,Uzbekistan,UZB,Azerbaijan,AZE,5,0,0,-,0,0,0
-2022,Yemen,YEM,Azerbaijan,AZE,11,0,0,-,0,0,0
-2022,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,3585,0,0
 2022,Afghanistan,AFG,Belgium,BEL,6238,9700,0,-,0,0,0
 2022,Albania,ALB,Belgium,BEL,518,390,0,-,0,0,0
 2022,Algeria,DZA,Belgium,BEL,109,255,0,-,0,0,0
@@ -45786,42 +44682,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2022,Zimbabwe,ZWE,France,FRA,84,5,0,-,0,0,0
 2022,Stateless,XXA,France,FRA,1799,386,0,-,3901,0,1716
 2022,Unknown ,UNK,France,FRA,7251,58,0,-,0,0,0
-2022,Afghanistan,AFG,Georgia,GEO,78,5,0,-,0,0,0
-2022,Egypt,EGY,Georgia,GEO,68,39,0,-,0,0,0
-2022,Bangladesh,BGD,Georgia,GEO,0,8,0,-,0,0,0
-2022,Belarus,BLR,Georgia,GEO,0,15,0,-,0,0,0
-2022,Dem. Rep. of the Congo,COD,Georgia,GEO,5,0,0,-,0,0,0
-2022,Cuba,CUB,Georgia,GEO,0,5,0,-,0,0,0
-2022,Eritrea,ERI,Georgia,GEO,10,10,0,-,0,0,0
-2022,Ethiopia,ETH,Georgia,GEO,0,5,0,-,0,0,0
-2022,Palestinian,PSE,Georgia,GEO,5,10,0,-,0,0,0
-2022,Georgia,GEO,Georgia,GEO,0,0,292856,-,0,0,0
-2022,Ghana,GHA,Georgia,GEO,0,5,0,-,0,0,0
-2022,India,IND,Georgia,GEO,0,9,0,-,0,0,0
-2022,Iran (Islamic Rep. of),IRN,Georgia,GEO,49,268,0,-,0,0,0
-2022,Iraq,IRQ,Georgia,GEO,367,23,0,-,0,0,0
-2022,Jordan,JOR,Georgia,GEO,0,23,0,-,0,0,0
-2022,Kazakhstan,KAZ,Georgia,GEO,0,6,0,-,0,0,0
-2022,Kyrgyzstan,KGZ,Georgia,GEO,0,5,0,-,0,0,0
-2022,Lebanon,LBN,Georgia,GEO,11,35,0,-,0,0,0
-2022,Morocco,MAR,Georgia,GEO,0,5,0,-,0,0,0
-2022,Myanmar,MMR,Georgia,GEO,0,14,0,-,0,0,0
-2022,Nigeria,NGA,Georgia,GEO,0,15,0,-,0,0,0
-2022,Pakistan,PAK,Georgia,GEO,12,21,0,-,0,0,0
-2022,South Africa,ZAF,Georgia,GEO,0,12,0,-,0,0,0
-2022,Russian Federation,RUS,Georgia,GEO,212,122,0,-,0,0,0
-2022,Somalia,SOM,Georgia,GEO,8,8,0,-,0,0,0
-2022,Sudan,SDN,Georgia,GEO,6,0,0,-,0,0,0
-2022,Syrian Arab Rep.,SYR,Georgia,GEO,448,20,0,-,0,0,0
-2022,Thailand,THA,Georgia,GEO,0,5,0,-,0,0,0
-2022,Tajikistan,TJK,Georgia,GEO,5,6,0,-,0,0,0
-2022,Turkmenistan,TKM,Georgia,GEO,0,8,0,-,0,0,0
-2022,Türkiye,TUR,Georgia,GEO,0,228,0,-,0,0,0
-2022,Ukraine,UKR,Georgia,GEO,26446,52,0,-,0,0,0
-2022,Uzbekistan,UZB,Georgia,GEO,0,5,0,-,0,0,0
-2022,Yemen,YEM,Georgia,GEO,62,20,0,-,0,0,0
-2022,Stateless,XXA,Georgia,GEO,0,0,0,-,525,0,0
-2022,Unknown ,UNK,Georgia,GEO,47,18,0,-,0,0,0
 2022,Afghanistan,AFG,Germany,DEU,180810,34867,0,-,0,0,0
 2022,Albania,ALB,Germany,DEU,1267,1741,0,-,0,0,0
 2022,Algeria,DZA,Germany,DEU,937,1125,0,-,0,0,0
@@ -46425,15 +45285,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2022,Yemen,YEM,Italy,ITA,30,44,0,-,0,0,0
 2022,Stateless,XXA,Italy,ITA,7,5,0,-,2998,0,0
 2022,Unknown ,UNK,Italy,ITA,2646,435,0,-,0,0,0
-2022,Afghanistan,AFG,Kazakhstan,KAZ,285,235,0,-,0,0,0
-2022,China,CHN,Kazakhstan,KAZ,5,12,0,-,0,0,0
-2022,Iran (Islamic Rep. of),IRN,Kazakhstan,KAZ,0,5,0,-,0,0,0
-2022,Russian Federation,RUS,Kazakhstan,KAZ,0,23,0,-,0,0,0
-2022,Saudi Arabia,SAU,Kazakhstan,KAZ,0,5,0,-,0,0,0
-2022,Syrian Arab Rep.,SYR,Kazakhstan,KAZ,13,5,0,-,0,0,0
-2022,Ukraine,UKR,Kazakhstan,KAZ,0,550,0,-,0,0,0
-2022,Uzbekistan,UZB,Kazakhstan,KAZ,5,5,0,-,0,0,0
-2022,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,8569,0,0
 2022,China,CHN,Liechtenstein,LIE,33,0,0,-,0,0,0
 2022,Eritrea,ERI,Liechtenstein,LIE,12,0,0,-,0,0,0
 2022,Iran (Islamic Rep. of),IRN,Liechtenstein,LIE,11,0,0,-,0,0,0
@@ -47453,29 +46304,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2023,Uzbekistan,UZB,Albania,ALB,5,0,0,-,0,0,0
 2023,Venezuela (Bolivarian Republic of),VEN,Albania,ALB,5,0,0,-,0,0,0
 2023,Stateless,XXA,Albania,ALB,0,0,0,-,2126,0,0
-2023,Afghanistan,AFG,Armenia,ARM,9,0,0,-,0,0,0
-2023,Algeria,DZA,Armenia,ARM,0,7,0,-,0,0,0
-2023,Egypt,EGY,Armenia,ARM,5,55,0,-,0,0,0
-2023,Azerbaijan,AZE,Armenia,ARM,27899,5,0,-,0,0,0
-2023,Congo,COG,Armenia,ARM,6,0,0,-,0,0,0
-2023,Cuba,CUB,Armenia,ARM,5,14,0,-,0,0,0
-2023,Palestinian,PSE,Armenia,ARM,7,0,0,-,0,0,0
-2023,Georgia,GEO,Armenia,ARM,9,5,0,-,0,0,0
-2023,Haiti,HTI,Armenia,ARM,0,33,0,-,0,0,0
-2023,Cote d'Ivoire,CIV,Armenia,ARM,6,0,0,-,0,0,0
-2023,Iran (Islamic Rep. of),IRN,Armenia,ARM,160,142,0,-,0,0,0
-2023,Iraq,IRQ,Armenia,ARM,1146,202,0,-,0,0,0
-2023,Lebanon,LBN,Armenia,ARM,26,0,0,-,0,0,0
-2023,Morocco,MAR,Armenia,ARM,0,5,0,-,0,0,0
-2023,Myanmar,MMR,Armenia,ARM,6,0,0,-,0,0,0
-2023,Nigeria,NGA,Armenia,ARM,14,5,0,-,0,0,0
-2023,Pakistan,PAK,Armenia,ARM,7,0,0,-,0,0,0
-2023,Russian Federation,RUS,Armenia,ARM,0,31,0,-,0,0,0
-2023,Syrian Arab Rep.,SYR,Armenia,ARM,4896,25,0,-,0,0,0
-2023,Türkiye,TUR,Armenia,ARM,17,18,0,-,0,0,0
-2023,Ukraine,UKR,Armenia,ARM,518,70,0,-,0,0,0
-2023,Yemen,YEM,Armenia,ARM,21,11,0,-,0,0,0
-2023,Stateless,XXA,Armenia,ARM,0,0,0,-,531,0,0
 2023,Afghanistan,AFG,Austria,AUT,45690,4702,0,-,0,0,0
 2023,Albania,ALB,Austria,AUT,46,24,0,-,0,0,0
 2023,Algeria,DZA,Austria,AUT,28,91,0,-,0,0,0
@@ -47561,19 +46389,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2023,Zimbabwe,ZWE,Austria,AUT,0,7,0,-,0,0,0
 2023,Stateless,XXA,Austria,AUT,1943,0,0,-,3301,0,0
 2023,Unknown ,UNK,Austria,AUT,5681,496,0,-,0,0,0
-2023,Afghanistan,AFG,Azerbaijan,AZE,1126,15,0,-,0,0,0
-2023,Azerbaijan,AZE,Azerbaijan,AZE,0,0,658793,-,0,0,0
-2023,Palestinian,PSE,Azerbaijan,AZE,5,0,0,-,0,0,0
-2023,Iran (Islamic Rep. of),IRN,Azerbaijan,AZE,65,0,0,-,0,0,0
-2023,Iraq,IRQ,Azerbaijan,AZE,10,0,0,-,0,0,0
-2023,Libya,LBY,Azerbaijan,AZE,5,0,0,-,0,0,0
-2023,Pakistan,PAK,Azerbaijan,AZE,48,31,0,-,0,0,0
-2023,Russian Federation,RUS,Azerbaijan,AZE,303,5,0,-,0,0,0
-2023,Syrian Arab Rep.,SYR,Azerbaijan,AZE,34,0,0,-,0,0,0
-2023,Ukraine,UKR,Azerbaijan,AZE,4668,108,0,-,0,0,0
-2023,Uzbekistan,UZB,Azerbaijan,AZE,5,0,0,-,0,0,0
-2023,Yemen,YEM,Azerbaijan,AZE,11,0,0,-,0,0,0
-2023,Stateless,XXA,Azerbaijan,AZE,0,0,0,-,3585,0,0
 2023,Afghanistan,AFG,Belgium,BEL,7593,8045,0,-,0,0,0
 2023,Albania,ALB,Belgium,BEL,463,330,0,-,0,0,0
 2023,Algeria,DZA,Belgium,BEL,120,195,0,-,0,0,0
@@ -48159,40 +46974,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2023,Zimbabwe,ZWE,France,FRA,92,0,0,-,0,0,0
 2023,Stateless,XXA,France,FRA,1854,505,0,-,4111,0,1752
 2023,Unknown ,UNK,France,FRA,9705,0,0,-,0,0,0
-2023,Afghanistan,AFG,Georgia,GEO,74,5,0,-,0,0,0
-2023,Egypt,EGY,Georgia,GEO,68,33,0,-,0,0,0
-2023,Armenia,ARM,Georgia,GEO,0,5,0,-,0,0,0
-2023,Azerbaijan,AZE,Georgia,GEO,0,5,0,-,0,0,0
-2023,Bangladesh,BGD,Georgia,GEO,5,6,0,-,0,0,0
-2023,Belarus,BLR,Georgia,GEO,0,19,0,-,0,0,0
-2023,Dem. Rep. of the Congo,COD,Georgia,GEO,5,0,0,-,0,0,0
-2023,Cuba,CUB,Georgia,GEO,0,5,0,-,0,0,0
-2023,Eritrea,ERI,Georgia,GEO,10,8,0,-,0,0,0
-2023,Palestinian,PSE,Georgia,GEO,5,10,0,-,0,0,0
-2023,Georgia,GEO,Georgia,GEO,0,0,294431,-,0,0,0
-2023,India,IND,Georgia,GEO,0,16,0,-,0,0,0
-2023,Iran (Islamic Rep. of),IRN,Georgia,GEO,49,229,0,-,0,0,0
-2023,Iraq,IRQ,Georgia,GEO,302,15,0,-,0,0,0
-2023,Jordan,JOR,Georgia,GEO,0,13,0,-,0,0,0
-2023,Kazakhstan,KAZ,Georgia,GEO,5,6,0,-,0,0,0
-2023,Kyrgyzstan,KGZ,Georgia,GEO,0,5,0,-,0,0,0
-2023,Lebanon,LBN,Georgia,GEO,11,31,0,-,0,0,0
-2023,Morocco,MAR,Georgia,GEO,0,5,0,-,0,0,0
-2023,Nigeria,NGA,Georgia,GEO,0,16,0,-,0,0,0
-2023,Pakistan,PAK,Georgia,GEO,11,21,0,-,0,0,0
-2023,South Africa,ZAF,Georgia,GEO,0,5,0,-,0,0,0
-2023,Russian Federation,RUS,Georgia,GEO,205,127,0,-,0,0,0
-2023,Somalia,SOM,Georgia,GEO,8,7,0,-,0,0,0
-2023,Sudan,SDN,Georgia,GEO,6,8,0,-,0,0,0
-2023,Syrian Arab Rep.,SYR,Georgia,GEO,450,26,0,-,0,0,0
-2023,Tajikistan,TJK,Georgia,GEO,5,5,0,-,0,0,0
-2023,Turkmenistan,TKM,Georgia,GEO,0,8,0,-,0,0,0
-2023,Türkiye,TUR,Georgia,GEO,0,206,0,-,0,0,0
-2023,Ukraine,UKR,Georgia,GEO,24766,35,0,-,0,0,0
-2023,Uzbekistan,UZB,Georgia,GEO,0,7,0,-,0,0,0
-2023,Yemen,YEM,Georgia,GEO,61,21,0,-,0,0,0
-2023,Stateless,XXA,Georgia,GEO,0,0,0,-,526,0,0
-2023,Unknown ,UNK,Georgia,GEO,50,23,0,-,0,0,0
 2023,Afghanistan,AFG,Germany,DEU,239583,59018,0,-,0,0,0
 2023,Albania,ALB,Germany,DEU,1329,2332,0,-,0,0,0
 2023,Algeria,DZA,Germany,DEU,1173,1569,0,-,0,0,0
@@ -48800,16 +47581,6 @@ Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asyl
 2023,Zimbabwe,ZWE,Italy,ITA,0,6,0,-,0,0,0
 2023,Stateless,XXA,Italy,ITA,5,6,0,-,3002,0,0
 2023,Unknown ,UNK,Italy,ITA,2573,423,0,-,0,0,0
-2023,Afghanistan,AFG,Kazakhstan,KAZ,279,206,0,-,0,0,0
-2023,China,CHN,Kazakhstan,KAZ,6,12,0,-,0,0,0
-2023,Iran (Islamic Rep. of),IRN,Kazakhstan,KAZ,0,5,0,-,0,0,0
-2023,Kyrgyzstan,KGZ,Kazakhstan,KAZ,0,5,0,-,0,0,0
-2023,Russian Federation,RUS,Kazakhstan,KAZ,0,22,0,-,0,0,0
-2023,Saudi Arabia,SAU,Kazakhstan,KAZ,0,5,0,-,0,0,0
-2023,Syrian Arab Rep.,SYR,Kazakhstan,KAZ,13,8,0,-,0,0,0
-2023,Ukraine,UKR,Kazakhstan,KAZ,42,369,0,-,0,0,0
-2023,Uzbekistan,UZB,Kazakhstan,KAZ,5,5,0,-,0,0,0
-2023,Stateless,XXA,Kazakhstan,KAZ,0,0,0,-,8266,0,0
 2023,China,CHN,Liechtenstein,LIE,32,0,0,-,0,0,0
 2023,Eritrea,ERI,Liechtenstein,LIE,12,0,0,-,0,0,0
 2023,Iran (Islamic Rep. of),IRN,Liechtenstein,LIE,11,0,0,-,0,0,0

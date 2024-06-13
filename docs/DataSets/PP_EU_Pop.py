@@ -1,10 +1,10 @@
 import pandas as pd
 
-# Load the data
-file_path = 'UN_World_Refugee Data.csv'
-data = pd.read_csv(file_path)
+# Load the CSV file
+file_path = 'world_population.csv'
+df = pd.read_csv(file_path)
 
-# Extracting European countries excluding Russia
+# List of European countries
 european_countries = [
     'Albania', 'Andorra', 'Austria', 'Belarus', 'Belgium', 'Bosnia and Herzegovina', 
     'Bulgaria', 'Croatia', 'Cyprus', 'Czech Republic', 'Denmark', 'Estonia', 'Finland', 'France', 
@@ -14,9 +14,9 @@ european_countries = [
     'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'Vatican City'
 ]
 
-# Filter the dataset for European countries excluding Russia
-european_data = data[data['Country of asylum'].isin(european_countries)]
+# Filter the dataframe to only include European countries
+european_df = df[df['Country/Territory'].isin(european_countries)]
 
-# Save the filtered data to a new CSV file
-output_file_path = 'UN_European_Countries_Refugee_Data.csv'
-european_data.to_csv(output_file_path, index=False)
+# Save the filtered dataframe to a new CSV file
+output_file_path = 'european_population.csv'
+european_df.to_csv(output_file_path, index=False)
