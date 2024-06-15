@@ -402,16 +402,19 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">Introduction</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#dataset-and-preprocessing">Dataset and Preprocessing</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#datasets">Datasets</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#preprocessing">Preprocessing</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#your-first-perspective">Your First Perspective</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-first-argument-of-your-first-perspective">The First Argument of Your First Perspective</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-second-argument-of-your-first-perspective">The Second Argument of Your First Perspective</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-third-argument-of-your-first-perspective">The Third Argument of Your First Perspective</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#your-second-perspective">Your Second Perspective</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-first-argument-of-your-second-perspective">The First Argument of Your Second Perspective</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-second-argument-of-your-second-perspective">The Second Argument of Your Second Perspective</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-third-argument-of-your-second-perspective">The Third Argument of Your Second Perspective</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflection">Reflection</a></li>
@@ -478,11 +481,116 @@ document.write(`
 <h2>Dataset and Preprocessing<a class="headerlink" href="#dataset-and-preprocessing" title="Link to this heading">#</a></h2>
 <section id="datasets">
 <h3>Datasets<a class="headerlink" href="#datasets" title="Link to this heading">#</a></h3>
+<p>This study utilizes multiple datasets sourced from various reputable organizations. Below is an overview of each dataset and the variables they contain:</p>
+<ol class="arabic simple">
+<li><p><a class="reference external" href="https://zenodo.org/records/4653406"><strong>RESPOND Dataset - Refugee Protection</strong></a></p>
 <ul class="simple">
-<li><p><a class="reference external" href="https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset">World Population</a></p></li>
-<li><p><a class="reference external" href="https://www.kaggle.com/datasets/avtnshm/united-nations-refugee-data-unhcr">UN Refugee Data</a></p></li>
-<li><p><a class="reference external" href="https://www.kaggle.com/datasets/zgrcemta/world-gdpgdp-gdp-per-capita-and-annual-growths">World GDP</a></p></li>
+<li><p><strong>Variables:</strong> 33 Variables</p></li>
+<li><p><strong>Description:</strong> (2017-2020) Responses from interviews conducted with refugees.</p></li>
 </ul>
+</li>
+<li><p><a class="reference external" href="https://www.kaggle.com/datasets/avtnshm/united-nations-refugee-data-unhcr"><strong>United Narions (UN) World Refugee Data</strong></a></p>
+<ul class="simple">
+<li><p><strong>Variables:</strong> 12 Variables</p></li>
+<li><p><strong>Description:</strong> (1953-2023) Yearly data on the number of refugees worldwide as reported by the United Nations.</p></li>
+</ul>
+</li>
+<li><p><a class="reference external" href="https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset"><strong>World Population Data</strong></a></p>
+<ul class="simple">
+<li><p><strong>Variables:</strong> 17 Variables</p></li>
+<li><p><strong>Description:</strong> (1960-2022) Yearly population statistics for countries around the world.</p></li>
+</ul>
+</li>
+<li><p><a class="reference external" href="https://www.kaggle.com/datasets/zgrcemta/world-gdpgdp-gdp-per-capita-and-annual-growths"><strong>World GDP</strong></a></p>
+<ul class="simple">
+<li><p><strong>Variables:</strong> 64 Variables</p></li>
+<li><p><strong>Description:</strong> (1960-2020) Yearly information on the Gross Domestic Product (GDP) for countries around the world.</p></li>
+</ul>
+</li>
+<li><p><a class="reference external" href="https://data.mendeley.com/datasets/p7k35cghyb/2"><strong>Refugees Germany</strong></a></p>
+<ul class="simple">
+<li><p><strong>Variables:</strong> 21 Variables</p></li>
+<li><p><strong>Description:</strong> ….</p></li>
+</ul>
+</li>
+<li><p><a class="reference external" href="https://www.kaggle.com/datasets/unitednations/refugee-data"><strong>Pending Status Refugees</strong></a></p>
+<ul class="simple">
+<li><p><strong>Variables:</strong> 14 Variables</p></li>
+<li><p><strong>Description:</strong> (2000-2016) Yearly progress of asylum-seekers through the refugee status determination process, with data on UNHCR assistance.</p></li>
+</ul>
+</li>
+</ol>
+</section>
+<section id="preprocessing">
+<h3>Preprocessing<a class="headerlink" href="#preprocessing" title="Link to this heading">#</a></h3>
+<p>The preprocessing of these datasets involved several steps to ensure that the data was suitable for analysis. The key preprocessing steps are outlined below:</p>
+<ol class="arabic simple">
+<li><p><strong>Filtering for European Countries:</strong></p>
+<ul class="simple">
+<li><p>The analysis focused solely on European countries. Therefore, non-European countries were excluded from the datasets.</p></li>
+</ul>
+</li>
+<li><p><strong>Selecting Relevant Columns:</strong></p>
+<ul class="simple">
+<li><p>Not all columns in each dataset were necessary for the analysis. Only the relevant columns were retained. The specific columns selected for each dataset are as follows:</p>
+<ul>
+<li><p><strong>Refugee Interview Dataset:</strong></p>
+<ul>
+<li><p>Columns: [Specify relevant columns]</p></li>
+</ul>
+</li>
+<li><p><strong>UN World Refugee Data:</strong></p>
+<ul>
+<li><p>Year</p></li>
+<li><p>Country of origin</p></li>
+<li><p>Country of asylum</p></li>
+<li><p>…</p></li>
+</ul>
+</li>
+<li><p><strong>World Population Data:</strong></p>
+<ul>
+<li><p>Country</p></li>
+<li><p>Population over the years</p></li>
+</ul>
+</li>
+<li><p><strong>World GDP:</strong></p>
+<ul>
+<li><p>Country</p></li>
+<li><p>GDP Per Capita (Economic output of a country per inhabitant)</p></li>
+<li><p>GDP PPP Per Capita (Economic output of a country per inhabitant adjusted for purchasing power)</p></li>
+</ul>
+</li>
+<li><p><strong>Refugees Germany:</strong></p>
+<ul>
+<li><p>Columns: [Specify relevant columns]</p></li>
+</ul>
+</li>
+<li><p><strong>Pending Status Refugees:</strong></p>
+<ul>
+<li><p>Columns: [Specify relevant columns]</p></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>Data Cleaning:</strong></p>
+<ul class="simple">
+<li><p>Missing values and inconsistencies in the data were addressed. This involved handling null values, correcting data entry errors, and ensuring uniformity in data formats.</p></li>
+</ul>
+</li>
+<li><p><strong>Data Integration:</strong></p>
+<ul class="simple">
+<li><p>The datasets were merged based on common keys such as country names and years to create a comprehensive dataset for analysis.</p></li>
+</ul>
+</li>
+<li><p><strong>Normalization and Scaling:</strong></p>
+<ul class="simple">
+<li><p>Where necessary, numerical variables were normalized or scaled to facilitate comparison across different units and magnitudes.</p></li>
+</ul>
+</li>
+</ol>
+<p>By following these preprocessing steps, we ensured that the datasets were clean, consistent, and ready for subsequent analysis.</p>
 </section>
 </section>
 <section id="your-first-perspective">
@@ -730,80 +838,145 @@ if (outputEl) {{
 <span class="expanded">Hide code cell source</span>
 </summary>
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">plotly.graph_objects</span> <span class="k">as</span> <span class="nn">go</span>
-<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+<span class="kn">import</span> <span class="nn">itertools</span>
 
-<span class="c1"># Read the data from table3.csv</span>
-<span class="n">df3</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;table3.csv&#39;</span><span class="p">)</span>
+<span class="c1"># Define a list of line styles</span>
+<span class="n">line_styles</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;-&#39;</span><span class="p">,</span> <span class="s1">&#39;--&#39;</span><span class="p">,</span> <span class="s1">&#39;-.&#39;</span><span class="p">,</span> <span class="s1">&#39;:&#39;</span><span class="p">]</span>
 
-<span class="c1"># Create an empty figure</span>
-<span class="n">fig3</span> <span class="o">=</span> <span class="n">go</span><span class="o">.</span><span class="n">Figure</span><span class="p">()</span>
+<span class="c1"># Define a custom striped line style</span>
+<span class="n">striped_line</span> <span class="o">=</span> <span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="p">(</span><span class="mi">5</span><span class="p">,</span> <span class="mi">10</span><span class="p">))</span>
 
-<span class="c1"># Define a list of tuples with the variable names and their respective colors</span>
-<span class="n">variables</span> <span class="o">=</span> <span class="p">[(</span><span class="s2">&quot;Collective agreement (CAO) (% (very) satisfied)&quot;</span><span class="p">,</span> <span class="s1">&#39;#00a1cd&#39;</span><span class="p">),</span> 
-             <span class="p">(</span><span class="s2">&quot;Salary (% (very) satisfied)&quot;</span><span class="p">,</span> <span class="s1">&#39;#0058b8&#39;</span><span class="p">)]</span>
+<span class="c1"># Define remaining colors cycle</span>
+<span class="n">remaining_colors</span> <span class="o">=</span> <span class="n">itertools</span><span class="o">.</span><span class="n">cycle</span><span class="p">(</span><span class="n">plt</span><span class="o">.</span><span class="n">cm</span><span class="o">.</span><span class="n">tab20</span><span class="o">.</span><span class="n">colors</span><span class="p">)</span>
 
-<span class="c1"># Loop over the variables to add a trace for each one</span>
-<span class="k">for</span> <span class="n">var</span><span class="p">,</span> <span class="n">color</span> <span class="ow">in</span> <span class="n">variables</span><span class="p">:</span>
-    <span class="n">name</span> <span class="o">=</span> <span class="n">var</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s2">&quot;(&quot;</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
-    <span class="n">fig3</span><span class="o">.</span><span class="n">add_trace</span><span class="p">(</span><span class="n">go</span><span class="o">.</span><span class="n">Bar</span><span class="p">(</span>
-        <span class="n">y</span><span class="o">=</span><span class="n">df3</span><span class="p">[</span><span class="s2">&quot;Bedrijfstak&quot;</span><span class="p">],</span>
-        <span class="n">x</span><span class="o">=</span><span class="n">df3</span><span class="p">[</span><span class="n">var</span><span class="p">],</span>
-        <span class="n">name</span><span class="o">=</span><span class="n">name</span><span class="p">,</span>
-        <span class="n">orientation</span><span class="o">=</span><span class="s1">&#39;h&#39;</span><span class="p">,</span>
-        <span class="n">hovertemplate</span><span class="o">=</span><span class="sa">f</span><span class="s1">&#39;%</span><span class="se">{{</span><span class="s1">y</span><span class="se">}}</span><span class="s1">&lt;br&gt;</span><span class="si">{</span><span class="n">name</span><span class="si">}</span><span class="s1">: &lt;b&gt;%</span><span class="se">{{</span><span class="s1">x</span><span class="se">}}</span><span class="s1">% (very) satisfied&lt;/b&gt;&lt;extra&gt;&lt;/extra&gt;&#39;</span><span class="p">,</span>
-        <span class="n">marker_color</span><span class="o">=</span><span class="n">color</span>
-    <span class="p">))</span>
+<span class="c1"># Load the population data from the provided CSV file</span>
+<span class="n">population_file_path</span> <span class="o">=</span> <span class="s1">&#39;DataSets/european_population.csv&#39;</span>
+<span class="n">population_data</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">population_file_path</span><span class="p">)</span>
 
-<span class="c1"># Customize the plot layout</span>
-<span class="n">fig3</span><span class="o">.</span><span class="n">update_layout</span><span class="p">(</span>
-    <span class="n">plot_bgcolor</span><span class="o">=</span><span class="s1">&#39;white&#39;</span><span class="p">,</span>
-    <span class="n">title</span><span class="o">=</span><span class="s2">&quot;Percentage of employees satisfied with&lt;br&gt;collective agreement and salary (15-74 yrs), 2022&quot;</span><span class="p">,</span>
-    <span class="n">xaxis</span><span class="o">=</span><span class="nb">dict</span><span class="p">(</span><span class="n">title</span><span class="o">=</span><span class="s1">&#39;&#39;</span><span class="p">,</span> <span class="n">title_standoff</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">automargin</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="nb">range</span><span class="o">=</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span> <span class="mi">100</span><span class="p">]),</span>  <span class="c1"># Hide the original x-axis title</span>
-    <span class="n">yaxis</span><span class="o">=</span><span class="nb">dict</span><span class="p">(</span><span class="n">title</span><span class="o">=</span><span class="s1">&#39;&#39;</span><span class="p">,</span> <span class="n">autorange</span><span class="o">=</span><span class="s2">&quot;reversed&quot;</span><span class="p">,</span> <span class="n">automargin</span><span class="o">=</span><span class="kc">True</span><span class="p">),</span>  <span class="c1"># Remove y-axis title and add more whitespace between items</span>
-    <span class="n">legend</span><span class="o">=</span><span class="nb">dict</span><span class="p">(</span><span class="n">title</span><span class="o">=</span><span class="s1">&#39;&#39;</span><span class="p">,</span> <span class="n">orientation</span><span class="o">=</span><span class="s1">&#39;h&#39;</span><span class="p">,</span> <span class="n">yanchor</span><span class="o">=</span><span class="s1">&#39;bottom&#39;</span><span class="p">,</span> <span class="n">y</span><span class="o">=-</span><span class="mf">0.3</span><span class="p">,</span> <span class="n">xanchor</span><span class="o">=</span><span class="s1">&#39;right&#39;</span><span class="p">,</span> <span class="n">x</span><span class="o">=</span><span class="mf">0.04</span><span class="p">),</span>  <span class="c1"># Update legend settings</span>
-    <span class="n">barmode</span><span class="o">=</span><span class="s1">&#39;group&#39;</span><span class="p">,</span>  <span class="c1"># Stack bars instead of placing them side-by-side</span>
-    <span class="n">height</span><span class="o">=</span><span class="mi">600</span><span class="p">,</span>
-    <span class="n">annotations</span><span class="o">=</span><span class="p">[</span><span class="nb">dict</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="mf">1.015</span><span class="p">,</span> <span class="n">y</span><span class="o">=-</span><span class="mf">0.15</span><span class="p">,</span> <span class="n">xref</span><span class="o">=</span><span class="s1">&#39;paper&#39;</span><span class="p">,</span> <span class="n">yref</span><span class="o">=</span><span class="s1">&#39;paper&#39;</span><span class="p">,</span> <span class="n">showarrow</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="s2">&quot;(%) very satisfied&quot;</span><span class="p">)]</span>  <span class="c1"># Add annotation as x-axis title</span>
-<span class="p">)</span>
+<span class="c1"># Load the refugee data from the provided CSV file</span>
+<span class="n">refugee_file_path</span> <span class="o">=</span> <span class="s1">&#39;DataSets/UN_European_Countries_Refugee_Data.csv&#39;</span>
+<span class="n">refugee_data</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">refugee_file_path</span><span class="p">)</span>
 
-<span class="c1"># Show the plot</span>
-<span class="n">fig3</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+<span class="c1"># Merge refugee data with population data</span>
+<span class="c1"># For simplicity, we&#39;ll use the 2022 population data for all years</span>
+<span class="n">population_2022</span> <span class="o">=</span> <span class="n">population_data</span><span class="p">[[</span><span class="s1">&#39;Country/Territory&#39;</span><span class="p">,</span> <span class="s1">&#39;2022 Population&#39;</span><span class="p">]]</span>
+<span class="n">population_2022</span><span class="o">.</span><span class="n">columns</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;Country of asylum&#39;</span><span class="p">,</span> <span class="s1">&#39;Population&#39;</span><span class="p">]</span>
+
+<span class="c1"># Merge population data with refugee data</span>
+<span class="n">data_with_population</span> <span class="o">=</span> <span class="n">refugee_data</span><span class="o">.</span><span class="n">merge</span><span class="p">(</span><span class="n">population_2022</span><span class="p">,</span> <span class="n">on</span><span class="o">=</span><span class="s1">&#39;Country of asylum&#39;</span><span class="p">,</span> <span class="n">how</span><span class="o">=</span><span class="s1">&#39;left&#39;</span><span class="p">)</span>
+
+<span class="c1"># Calculate refugees per capita</span>
+<span class="n">data_with_population</span><span class="p">[</span><span class="s1">&#39;Refugees per 1000&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="p">(</span><span class="n">data_with_population</span><span class="p">[</span><span class="s1">&#39;Refugees under UNHCR</span><span class="se">\&#39;</span><span class="s1">s mandate&#39;</span><span class="p">]</span> <span class="o">/</span> <span class="n">data_with_population</span><span class="p">[</span><span class="s1">&#39;Population&#39;</span><span class="p">])</span> <span class="o">*</span> <span class="mi">1000</span>
+
+<span class="c1"># Extract relevant columns and group by year and country</span>
+<span class="n">data_grouped_per_capita</span> <span class="o">=</span> <span class="n">data_with_population</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s1">&#39;Year&#39;</span><span class="p">,</span> <span class="s1">&#39;Country of asylum&#39;</span><span class="p">])[</span><span class="s1">&#39;Refugees per 1000&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span><span class="o">.</span><span class="n">unstack</span><span class="p">()</span>
+
+<span class="c1"># Calculate the average line</span>
+<span class="n">average_line_per_capita</span> <span class="o">=</span> <span class="n">data_grouped_per_capita</span><span class="o">.</span><span class="n">mean</span><span class="p">(</span><span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+
+<span class="c1"># Re-calculate top 10 countries by average refugee intake per capita</span>
+<span class="n">average_refugees_per_year_per_capita</span> <span class="o">=</span> <span class="n">data_grouped_per_capita</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span>
+<span class="n">top_10_avg_countries_per_capita</span> <span class="o">=</span> <span class="n">average_refugees_per_year_per_capita</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="n">ascending</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span><span class="o">.</span><span class="n">index</span>
+
+<span class="c1"># Create a distinct color map for the top 10 average countries</span>
+<span class="n">top_10_avg_colors_per_capita</span> <span class="o">=</span> <span class="p">{</span><span class="n">country</span><span class="p">:</span> <span class="n">color</span> <span class="k">for</span> <span class="n">country</span><span class="p">,</span> <span class="n">color</span> <span class="ow">in</span> <span class="nb">zip</span><span class="p">(</span><span class="n">top_10_avg_countries_per_capita</span><span class="p">,</span> <span class="n">plt</span><span class="o">.</span><span class="n">cm</span><span class="o">.</span><span class="n">tab10</span><span class="o">.</span><span class="n">colors</span><span class="p">)}</span>
+
+<span class="c1"># Calculate the average line for the top 10 average countries</span>
+<span class="n">top_10_avg_countries_data_per_capita</span> <span class="o">=</span> <span class="n">data_grouped_per_capita</span><span class="p">[</span><span class="n">top_10_avg_countries_per_capita</span><span class="p">]</span>
+<span class="n">top_10_avg_line_per_capita</span> <span class="o">=</span> <span class="n">top_10_avg_countries_data_per_capita</span><span class="o">.</span><span class="n">mean</span><span class="p">(</span><span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+
+<span class="c1"># Plot for the top 10 average countries per capita</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">14</span><span class="p">,</span> <span class="mi">8</span><span class="p">))</span>
+<span class="k">for</span> <span class="n">country</span> <span class="ow">in</span> <span class="n">top_10_avg_countries_per_capita</span><span class="p">:</span>
+    <span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">data_grouped_per_capita</span><span class="o">.</span><span class="n">index</span><span class="p">,</span> <span class="n">data_grouped_per_capita</span><span class="p">[</span><span class="n">country</span><span class="p">],</span> <span class="n">label</span><span class="o">=</span><span class="n">country</span><span class="p">,</span> <span class="n">linestyle</span><span class="o">=</span><span class="s1">&#39;-&#39;</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="n">top_10_avg_colors_per_capita</span><span class="p">[</span><span class="n">country</span><span class="p">])</span>
+
+<span class="c1"># Plot the top 10 average line with a different striped style</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">data_grouped_per_capita</span><span class="o">.</span><span class="n">index</span><span class="p">,</span> <span class="n">top_10_avg_line_per_capita</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">&#39;Top 10 Avg Countries Average&#39;</span><span class="p">,</span> <span class="n">linestyle</span><span class="o">=</span><span class="n">striped_line</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">&#39;grey&#39;</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+
+<span class="c1"># Set plot title and labels</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">&#39;Refugee Intake Over the Years per European Country (Per Capita) - Top 10 Avg Countries&#39;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s1">&#39;Year&#39;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">&#39;Number of Refugees per 1000 People&#39;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">xticks</span><span class="p">(</span><span class="n">rotation</span><span class="o">=</span><span class="mi">45</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">yticks</span><span class="p">(</span><span class="n">rotation</span><span class="o">=</span><span class="mi">45</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">ticklabel_format</span><span class="p">(</span><span class="n">style</span><span class="o">=</span><span class="s1">&#39;plain&#39;</span><span class="p">,</span> <span class="n">axis</span><span class="o">=</span><span class="s1">&#39;y&#39;</span><span class="p">)</span>
+
+<span class="c1"># Add legend</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">legend</span><span class="p">(</span><span class="n">loc</span><span class="o">=</span><span class="s1">&#39;upper left&#39;</span><span class="p">,</span> <span class="n">bbox_to_anchor</span><span class="o">=</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">))</span>
+
+<span class="c1"># Display the plot</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">tight_layout</span><span class="p">()</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+
+<span class="c1"># Calculate the average line for the countries below top 10 average</span>
+<span class="n">below_top_10_avg_countries_per_capita</span> <span class="o">=</span> <span class="n">average_refugees_per_year_per_capita</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="n">ascending</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span><span class="o">.</span><span class="n">iloc</span><span class="p">[</span><span class="mi">10</span><span class="p">:]</span><span class="o">.</span><span class="n">index</span>
+<span class="n">below_top_10_avg_countries_data_per_capita</span> <span class="o">=</span> <span class="n">data_grouped_per_capita</span><span class="p">[</span><span class="n">below_top_10_avg_countries_per_capita</span><span class="p">]</span>
+<span class="n">below_top_10_avg_line_per_capita</span> <span class="o">=</span> <span class="n">below_top_10_avg_countries_data_per_capita</span><span class="o">.</span><span class="n">mean</span><span class="p">(</span><span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+
+<span class="c1"># Plot for the countries below top 10 average per capita</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">14</span><span class="p">,</span> <span class="mi">8</span><span class="p">))</span>
+<span class="k">for</span> <span class="n">country</span> <span class="ow">in</span> <span class="n">below_top_10_avg_countries_per_capita</span><span class="p">:</span>
+    <span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">data_grouped_per_capita</span><span class="o">.</span><span class="n">index</span><span class="p">,</span> <span class="n">data_grouped_per_capita</span><span class="p">[</span><span class="n">country</span><span class="p">],</span> <span class="n">label</span><span class="o">=</span><span class="n">country</span><span class="p">,</span> <span class="n">linestyle</span><span class="o">=</span><span class="nb">next</span><span class="p">(</span><span class="n">itertools</span><span class="o">.</span><span class="n">cycle</span><span class="p">(</span><span class="n">line_styles</span><span class="p">)),</span> <span class="n">color</span><span class="o">=</span><span class="nb">next</span><span class="p">(</span><span class="n">remaining_colors</span><span class="p">))</span>
+
+<span class="c1"># Plot the below top 10 average line with a different striped style</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">data_grouped_per_capita</span><span class="o">.</span><span class="n">index</span><span class="p">,</span> <span class="n">below_top_10_avg_line_per_capita</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">&#39;Below Top 10 Avg Countries Average&#39;</span><span class="p">,</span> <span class="n">linestyle</span><span class="o">=</span><span class="n">striped_line</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">&#39;grey&#39;</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+
+<span class="c1"># Set plot title and labels</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">&#39;Refugee Intake Over the Years per European Country (Per Capita) - Below Top 10 Avg Countries&#39;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s1">&#39;Year&#39;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">&#39;Number of Refugees per 1000 People&#39;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">xticks</span><span class="p">(</span><span class="n">rotation</span><span class="o">=</span><span class="mi">45</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">yticks</span><span class="p">(</span><span class="n">rotation</span><span class="o">=</span><span class="mi">45</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">ticklabel_format</span><span class="p">(</span><span class="n">style</span><span class="o">=</span><span class="s1">&#39;plain&#39;</span><span class="p">,</span> <span class="n">axis</span><span class="o">=</span><span class="s1">&#39;y&#39;</span><span class="p">)</span>
+
+<span class="c1"># Add legend</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">legend</span><span class="p">(</span><span class="n">loc</span><span class="o">=</span><span class="s1">&#39;upper left&#39;</span><span class="p">,</span> <span class="n">bbox_to_anchor</span><span class="o">=</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">))</span>
+
+<span class="c1"># Display the plot</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">tight_layout</span><span class="p">()</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+
+<span class="c1"># Plot for all countries with per capita values</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">14</span><span class="p">,</span> <span class="mi">8</span><span class="p">))</span>
+<span class="k">for</span> <span class="n">country</span> <span class="ow">in</span> <span class="n">data_grouped_per_capita</span><span class="o">.</span><span class="n">columns</span><span class="p">:</span>
+    <span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">data_grouped_per_capita</span><span class="o">.</span><span class="n">index</span><span class="p">,</span> <span class="n">data_grouped_per_capita</span><span class="p">[</span><span class="n">country</span><span class="p">],</span> <span class="n">label</span><span class="o">=</span><span class="n">country</span><span class="p">,</span> <span class="n">linestyle</span><span class="o">=</span><span class="nb">next</span><span class="p">(</span><span class="n">itertools</span><span class="o">.</span><span class="n">cycle</span><span class="p">(</span><span class="n">line_styles</span><span class="p">)),</span> <span class="n">color</span><span class="o">=</span><span class="nb">next</span><span class="p">(</span><span class="n">remaining_colors</span><span class="p">))</span>
+
+<span class="c1"># Plot the average line with a striped style</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">data_grouped_per_capita</span><span class="o">.</span><span class="n">index</span><span class="p">,</span> <span class="n">average_line_per_capita</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">&#39;Average&#39;</span><span class="p">,</span> <span class="n">linestyle</span><span class="o">=</span><span class="n">striped_line</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">&#39;black&#39;</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+
+<span class="c1"># Set plot title and labels</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">&#39;Refugee Intake Over the Years per European Country (Per Capita)&#39;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s1">&#39;Year&#39;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">&#39;Number of Refugees per 1000 People&#39;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">xticks</span><span class="p">(</span><span class="n">rotation</span><span class="o">=</span><span class="mi">45</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">yticks</span><span class="p">(</span><span class="n">rotation</span><span class="o">=</span><span class="mi">45</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">ticklabel_format</span><span class="p">(</span><span class="n">style</span><span class="o">=</span><span class="s1">&#39;plain&#39;</span><span class="p">,</span> <span class="n">axis</span><span class="o">=</span><span class="s1">&#39;y&#39;</span><span class="p">)</span>
+
+<span class="c1"># Add legend</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">legend</span><span class="p">(</span><span class="n">loc</span><span class="o">=</span><span class="s1">&#39;upper left&#39;</span><span class="p">,</span> <span class="n">bbox_to_anchor</span><span class="o">=</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">))</span>
+
+<span class="c1"># Display the plot</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">tight_layout</span><span class="p">()</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </pre></div>
 </div>
 </div>
 </details>
 <div class="cell_output docutils container">
-<div class="output text_html"><div>                            <div id="48bc5e12-5cad-4f30-be70-0e4c98431dd3" class="plotly-graph-div" style="height:600px; width:100%;"></div>            <script type="text/javascript">                require(["plotly"], function(Plotly) {                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById("48bc5e12-5cad-4f30-be70-0e4c98431dd3")) {                    Plotly.newPlot(                        "48bc5e12-5cad-4f30-be70-0e4c98431dd3",                        [{"hovertemplate":"%{y}<br>Collective agreement: <b>%{x}% (very) satisfied</b><extra></extra>","marker":{"color":"#00a1cd"},"name":"Collective agreement","orientation":"h","x":[88.1,87.8,85.0,84.0,80.9,79.5,74.5,73.3,72.7,72.4,72.4,68.9,65.8],"y":["Education","Public administration","Agriculture, forestry and fisheries","Construction","Manufacturing","Financial institutions","Health and care","Accommodation and food services","Wholesale and retail","Culture, sports, recreation,other services","Business services,real estate","Transportation and storage","Information and communication"],"type":"bar"},{"hovertemplate":"%{y}<br>Salary: <b>%{x}% (very) satisfied</b><extra></extra>","marker":{"color":"#0058b8"},"name":"Salary","orientation":"h","x":[79.9,86.5,81.7,80.4,79.1,88.3,66.2,69.6,68.0,70.6,74.3,68.3,76.8],"y":["Education","Public administration","Agriculture, forestry and fisheries","Construction","Manufacturing","Financial institutions","Health and care","Accommodation and food services","Wholesale and retail","Culture, sports, recreation,other services","Business services,real estate","Transportation and storage","Information and communication"],"type":"bar"}],                        {"template":{"data":{"histogram2dcontour":[{"type":"histogram2dcontour","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"choropleth":[{"type":"choropleth","colorbar":{"outlinewidth":0,"ticks":""}}],"histogram2d":[{"type":"histogram2d","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"heatmap":[{"type":"heatmap","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"heatmapgl":[{"type":"heatmapgl","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"contourcarpet":[{"type":"contourcarpet","colorbar":{"outlinewidth":0,"ticks":""}}],"contour":[{"type":"contour","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"surface":[{"type":"surface","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"mesh3d":[{"type":"mesh3d","colorbar":{"outlinewidth":0,"ticks":""}}],"scatter":[{"fillpattern":{"fillmode":"overlay","size":10,"solidity":0.2},"type":"scatter"}],"parcoords":[{"type":"parcoords","line":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatterpolargl":[{"type":"scatterpolargl","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"bar":[{"error_x":{"color":"#2a3f5f"},"error_y":{"color":"#2a3f5f"},"marker":{"line":{"color":"#E5ECF6","width":0.5},"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"bar"}],"scattergeo":[{"type":"scattergeo","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatterpolar":[{"type":"scatterpolar","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"histogram":[{"marker":{"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"histogram"}],"scattergl":[{"type":"scattergl","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatter3d":[{"type":"scatter3d","line":{"colorbar":{"outlinewidth":0,"ticks":""}},"marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scattermapbox":[{"type":"scattermapbox","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatterternary":[{"type":"scatterternary","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scattercarpet":[{"type":"scattercarpet","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"carpet":[{"aaxis":{"endlinecolor":"#2a3f5f","gridcolor":"white","linecolor":"white","minorgridcolor":"white","startlinecolor":"#2a3f5f"},"baxis":{"endlinecolor":"#2a3f5f","gridcolor":"white","linecolor":"white","minorgridcolor":"white","startlinecolor":"#2a3f5f"},"type":"carpet"}],"table":[{"cells":{"fill":{"color":"#EBF0F8"},"line":{"color":"white"}},"header":{"fill":{"color":"#C8D4E3"},"line":{"color":"white"}},"type":"table"}],"barpolar":[{"marker":{"line":{"color":"#E5ECF6","width":0.5},"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"barpolar"}],"pie":[{"automargin":true,"type":"pie"}]},"layout":{"autotypenumbers":"strict","colorway":["#636efa","#EF553B","#00cc96","#ab63fa","#FFA15A","#19d3f3","#FF6692","#B6E880","#FF97FF","#FECB52"],"font":{"color":"#2a3f5f"},"hovermode":"closest","hoverlabel":{"align":"left"},"paper_bgcolor":"white","plot_bgcolor":"#E5ECF6","polar":{"bgcolor":"#E5ECF6","angularaxis":{"gridcolor":"white","linecolor":"white","ticks":""},"radialaxis":{"gridcolor":"white","linecolor":"white","ticks":""}},"ternary":{"bgcolor":"#E5ECF6","aaxis":{"gridcolor":"white","linecolor":"white","ticks":""},"baxis":{"gridcolor":"white","linecolor":"white","ticks":""},"caxis":{"gridcolor":"white","linecolor":"white","ticks":""}},"coloraxis":{"colorbar":{"outlinewidth":0,"ticks":""}},"colorscale":{"sequential":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"sequentialminus":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"diverging":[[0,"#8e0152"],[0.1,"#c51b7d"],[0.2,"#de77ae"],[0.3,"#f1b6da"],[0.4,"#fde0ef"],[0.5,"#f7f7f7"],[0.6,"#e6f5d0"],[0.7,"#b8e186"],[0.8,"#7fbc41"],[0.9,"#4d9221"],[1,"#276419"]]},"xaxis":{"gridcolor":"white","linecolor":"white","ticks":"","title":{"standoff":15},"zerolinecolor":"white","automargin":true,"zerolinewidth":2},"yaxis":{"gridcolor":"white","linecolor":"white","ticks":"","title":{"standoff":15},"zerolinecolor":"white","automargin":true,"zerolinewidth":2},"scene":{"xaxis":{"backgroundcolor":"#E5ECF6","gridcolor":"white","linecolor":"white","showbackground":true,"ticks":"","zerolinecolor":"white","gridwidth":2},"yaxis":{"backgroundcolor":"#E5ECF6","gridcolor":"white","linecolor":"white","showbackground":true,"ticks":"","zerolinecolor":"white","gridwidth":2},"zaxis":{"backgroundcolor":"#E5ECF6","gridcolor":"white","linecolor":"white","showbackground":true,"ticks":"","zerolinecolor":"white","gridwidth":2}},"shapedefaults":{"line":{"color":"#2a3f5f"}},"annotationdefaults":{"arrowcolor":"#2a3f5f","arrowhead":0,"arrowwidth":1},"geo":{"bgcolor":"white","landcolor":"#E5ECF6","subunitcolor":"white","showland":true,"showlakes":true,"lakecolor":"white"},"title":{"x":0.05},"mapbox":{"style":"light"}}},"xaxis":{"title":{"text":"","standoff":10},"automargin":true,"range":[0,100]},"yaxis":{"title":{"text":""},"autorange":"reversed","automargin":true},"legend":{"title":{"text":""},"orientation":"h","yanchor":"bottom","y":-0.3,"xanchor":"right","x":0.04},"plot_bgcolor":"white","title":{"text":"Percentage of employees satisfied with<br>collective agreement and salary (15-74 yrs), 2022"},"barmode":"group","height":600,"annotations":[{"showarrow":false,"text":"(%) very satisfied","x":1.015,"xref":"paper","y":-0.15,"yref":"paper"}]},                        {"responsive": true}                    ).then(function(){
-                            
-var gd = document.getElementById('48bc5e12-5cad-4f30-be70-0e4c98431dd3');
-var x = new MutationObserver(function (mutations, observer) {{
-        var display = window.getComputedStyle(gd).display;
-        if (!display || display === 'none') {{
-            console.log([gd, 'removed!']);
-            Plotly.purge(gd);
-            observer.disconnect();
-        }}
-}});
-
-// Listen for the removal of the full notebook cells
-var notebookContainer = gd.closest('#notebook-container');
-if (notebookContainer) {{
-    x.observe(notebookContainer, {childList: true});
-}}
-
-// Listen for the clearing of the current output cell
-var outputEl = gd.closest('.output');
-if (outputEl) {{
-    x.observe(outputEl, {childList: true});
-}}
-
-                        })                };                });            </script>        </div></div></div>
+<img alt="../_images/27a8e2177bdaeae27c6c4d8991044cfbdd94505ea0279fe72b16445701841479.png" src="../_images/27a8e2177bdaeae27c6c4d8991044cfbdd94505ea0279fe72b16445701841479.png" />
+<img alt="../_images/8ca615f3ede2f738337c95edeada47ab0b36a94e8eaee19bd9aa0df9fbce1810.png" src="../_images/8ca615f3ede2f738337c95edeada47ab0b36a94e8eaee19bd9aa0df9fbce1810.png" />
+<img alt="../_images/66fc2612d840ef304765d16a2bcd960dea1bf7c411de926b6c49560840c7e67d.png" src="../_images/66fc2612d840ef304765d16a2bcd960dea1bf7c411de926b6c49560840c7e67d.png" />
+</div>
 </div>
 <blockquote>
 <div><p><em>Figure 3: Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.</em></p>
 </div></blockquote>
 <p>Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores.</p>
+</section>
+<section id="the-third-argument-of-your-first-perspective">
+<h3>The Third Argument of Your First Perspective<a class="headerlink" href="#the-third-argument-of-your-first-perspective" title="Link to this heading">#</a></h3>
 </section>
 </section>
 <section id="your-second-perspective">
@@ -1152,6 +1325,9 @@ if (outputEl) {{
 <div><p><em>Figure 6: Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.</em></p>
 </div></blockquote>
 </section>
+<section id="the-third-argument-of-your-second-perspective">
+<h3>The Third Argument of Your Second Perspective<a class="headerlink" href="#the-third-argument-of-your-second-perspective" title="Link to this heading">#</a></h3>
+</section>
 </section>
 <section id="reflection">
 <h2>Reflection<a class="headerlink" href="#reflection" title="Link to this heading">#</a></h2>
@@ -1229,16 +1405,19 @@ if (outputEl) {{
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">Introduction</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#dataset-and-preprocessing">Dataset and Preprocessing</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#datasets">Datasets</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#preprocessing">Preprocessing</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#your-first-perspective">Your First Perspective</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-first-argument-of-your-first-perspective">The First Argument of Your First Perspective</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-second-argument-of-your-first-perspective">The Second Argument of Your First Perspective</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-third-argument-of-your-first-perspective">The Third Argument of Your First Perspective</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#your-second-perspective">Your Second Perspective</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-first-argument-of-your-second-perspective">The First Argument of Your Second Perspective</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-second-argument-of-your-second-perspective">The Second Argument of Your Second Perspective</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-third-argument-of-your-second-perspective">The Third Argument of Your Second Perspective</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflection">Reflection</a></li>
