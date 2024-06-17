@@ -4,18 +4,16 @@ import pandas as pd
 file_path = 'gdp_per_capita.csv'
 df = pd.read_csv(file_path)
 
-# List of European countries
-european_countries = [
-    'Albania', 'Andorra', 'Austria', 'Belarus', 'Belgium', 'Bosnia and Herzegovina', 
-    'Bulgaria', 'Croatia', 'Cyprus', 'Czech Republic', 'Denmark', 'Estonia', 'Finland', 'France', 
-    'Germany', 'Greece', 'Hungary', 'Iceland', 'Ireland', 'Italy', 'Kosovo', 'Latvia', 'Liechtenstein', 
-    'Lithuania', 'Luxembourg', 'Malta', 'Moldova', 'Monaco', 'Montenegro', 'Netherlands', 'North Macedonia', 
-    'Norway', 'Poland', 'Portugal', 'Romania', 'San Marino', 'Serbia', 'Slovakia', 'Slovenia', 'Spain', 'Sweden', 
-    'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'Vatican City'
+# List of ISO codes for European countries
+european_countries_iso = [
+    'ALB', 'AUT', 'BLR', 'BEL', 'BIH', 'BGR', 'HRV', 'CYP', 'CZE', 'DNK', 'EST', 
+    'FIN', 'FRA', 'DEU', 'GRC', 'HUN', 'ISL', 'IRL', 'ITA', 'LVA', 'LIE', 'LTU', 
+    'LUX', 'MLT', 'MDA', 'MCO', 'MNE', 'NLD', 'MKD', 'NOR', 'POL', 'PRT', 'ROU', 
+    'SRB', 'SVK', 'SVN', 'ESP', 'SWE', 'CHE', 'TUR', 'UKR', 'GBR'
 ]
 
-# Filter the dataframe to only include European countries
-european_df = df[df['Country Name'].isin(european_countries)]
+# Filter the dataframe to only include European countries using the 'Code' column for ISO codes
+european_df = df[df['Code'].isin(european_countries_iso)]
 
 # Save the filtered dataframe to a new CSV file
 output_file_path = 'european_countries_gdp_per_capita.csv'

@@ -4,18 +4,16 @@ import pandas as pd
 file_path = 'UN_World_Refugee Data.csv'
 data = pd.read_csv(file_path)
 
-# Extracting European countries excluding Russia
-european_countries = [
-    'Albania', 'Andorra', 'Austria', 'Belarus', 'Belgium', 'Bosnia and Herzegovina', 
-    'Bulgaria', 'Croatia', 'Cyprus', 'Czech Republic', 'Denmark', 'Estonia', 'Finland', 'France', 
-    'Germany', 'Greece', 'Hungary', 'Iceland', 'Ireland', 'Italy', 'Kosovo', 'Latvia', 'Liechtenstein', 
-    'Lithuania', 'Luxembourg', 'Malta', 'Moldova', 'Monaco', 'Montenegro', 'Netherlands', 'North Macedonia', 
-    'Norway', 'Poland', 'Portugal', 'Romania', 'San Marino', 'Serbia', 'Slovakia', 'Slovenia', 'Spain', 'Sweden', 
-    'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'Vatican City'
+# Filter the dataset for European countries excluding Russia using ISO codes
+european_countries_iso = [
+    'ALB', 'AUT', 'BLR', 'BEL', 'BIH', 'BGR', 'HRV', 'CYP', 'CZE', 'DNK', 'EST', 
+    'FIN', 'FRA', 'DEU', 'GRC', 'HUN', 'ISL', 'IRL', 'ITA', 'LVA', 'LIE', 'LTU', 
+    'LUX', 'MLT', 'MDA', 'MCO', 'MNE', 'NLD', 'MKD', 'NOR', 'POL', 'PRT', 'ROU', 
+    'SRB', 'SVK', 'SVN', 'ESP', 'SWE', 'CHE', 'TUR', 'UKR', 'GBR'
 ]
 
-# Filter the dataset for European countries excluding Russia
-european_data = data[data['Country of asylum'].isin(european_countries)]
+# Filter the dataset
+european_data = data[data['Country of asylum (ISO)'].isin(european_countries_iso)]
 
 # Save the filtered data to a new CSV file
 output_file_path = 'UN_European_Countries_Refugee_Data.csv'
