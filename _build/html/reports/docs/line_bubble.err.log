@@ -1,0 +1,77 @@
+Traceback (most recent call last):
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/jupyterbook/lib/python3.10/site-packages/jupyter_cache/executors/utils.py", line 58, in single_nb_execution
+    executenb(
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/jupyterbook/lib/python3.10/site-packages/nbclient/client.py", line 1314, in execute
+    return NotebookClient(nb=nb, resources=resources, km=km, **kwargs).execute()
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/jupyterbook/lib/python3.10/site-packages/jupyter_core/utils/__init__.py", line 165, in wrapped
+    return loop.run_until_complete(inner)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/jupyterbook/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/jupyterbook/lib/python3.10/site-packages/nbclient/client.py", line 709, in async_execute
+    await self.async_execute_cell(
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/jupyterbook/lib/python3.10/site-packages/nbclient/client.py", line 1062, in async_execute_cell
+    await self._check_raise_for_error(cell, cell_index, exec_reply)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/jupyterbook/lib/python3.10/site-packages/nbclient/client.py", line 918, in _check_raise_for_error
+    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
+nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
+------------------
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load the data
+file_path = 'DataSets/gdp_pop_ref_2020.csv'
+data = pd.read_csv(file_path, delimiter=';')
+
+# Remove non-finite values
+data_cleaned = data.dropna(subset=['GDP per Capita 2020']).reset_index(drop=True)
+
+# Calculate refugees per 1,000 population
+data_cleaned['Refugees per 1000 Population'] = data_cleaned['Refugees 2020'] / (data_cleaned['Population 2020'] / 1000)
+
+# Bubble chart with GDP per Capita (log scale) and Refugees per 1,000 Population (log scale)
+plt.figure(figsize=(12, 8))
+bubble_size = data_cleaned['Population 2020'] / 10000  # Adjust size for better visualization
+
+plt.scatter(data_cleaned['GDP per Capita 2020'], data_cleaned['Refugees per 1000 Population'], 
+            s=bubble_size, alpha=0.5, c='blue')
+
+plt.xscale('log')
+plt.yscale('log')
+plt.xlabel('GDP per Capita 2020 (log scale)')
+plt.ylabel('Refugees per 1000 Population (log scale)')
+plt.title('Bubble Chart: GDP per Capita vs Refugees per 1000 Population (2020)')
+plt.grid(True, which="both", ls="--")
+
+# Annotate each bubble with the country name
+for i in range(data_cleaned.shape[0]):
+    plt.text(data_cleaned['GDP per Capita 2020'][i], data_cleaned['Refugees per 1000 Population'][i], 
+             data_cleaned['Country'][i], fontsize=8, ha='right')
+
+plt.show()
+------------------
+
+
+[0;31m---------------------------------------------------------------------------[0m
+[0;31mKeyError[0m                                  Traceback (most recent call last)
+[0;32m/var/folders/lg/1qqry9s927n74196cshqj4lw0000gn/T/ipykernel_82382/4139090895.py[0m in [0;36m?[0;34m()[0m
+[1;32m      5[0m [0mfile_path[0m [0;34m=[0m [0;34m'DataSets/gdp_pop_ref_2020.csv'[0m[0;34m[0m[0;34m[0m[0m
+[1;32m      6[0m [0mdata[0m [0;34m=[0m [0mpd[0m[0;34m.[0m[0mread_csv[0m[0;34m([0m[0mfile_path[0m[0;34m,[0m [0mdelimiter[0m[0;34m=[0m[0;34m';'[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[1;32m      7[0m [0;34m[0m[0m
+[1;32m      8[0m [0;31m# Remove non-finite values[0m[0;34m[0m[0;34m[0m[0m
+[0;32m----> 9[0;31m [0mdata_cleaned[0m [0;34m=[0m [0mdata[0m[0;34m.[0m[0mdropna[0m[0;34m([0m[0msubset[0m[0;34m=[0m[0;34m[[0m[0;34m'GDP per Capita 2020'[0m[0;34m][0m[0;34m)[0m[0;34m.[0m[0mreset_index[0m[0;34m([0m[0mdrop[0m[0;34m=[0m[0;32mTrue[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[0m[1;32m     10[0m [0;34m[0m[0m
+[1;32m     11[0m [0;31m# Calculate refugees per 1,000 population[0m[0;34m[0m[0;34m[0m[0m
+[1;32m     12[0m [0mdata_cleaned[0m[0;34m[[0m[0;34m'Refugees per 1000 Population'[0m[0;34m][0m [0;34m=[0m [0mdata_cleaned[0m[0;34m[[0m[0;34m'Refugees 2020'[0m[0;34m][0m [0;34m/[0m [0;34m([0m[0mdata_cleaned[0m[0;34m[[0m[0;34m'Population 2020'[0m[0;34m][0m [0;34m/[0m [0;36m1000[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+
+[0;32m/opt/homebrew/Caskroom/miniconda/base/envs/jupyterbook/lib/python3.10/site-packages/pandas/core/frame.py[0m in [0;36m?[0;34m(self, axis, how, thresh, subset, inplace, ignore_index)[0m
+[1;32m   6666[0m             [0max[0m [0;34m=[0m [0mself[0m[0;34m.[0m[0m_get_axis[0m[0;34m([0m[0magg_axis[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[1;32m   6667[0m             [0mindices[0m [0;34m=[0m [0max[0m[0;34m.[0m[0mget_indexer_for[0m[0;34m([0m[0msubset[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[1;32m   6668[0m             [0mcheck[0m [0;34m=[0m [0mindices[0m [0;34m==[0m [0;34m-[0m[0;36m1[0m[0;34m[0m[0;34m[0m[0m
+[1;32m   6669[0m             [0;32mif[0m [0mcheck[0m[0;34m.[0m[0many[0m[0;34m([0m[0;34m)[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
+[0;32m-> 6670[0;31m                 [0;32mraise[0m [0mKeyError[0m[0;34m([0m[0mnp[0m[0;34m.[0m[0marray[0m[0;34m([0m[0msubset[0m[0;34m)[0m[0;34m[[0m[0mcheck[0m[0;34m][0m[0;34m.[0m[0mtolist[0m[0;34m([0m[0;34m)[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[0m[1;32m   6671[0m             [0magg_obj[0m [0;34m=[0m [0mself[0m[0;34m.[0m[0mtake[0m[0;34m([0m[0mindices[0m[0;34m,[0m [0maxis[0m[0;34m=[0m[0magg_axis[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[1;32m   6672[0m [0;34m[0m[0m
+[1;32m   6673[0m         [0;32mif[0m [0mthresh[0m [0;32mis[0m [0;32mnot[0m [0mlib[0m[0;34m.[0m[0mno_default[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
+
+[0;31mKeyError[0m: ['GDP per Capita 2020']
+
