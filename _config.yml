@@ -3,7 +3,7 @@
 
 title: Debates about the refugee crisis in Europe # Change this to your book title.
 author: K3 # Change this to your name (or your team/organization name).
-logo: ""logo.png
+logo: "logo.png"
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -24,7 +24,7 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  favicon: ""logo.png
+  favicon: "logo.png"
   use_issues_button: true
   use_repository_button: true
 
